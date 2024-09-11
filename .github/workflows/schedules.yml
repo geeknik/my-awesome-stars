@@ -8,6 +8,8 @@ jobs:
   update-awesome-stars:
     name: Update Awesome Stars
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python
@@ -22,13 +24,13 @@ jobs:
       run: echo "REPOSITORY_NAME=${GITHUB_REPOSITORY#*/}" >> $GITHUB_ENV
     - name: Update repo category by language
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_SECRET }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Awesome stars category by language update by GitHub Actions cron'
     - name: Update repo category by topic
       env:
-        GITHUB_TOKEN: ${{ secrets.GH_SECRET }}
+        GITHUB_TOKEN: ${{ secrets.PAT }}
         REPOSITORY: ${{ env.REPOSITORY_NAME }}
         USERNAME: ${{ github.repository_owner }}
       run: starred --username ${USERNAME} --repository ${REPOSITORY} --sort --token ${GITHUB_TOKEN} --message 'Awesome stars category by topic update by GitHub Actions cron' --topic --topic_limit 500 --filename topics.md
