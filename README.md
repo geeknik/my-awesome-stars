@@ -653,6 +653,7 @@
 
 ## JavaScript 
 
+- [meta-fx/Text-Obfuscator](https://github.com/meta-fx/Text-Obfuscator) - Red Teaming Tool
 - [kkomelin/isomorphic-dompurify](https://github.com/kkomelin/isomorphic-dompurify) - Use DOMPurify on server and client in the same way
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
@@ -1992,6 +1993,7 @@
 
 ## Svelte 
 
+- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [the-basilisk-ai/browser-burn](https://github.com/the-basilisk-ai/browser-burn) - Roast your Browsing History - AI Powered Chrome Extension
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
