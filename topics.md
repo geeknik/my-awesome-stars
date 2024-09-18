@@ -2522,6 +2522,8 @@
 
 ## others 
 
+- [meta-fx/Text-Obfuscator](https://github.com/meta-fx/Text-Obfuscator) - Red Teaming Tool
+- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [piqoni/cast-text](https://github.com/piqoni/cast-text) - A zero latency, easy-to-use full-text news terminal reader.
 - [Fraunhofer-IIS/ODAQ](https://github.com/Fraunhofer-IIS/ODAQ) - 
 - [pieeg-club/PiEEG-16](https://github.com/pieeg-club/PiEEG-16) - Measure 16 EEG channels with Shield PiEEG-16 and RaspberryPi
