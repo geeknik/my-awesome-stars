@@ -160,6 +160,7 @@
 - [numpy](#numpy)
 - [objective-c](#objective-c)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [operating-system](#operating-system)
@@ -235,6 +236,7 @@
 - [wordpress](#wordpress)
 - [xcode](#xcode)
 - [xml](#xml)
+- [zig](#zig)
 
 ## 3d 
 
@@ -243,6 +245,8 @@
 
 ## ai 
 
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
+- [Ravi-Teja-konda/Surveillance_Video_Summarizer](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) - VLM driven tool that processes surveillance videos, extracts frames, and generates insightful annotations using a fine-tuned Florence-2 Vision-Language Model. Includes a Gradio-based interface for que
 - [Adisol07/ReasoningAI](https://github.com/Adisol07/ReasoningAI) - Open source alternative to OpenAI o1 reasoning model
 - [greynewell/musegpt](https://github.com/greynewell/musegpt) - Local LLMs in your DAW!
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
@@ -322,7 +326,7 @@
 - [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 - [chain-ml/council](https://github.com/chain-ml/council) - Council is an open-source platform for the rapid development and robust deployment of customized generative AI applications
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [tigthor/neural-network-hacking](https://github.com/tigthor/neural-network-hacking) - Hacking the Singularity. Deep learning hacking. Weaponizing AI in Offensive security
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [mekb-turtle/discord-ai-bot](https://github.com/mekb-turtle/discord-ai-bot) - Discord AI chatbot using Ollama
@@ -513,6 +517,7 @@
 
 ## awesome-list 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
@@ -735,6 +740,7 @@
 
 ## chatgpt 
 
+- [Ravi-Teja-konda/Surveillance_Video_Summarizer](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) - VLM driven tool that processes surveillance videos, extracts frames, and generates insightful annotations using a fine-tuned Florence-2 Vision-Language Model. Includes a Gradio-based interface for que
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [4as/ChatGPT-DeMod](https://github.com/4as/ChatGPT-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
 - [sourceduty/World_Systems](https://github.com/sourceduty/World_Systems) - 🌐 Simulate and analyze global network or communication systems.
@@ -1469,6 +1475,7 @@
 
 ## golang 
 
+- [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [nixhantb/neuroflash](https://github.com/nixhantb/neuroflash) - A library for Data manipulation , Data Engineering and machine learning usecases with faster performance
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -2023,7 +2030,7 @@
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [user1342/Tomato](https://github.com/user1342/Tomato) - LLM steganography with minimum-entropy coupling - Hiding encrypted messages in natural language.
-- [deshraj/claude-memory](https://github.com/deshraj/claude-memory) - Claude Memory: Long-term memory for Claude
+- [mem0ai/claude-memory](https://github.com/mem0ai/claude-memory) - Claude Memory: Long-term memory for Claude
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supp
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [NVlabs/EAGLE](https://github.com/NVlabs/EAGLE) - EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
@@ -2450,6 +2457,58 @@
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
 - [AllskyTeam/allsky](https://github.com/AllskyTeam/allsky) - A Raspberry Pi operated Wireless Allsky Camera
 
+## openai 
+
+- [pseudotensor/open-strawberry](https://github.com/pseudotensor/open-strawberry) - Building open version of OpenAI o1 via reasoning traces (Groq, ollama, Anthropic, Gemini, OpenAI, Azure supported)
+- [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
+- [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless exper
+- [sourceduty/World_Systems](https://github.com/sourceduty/World_Systems) - 🌐 Simulate and analyze global network or communication systems.
+- [Wannabeasmartguy/RAGENT](https://github.com/Wannabeasmartguy/RAGENT) - Probably one of the lightest native RAG + Agent apps out there，experience the power of Agent-powered models and Agent-driven knowledge bases in one click, without complex configuration.
+- [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, langchain, DALL
+- [cpypasta/llm-web-agent](https://github.com/cpypasta/llm-web-agent) - A collection of tools that explore giving LLMs agency.
+- [Autonomy-Data-Unit/germ-demo](https://github.com/Autonomy-Data-Unit/germ-demo) - LLM-Powered Geopolitical and Environmental Risk Monitor for Companies House
+- [metaskills/experts](https://github.com/metaskills/experts) - Experts.js is the easiest way to create and deploy OpenAI's Assistants and link them together as Tools to create advanced Multi AI Agent Systems with expanded memory and attention to detail.
+- [evilsocket/nerve](https://github.com/evilsocket/nerve) - Instrument any LLM to do actual stuff.
+- [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners) - 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
+- [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
+- [Kav-K/GPTDiscord](https://github.com/Kav-K/GPTDiscord) - A robust, all-in-one GPT interface for Discord. ChatGPT-style conversations, image generation, AI-moderation, custom indexes/knowledgebase, youtube summarizer, and more!
+- [IntelligenzaArtificiale/Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT) - Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation do
+- [semanser/codel](https://github.com/semanser/codel) - ✨ Fully autonomous AI Agent that can perform complicated tasks and projects using terminal, browser, and editor.
+- [kreneskyp/ix](https://github.com/kreneskyp/ix) - Autonomous GPT-4 agent platform
+- [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
+- [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
+- [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
+- [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
+- [LUX-Space-Science-Technology/AI-Supported-Warnings-Notification-System-For-Natural-Disaster](https://github.com/LUX-Space-Science-Technology/AI-Supported-Warnings-Notification-System-For-Natural-Disaster) - Modular structure that feeds on instant data, warns about natural disasters and conveys what needs to be done
+- [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
+- [ANG13T/payload-wizard](https://github.com/ANG13T/payload-wizard) - AI assistant that utilizes GPT language models to interpret and generate cybersecurity payloads 🪄
+- [0x4D31/galah](https://github.com/0x4D31/galah) - Galah: An LLM-powered web honeypot.
+- [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
+- [Globe-Engineer/globot](https://github.com/Globe-Engineer/globot) - Globot is an agent that controls your browser using playwright and GPT-4V.
+- [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan) - A privacy-first, self-hosted, fully open source personal knowledge management software, written in typescript and golang.
+- [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
+- [SamurAIGPT/GPT-Agent](https://github.com/SamurAIGPT/GPT-Agent) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Secure open source cloud runtime for AI apps & AI agents
+- [Integral-Healthcare/robin-ai-reviewer](https://github.com/Integral-Healthcare/robin-ai-reviewer) - Robin is your AI pull request reviewer in the form of a super fast lightweight github action.
+- [paul-gauthier/aider](https://github.com/paul-gauthier/aider) - aider is AI pair programming in your terminal
+- [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI) - &lt;⚡️&gt; SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
+- [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer) - Platform to experiment with the AI Software Engineer. Terminal based. NOTE: Very different from https://gptengineer.app
+- [cooleydw494/codemonkeys](https://github.com/cooleydw494/codemonkeys) - A Python framework for GPT-driven automations, with an early emphasis on mass file operations.
+- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT) - AGiXT is a dynamic AI Agent Automation Platform that seamlessly orchestrates instruction management and complex task execution across diverse AI providers. Combining adaptive memory, smart features, a
+- [webgrip/PuttyGPT](https://github.com/webgrip/PuttyGPT) - Full Spectrum AI
+- [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
+- [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+
 ## opencv 
 
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system.
@@ -2522,6 +2581,10 @@
 
 ## others 
 
+- [discord/libdave](https://github.com/discord/libdave) - Libraries supporting Discord's Audio & Video End-to-End Encryption (DAVE) protocol
+- [win4r/o1](https://github.com/win4r/o1) - Using Groq or OpenAI or Ollama to create o1-like reasoning chains
+- [user1342/WargamesAI](https://github.com/user1342/WargamesAI) - Professional Wargaming LLM Toolbox
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [meta-fx/Text-Obfuscator](https://github.com/meta-fx/Text-Obfuscator) - Red Teaming Tool
 - [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [piqoni/cast-text](https://github.com/piqoni/cast-text) - A zero latency, easy-to-use full-text news terminal reader.
@@ -2682,7 +2745,7 @@
 - [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [xrandy00/mt_2022](https://github.com/xrandy00/mt_2022) - Repository containing source codes for my masters's thesis work.
-- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer for Postman Collections
+- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer for and Lightweight CLI Client Postman Collections
 - [StefanosChaliasos/Awesome-ZKP-Security](https://github.com/StefanosChaliasos/Awesome-ZKP-Security) - A curated list of awesome security resources for ZK.
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
@@ -3052,7 +3115,6 @@
 - [robocoder/rips-scanner](https://github.com/robocoder/rips-scanner) - RIPS - A static source code analyser for vulnerabilities in PHP scripts
 - [diegogurpegui/nos2x-fox](https://github.com/diegogurpegui/nos2x-fox) - nostr signer extension for Firefox
 - [os-scar/overlay](https://github.com/os-scar/overlay) - Overlay is a browser extension helping developers evaluate open source packages before picking them
-- [SamurAIGPT/GPT-Agent](https://github.com/SamurAIGPT/GPT-Agent) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [martinezpl/owlie-yt-addon](https://github.com/martinezpl/owlie-yt-addon) - Your wise, big-eyed Youtube assistant.
 - [pixray/pixray](https://github.com/pixray/pixray) - 
@@ -3089,7 +3151,6 @@
 - [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad) - You like pytorch? You like micrograd? You love tinygrad! ❤️
 - [AdmTal/crowdcast](https://github.com/AdmTal/crowdcast) - Converts a subreddit into a podcast
 - [Vision-CAIR/MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4) - Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
 - [hendricius/the-sourdough-framework](https://github.com/hendricius/the-sourdough-framework) - Open source book dedicated to helping you to make the best possible sourdough bread at home.
 - [TheSnowGuru/SimpleFast](https://github.com/TheSnowGuru/SimpleFast) - AI generated Coding Language
 - [CryptoDevWill/ArcAngelGPT](https://github.com/CryptoDevWill/ArcAngelGPT) - A simi and fully autonomous AI assistant using ChatGPT 3.5 turbo and gpt4.
@@ -3739,6 +3800,7 @@
 
 ## python 
 
+- [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - [ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 - [Cyfrin/moccasin](https://github.com/Cyfrin/moccasin) - Titanoboa-based vyper smart contract development framework
@@ -4035,6 +4097,7 @@
 
 ## rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
@@ -4086,6 +4149,7 @@
 
 ## security 
 
+- [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen) - LLM powered fuzzing via OSS-Fuzz.
 - [kkomelin/isomorphic-dompurify](https://github.com/kkomelin/isomorphic-dompurify) - Use DOMPurify on server and client in the same way
 - [reddelexc/hackerone-reports](https://github.com/reddelexc/hackerone-reports) - Top disclosed reports from HackerOne
@@ -4404,6 +4468,7 @@
 
 ## terminal 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
@@ -4586,6 +4651,7 @@
 
 ## windows 
 
+- [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [AnonCatalyst/Odinova](https://github.com/AnonCatalyst/Odinova) - Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and en
@@ -4625,6 +4691,10 @@
 - [rapid7/recog](https://github.com/rapid7/recog) - Pattern recognition for hosts, services, and content
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
+
+## zig 
+
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
 
 
 ## License
