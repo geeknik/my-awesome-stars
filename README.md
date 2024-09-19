@@ -74,6 +74,7 @@
 - [YAML](#yaml)
 - [YARA](#yara)
 - [Zeek](#zeek)
+- [Zig](#zig)
 - [q](#q)
 
 ## Adblock Filter List 
@@ -222,6 +223,7 @@
 
 ## C++ 
 
+- [discord/libdave](https://github.com/discord/libdave) - Libraries supporting Discord's Audio & Video End-to-End Encryption (DAVE) protocol
 - [greynewell/musegpt](https://github.com/greynewell/musegpt) - Local LLMs in your DAW!
 - [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
@@ -387,6 +389,7 @@
 
 ## Go 
 
+- [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [piqoni/cast-text](https://github.com/piqoni/cast-text) - A zero latency, easy-to-use full-text news terminal reader.
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [nixhantb/neuroflash](https://github.com/nixhantb/neuroflash) - A library for Data manipulation , Data Engineering and machine learning usecases with faster performance
@@ -414,7 +417,7 @@
 - [umair9747/seize](https://github.com/umair9747/seize) - A Command-line Utility written in Go for generating images of your CLI output using stdin
 - [lc/gau](https://github.com/lc/gau) - Fetch known URLs from AlienVault's Open Threat Exchange, the Wayback Machine, and Common Crawl.
 - [cgzirim/seek-tune](https://github.com/cgzirim/seek-tune) - An implementation of Shazam's song matching algorithm.
-- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer for Postman Collections
+- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer for and Lightweight CLI Client Postman Collections
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - Request analytics from the nginx access logs
 - [acheong08/apple-corelocation-experiments](https://github.com/acheong08/apple-corelocation-experiments) - Experimenting with Apple's WPS location service
 - [poundifdef/smoothmq](https://github.com/poundifdef/smoothmq) - An improved drop-in replacement for SQS
@@ -571,6 +574,7 @@
 
 ## HTML 
 
+- [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [justinphan3110cais/newspaper4k-forecasting-ai](https://github.com/justinphan3110cais/newspaper4k-forecasting-ai) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
@@ -653,13 +657,14 @@
 
 ## JavaScript 
 
+- [zlwaterfield/scramble](https://github.com/zlwaterfield/scramble) - Open-Source Grammarly Alternative
 - [meta-fx/Text-Obfuscator](https://github.com/meta-fx/Text-Obfuscator) - Red Teaming Tool
 - [kkomelin/isomorphic-dompurify](https://github.com/kkomelin/isomorphic-dompurify) - Use DOMPurify on server and client in the same way
 - [WebGoat/WebGoat](https://github.com/WebGoat/WebGoat) - WebGoat is a deliberately insecure application
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [ResidualLaugh/FindSomething](https://github.com/ResidualLaugh/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 - [bhavyagada/watdat](https://github.com/bhavyagada/watdat) - Wat dat (What's that?) is a browser extension to explain any highlighted text on the web page using AI.
-- [deshraj/claude-memory](https://github.com/deshraj/claude-memory) - Claude Memory: Long-term memory for Claude
+- [mem0ai/claude-memory](https://github.com/mem0ai/claude-memory) - Claude Memory: Long-term memory for Claude
 - [4as/ChatGPT-DeMod](https://github.com/4as/ChatGPT-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
 - [robin-collins/netsim](https://github.com/robin-collins/netsim) - NetSim is an AI-powered web application designed to generate highly interactive and detailed web simulations based on user descriptions.
 - [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn) - Tiny process execution for humans — a better child_process
@@ -1224,6 +1229,10 @@
 
 ## Python 
 
+- [pseudotensor/open-strawberry](https://github.com/pseudotensor/open-strawberry) - Building open version of OpenAI o1 via reasoning traces (Groq, ollama, Anthropic, Gemini, OpenAI, Azure supported)
+- [win4r/o1](https://github.com/win4r/o1) - Using Groq or OpenAI or Ollama to create o1-like reasoning chains
+- [Ravi-Teja-konda/Surveillance_Video_Summarizer](https://github.com/Ravi-Teja-konda/Surveillance_Video_Summarizer) - VLM driven tool that processes surveillance videos, extracts frames, and generates insightful annotations using a fine-tuned Florence-2 Vision-Language Model. Includes a Gradio-based interface for que
+- [user1342/WargamesAI](https://github.com/user1342/WargamesAI) - Professional Wargaming LLM Toolbox
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [Fraunhofer-IIS/ODAQ](https://github.com/Fraunhofer-IIS/ODAQ) - 
 - [pieeg-club/PiEEG-16](https://github.com/pieeg-club/PiEEG-16) - Measure 16 EEG channels with Shield PiEEG-16 and RaspberryPi
@@ -1539,7 +1548,7 @@
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
 - [kyegomez/swarms](https://github.com/kyegomez/swarms) - The Enterprise-Grade Production-Ready Multi-Agent Orchestration Framework Join our Community: https://discord.com/servers/agora-999382051935506503
 - [eschluntz/compress](https://github.com/eschluntz/compress) - Text compression for generating keyboard expansions
-- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Next generation face swapper and enhancer
+- [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [tigthor/neural-network-hacking](https://github.com/tigthor/neural-network-hacking) - Hacking the Singularity. Deep learning hacking. Weaponizing AI in Offensive security
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
@@ -1825,6 +1834,8 @@
 
 ## Rust 
 
+- [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
+- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
@@ -1993,7 +2004,6 @@
 
 ## Svelte 
 
-- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [the-basilisk-ai/browser-burn](https://github.com/the-basilisk-ai/browser-burn) - Roast your Browsing History - AI Powered Chrome Extension
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
@@ -2251,6 +2261,10 @@
 ## Zeek 
 
 - [CriticalPathSecurity/Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds) - Zeek-Formatted Threat Intelligence Feeds
+
+## Zig 
+
+- [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
 
 ## q 
 
