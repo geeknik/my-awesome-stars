@@ -418,6 +418,7 @@
 
 ## artificial-intelligence 
 
+- [Drlordbasil/RandomAIAutomationScripts](https://github.com/Drlordbasil/RandomAIAutomationScripts) - This repository showcases a variety of experimental scripts, driven by spontaneous creativity, serving as a testing ground for functions and techniques used in larger projects, with most scripts teste
 - [Adisol07/ReasoningAI](https://github.com/Adisol07/ReasoningAI) - Open source alternative to OpenAI o1 reasoning model
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
@@ -458,6 +459,7 @@
 
 ## automation 
 
+- [Drlordbasil/RandomAIAutomationScripts](https://github.com/Drlordbasil/RandomAIAutomationScripts) - This repository showcases a variety of experimental scripts, driven by spontaneous creativity, serving as a testing ground for functions and techniques used in larger projects, with most scripts teste
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [BenSFGamer/B.I.O.S.](https://github.com/BenSFGamer/B.I.O.S.) - A biographer
@@ -2023,6 +2025,7 @@
 
 ## llm 
 
+- [Drlordbasil/RandomAIAutomationScripts](https://github.com/Drlordbasil/RandomAIAutomationScripts) - This repository showcases a variety of experimental scripts, driven by spontaneous creativity, serving as a testing ground for functions and techniques used in larger projects, with most scripts teste
 - [hijkzzz/Awesome-LLM-Strawberry](https://github.com/hijkzzz/Awesome-LLM-Strawberry) - A collection of LLM papers, blogs, and projects, with a focus on OpenAI o1 and reasoning techniques.
 - [airtai/fastagency](https://github.com/airtai/fastagency) - The fastest way to bring multi-agent workflows to production.
 - [greynewell/musegpt](https://github.com/greynewell/musegpt) - Local LLMs in your DAW!
@@ -2152,6 +2155,7 @@
 
 ## machine-learning 
 
+- [Drlordbasil/RandomAIAutomationScripts](https://github.com/Drlordbasil/RandomAIAutomationScripts) - This repository showcases a variety of experimental scripts, driven by spontaneous creativity, serving as a testing ground for functions and techniques used in larger projects, with most scripts teste
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - [ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 - [nixhantb/neuroflash](https://github.com/nixhantb/neuroflash) - A library for Data manipulation , Data Engineering and machine learning usecases with faster performance
@@ -2422,6 +2426,7 @@
 
 ## numpy 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 
 ## objective-c 
@@ -2466,7 +2471,8 @@
 
 ## openai 
 
-- [pseudotensor/open-strawberry](https://github.com/pseudotensor/open-strawberry) - Building open version of OpenAI o1 via reasoning traces (Groq, ollama, Anthropic, Gemini, OpenAI, Azure supported)
+- [Drlordbasil/RandomAIAutomationScripts](https://github.com/Drlordbasil/RandomAIAutomationScripts) - This repository showcases a variety of experimental scripts, driven by spontaneous creativity, serving as a testing ground for functions and techniques used in larger projects, with most scripts teste
+- [pseudotensor/open-strawberry](https://github.com/pseudotensor/open-strawberry) - Building open version of OpenAI o1 via reasoning traces (Groq, ollama, Anthropic, Gemini, OpenAI, Azure supported)  Demo: https://huggingface.co/spaces/pseudotensor/open-strawberry
 - [Codium-ai/pr-agent](https://github.com/Codium-ai/pr-agent) - 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
@@ -2588,6 +2594,10 @@
 
 ## others 
 
+- [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰
+- [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - NanoKVM: Affordable, Multifunctional, Nano RISC-V IP-KVM
+- [nazmul-ethi/Bypass-Four03](https://github.com/nazmul-ethi/Bypass-Four03) - Bypass-Four03 is a powerful bash tool designed to help testers bypass HTTP 403 forbidden errors through various path and header manipulation techniques. It also includes fuzzing for HTTP methods and p
+- [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🔥🕷️ Crawl4AI: Open-source LLM Friendly Web Crawler & Scrapper
 - [microsoft/GRIN-MoE](https://github.com/microsoft/GRIN-MoE) - 
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
@@ -2759,7 +2769,7 @@
 - [karpathy/nano-llama31](https://github.com/karpathy/nano-llama31) - nanoGPT style version of Llama 3.1
 - [black-forest-labs/flux](https://github.com/black-forest-labs/flux) - Official inference repo for FLUX.1 models
 - [xrandy00/mt_2022](https://github.com/xrandy00/mt_2022) - Repository containing source codes for my masters's thesis work.
-- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer for and Lightweight CLI Client Postman Collections
+- [kmarkela/duffman](https://github.com/kmarkela/duffman) - Fuzzer and Lightweight CLI Client for Postman Collections
 - [StefanosChaliasos/Awesome-ZKP-Security](https://github.com/StefanosChaliasos/Awesome-ZKP-Security) - A curated list of awesome security resources for ZK.
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
@@ -3814,6 +3824,7 @@
 
 ## python 
 
+- [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [rabbitstack/fibratus](https://github.com/rabbitstack/fibratus) - Adversary tradecraft detection, protection, and hunting
 - [Avaiga/taipy](https://github.com/Avaiga/taipy) - Turns Data and AI algorithms into production-ready web applications in no time.
 - [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - [ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
@@ -3935,6 +3946,7 @@
 
 ## python3 
 
+- [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [AnonCatalyst/Odinova](https://github.com/AnonCatalyst/Odinova) - Odinova Digital Tiger is an advanced application designed for Open-Source Intelligence (OSINT), equipped with versatile tools and a user-friendly interface to streamline investigative workflows and en
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [rfc-st/humble](https://github.com/rfc-st/humble) - A humble, and 𝗳𝗮𝘀𝘁, security-oriented HTTP headers analyzer.
