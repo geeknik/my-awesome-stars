@@ -312,7 +312,7 @@
 - [upscayl/upscayl](https://github.com/upscayl/upscayl) - 🆙 Upscayl - #1 Free and Open Source AI Image Upscaler for Linux, MacOS and Windows.
 - [kyegomez/AlphaFold3](https://github.com/kyegomez/AlphaFold3) - Implementation of Alpha Fold 3 from the paper: "Accurate structure prediction of biomolecular interactions with AlphaFold3" in PyTorch
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [lutzroeder/netron](https://github.com/lutzroeder/netron) - Visualizer for neural network, deep learning and machine learning models
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
@@ -403,7 +403,7 @@
 
 - [PicartaAI/Picarta-API](https://github.com/PicartaAI/Picarta-API) - Picarta AI Image Geolocalization API.
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
-- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool!
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [6abd/horus](https://github.com/6abd/horus) - An OSINT / digital forensics tool built in Python
@@ -429,7 +429,7 @@
 - [asavinov/intelligent-trading-bot](https://github.com/asavinov/intelligent-trading-bot) - Intelligent Trading Bot: Automatically generating signals and trading based on machine learning and feature engineering
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The all-in-one solution for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [lucidrains/grokfast-pytorch](https://github.com/lucidrains/grokfast-pytorch) - Explorations into the proposal from the paper "Grokfast, Accelerated Grokking by Amplifying Slow Gradients"
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [aiplanethub/beyondllm](https://github.com/aiplanethub/beyondllm) - Build, evaluate and observe LLM apps
@@ -913,7 +913,7 @@
 
 ## clojure 
 
-- [damn/core](https://github.com/damn/core) - Endless Vampire Roguelike
+- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 
 ## code 
 
@@ -1016,9 +1016,10 @@
 
 ## cybersecurity 
 
+- [center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow) - Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows f
 - [SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors at https://sentrypeer.org
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
-- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool!
 - [BushidoUK/Ransomware-Tool-Matrix](https://github.com/BushidoUK/Ransomware-Tool-Matrix) - A resource containing all the tools each ransomware gangs uses
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - serve as a reverse proxy to protect your web services from attacks and exploits.
 - [fr0gger/Awesome-GPT-Agents](https://github.com/fr0gger/Awesome-GPT-Agents) - A curated list of GPT agents for cybersecurity
@@ -1088,7 +1089,7 @@
 
 - [TomWright/dasel](https://github.com/TomWright/dasel) - Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single tool. Supports conversion between formats and can be used as a Go package.
 - [TheAlgorithms/Go](https://github.com/TheAlgorithms/Go) - Algorithms and Data Structures implemented in Go for beginners, following best practices.
-- [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [elastio/bon](https://github.com/elastio/bon) - Next gen compile-time-checked builder generator, named function's arguments, and more!
 
 ## data-visualization 
 
@@ -1185,6 +1186,7 @@
 
 ## docker 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [leozqin/precis](https://github.com/leozqin/precis) - Precis is an extensible self-hosted AI-enabled RSS reader with a focus on notifications and support for theming
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1392,6 +1394,7 @@
 
 ## game 
 
+- [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 - [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA) - Cataclysm - Dark Days Ahead. A turn-based survival game set in a post-apocalyptic world.
 - [litecanvas/game-engine](https://github.com/litecanvas/game-engine) - 🎮 Lightweight HTML5 canvas engine suitable for small games, prototypes and animations.
 - [plbrault/youre-the-os](https://github.com/plbrault/youre-the-os) - A game where you are a computer's OS and you have to manage processes, memory and I/O events.
@@ -1410,12 +1413,13 @@
 
 ## game-engine 
 
-- [damn/core](https://github.com/damn/core) - Endless Vampire Roguelike
+- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [litecanvas/game-engine](https://github.com/litecanvas/game-engine) - 🎮 Lightweight HTML5 canvas engine suitable for small games, prototypes and animations.
 
 ## gamedev 
 
+- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 - [cocos/cocos-engine](https://github.com/cocos/cocos-engine) - Cocos simplifies game creation and distribution with Cocos Creator, a free, open-source, cross-platform game engine. Empowering millions of developers to create high-performance, engaging 2D/3D games 
 - [litecanvas/game-engine](https://github.com/litecanvas/game-engine) - 🎮 Lightweight HTML5 canvas engine suitable for small games, prototypes and animations.
 - [endless-sky/endless-sky](https://github.com/endless-sky/endless-sky) - Space exploration, trading, and combat game.
@@ -1471,7 +1475,7 @@
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is the most powerful and reliable pooling solution for Go.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [DedSecInside/TorBot](https://github.com/DedSecInside/TorBot) - Dark Web OSINT Tool
@@ -1533,7 +1537,7 @@
 - [edoardottt/cariddi](https://github.com/edoardottt/cariddi) - Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more
 - [gophish/gophish](https://github.com/gophish/gophish) - Open-Source Phishing Toolkit
 - [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure, prevent secret leaks, and manage internal PKI
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [wader/fq](https://github.com/wader/fq) - jq for binary formats - tool, language and decoders for working with binary and text formats
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -1574,7 +1578,7 @@
 
 ## graphql 
 
-- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool!
 - [amplication/amplication](https://github.com/amplication/amplication) - 🔥🔥🔥 The Only Production-Ready AI-Powered Backend Code Generation
 - [twentyhq/twenty](https://github.com/twentyhq/twenty) - Building a modern alternative to Salesforce, powered by the community.
 
@@ -1870,6 +1874,7 @@
 
 ## javascript 
 
+- [lirantal/js-vulns-detector](https://github.com/lirantal/js-vulns-detector) - Inject JS to the DOM to find vulnerable JavaScript libraries
 - [0xedward/neuralyzer](https://github.com/0xedward/neuralyzer) - Chrome extension that wipes your sensitive data on the tab you are currently on
 - [jasmine/jasmine](https://github.com/jasmine/jasmine) - Simple JavaScript testing framework for browsers and node.js
 - [bhavyagada/watdat](https://github.com/bhavyagada/watdat) - Wat dat (What's that?) is a browser extension to explain any highlighted text on the web page using AI.
@@ -2061,7 +2066,7 @@
 - [codelion/optillm](https://github.com/codelion/optillm) - Optimizing inference proxy for LLMs
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [user1342/Tomato](https://github.com/user1342/Tomato) - LLM steganography with minimum-entropy coupling - Hiding encrypted messages in natural language.
-- [mem0ai/claude-memory](https://github.com/mem0ai/claude-memory) - Claude Memory: Long-term memory for Claude
+- [mem0ai/chrome-extension](https://github.com/mem0ai/chrome-extension) - Claude Memory: Long-term memory for Claude
 - [MLSysOps/MLE-agent](https://github.com/MLSysOps/MLE-agent) - 🤖 MLE-Agent: Your intelligent companion for seamless AI engineering and research. 🔍 Integrate with arxiv and paper with code to provide better code/research plans 🧰 OpenAI, Anthropic, Ollama, etc supp
 - [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt) - A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
 - [NVlabs/EAGLE](https://github.com/NVlabs/EAGLE) - EAGLE: Exploring The Design Space for Multimodal LLMs with Mixture of Encoders
@@ -2113,7 +2118,7 @@
 - [gabotechs/MusicGPT](https://github.com/gabotechs/MusicGPT) - Generate music based on natural language prompts using LLMs running locally
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one Desktop & Docker AI application with built-in RAG, AI agents, and more.
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [prompt-security/ps-fuzz](https://github.com/prompt-security/ps-fuzz) - Make your GenAI Apps Safe & Secure :rocket: Test & harden your system prompt
 - [nilsherzig/LLocalSearch](https://github.com/nilsherzig/LLocalSearch) - LLocalSearch is a completely locally running search aggregator using LLM Agents. The user can ask a question and the system will use a chain of LLMs to find the answer. The user can see the progress o
 - [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
@@ -2130,7 +2135,7 @@
 - [modal-labs/devlooper](https://github.com/modal-labs/devlooper) - A program synthesis agent that autonomously fixes its output by running tests!
 - [openchatai/copilot](https://github.com/openchatai/copilot) - 🤖 🔥 Language-to-actions engine
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -2268,6 +2273,7 @@
 
 ## markdown 
 
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers.
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [MacDownApp/macdown](https://github.com/MacDownApp/macdown) - Open source Markdown editor for macOS.
@@ -2414,6 +2420,7 @@
 
 ## nodejs 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [jofpin/synthBTC](https://github.com/jofpin/synthBTC) - A tool that uses advanced Monte Carlo simulations and Turbit parallel processing to create possible Bitcoin prediction scenarios.
 - [jofpin/turbit](https://github.com/jofpin/turbit) - Build applications, scripts, and automations powered by high-performance multicore computing using Node.js
@@ -2520,7 +2527,7 @@
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [Mintplex-Labs/openai-assistant-swarm](https://github.com/Mintplex-Labs/openai-assistant-swarm) - Introducing the Assistant Swarm. An extension to the OpenAI Node SDK to automatically delegate work to any assistant you create in OpenAi through one united interface and manager. Now you can delegate
 - [All-Hands-AI/OpenHands](https://github.com/All-Hands-AI/OpenHands) - 🙌 OpenHands: Code Less, Make More
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [deiucanta/chatpad](https://github.com/deiucanta/chatpad) - Not just another ChatGPT user-interface!
 - [LUX-Space-Science-Technology/AI-Supported-Warnings-Notification-System-For-Natural-Disaster](https://github.com/LUX-Space-Science-Technology/AI-Supported-Warnings-Notification-System-For-Natural-Disaster) - Modular structure that feeds on instant data, warns about natural disasters and conveys what needs to be done
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
@@ -2620,12 +2627,17 @@
 
 ## others 
 
+- [cozis/blogtech](https://github.com/cozis/blogtech) - Custom web server for my blog
+- [MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base](https://github.com/MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base) - This project is a third-person multiplayer game using Unity with Photon Fusion for networking. The game features a third-person controller setup with player movement, camera management using Cinemachi
+- [akirk/friends](https://github.com/akirk/friends) - A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications.
+- [yaotutu/rss-transformer](https://github.com/yaotutu/rss-transformer) - A self-hosted service to fetch, process, and redistribute RSS feeds with features like translation, summarization, and full-text retrieval.
+- [AppJail-makejails/miniflux](https://github.com/AppJail-makejails/miniflux) - Self-hosted software to read RSS/Atom/JSON feeds.
+- [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [sw33tLie/uff](https://github.com/sw33tLie/uff) - unleashed ffuf
 - [MalwareSupportGroup/PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop) - A BYOSI (Bring-Your-Own-Script-Interpreter) Rapid Payload Deployment Toolkit
 - [bitvora/haven](https://github.com/bitvora/haven) - High Availability Vault for Events on Nostr
 - [ExpiredPopsicle/SnekStudio](https://github.com/ExpiredPopsicle/SnekStudio) - Open-source VTuber software using Godot Engine!
 - [euandros/lnxhardening](https://github.com/euandros/lnxhardening) - Script de automação para aplicação de hardening de servidores linux, seja para as distribuições da família RHEL ou distribuições baseadas em Debian, tendo por referência o CIS Benchmark.
-- [AimRT/AimRT](https://github.com/AimRT/AimRT) - A high-performance runtime framework for modern robotics.
 - [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
@@ -3721,7 +3733,7 @@
 
 ## pentesting 
 
-- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool!
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) - Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [momenbasel/keyFinder](https://github.com/momenbasel/keyFinder) - Keyfinder🔑 is a tool that let you find keys while surfing the web!
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
@@ -3785,6 +3797,7 @@
 
 ## php 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [turboblack/HamsterCMS](https://github.com/turboblack/HamsterCMS) - Flat file cms HamsterCMS is the world's smallest and very simple multi-template flatfile PHP content management system
 - [visma-prodsec/confused](https://github.com/visma-prodsec/confused) - Tool to check for dependency confusion vulnerabilities in multiple package management systems
@@ -3910,7 +3923,7 @@
 - [seandearnaley/reddit-gpt-summarizer](https://github.com/seandearnaley/reddit-gpt-summarizer) - Reddit Summarizer using LLMs OpenAI/Anthropic, Streamlit + Python
 - [MattKeeley/Spoofy](https://github.com/MattKeeley/Spoofy) - Spoofy is a program that checks if a list of domains can be spoofed based on SPF and DMARC records.
 - [apify/crawlee-python](https://github.com/apify/crawlee-python) - Crawlee—A web scraping and browser automation library for Python to build reliable crawlers. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The all-in-one solution for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [Alfredredbird/tookie-osint](https://github.com/Alfredredbird/tookie-osint) - Tookie is a advanced OSINT information gathering tool that finds social media accounts based on inputs.
 - [tree-sitter/tree-sitter-python](https://github.com/tree-sitter/tree-sitter-python) - Python grammar for tree-sitter
 - [aydinnyunus/PackageSpy](https://github.com/aydinnyunus/PackageSpy) - PackageSpy is a versatile command-line tool designed to simplify the process of searching for packages on two popular package managers
@@ -4161,6 +4174,7 @@
 
 ## robotics 
 
+- [AimRT/AimRT](https://github.com/AimRT/AimRT) - A high-performance runtime framework for modern robotics.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [nasa-jpl/rosa](https://github.com/nasa-jpl/rosa) - ROSA 🤖 is an AI Agent designed to interact with ROS1- and ROS2-based robotics systems using natural language queries. ROSA helps robot developers inspect, diagnose, understand, and operate robots.
 - [cyberbotics/webots](https://github.com/cyberbotics/webots) - Webots Robot Simulator
@@ -4182,6 +4196,7 @@
 
 ## rust 
 
+- [zaknesler/blend](https://github.com/zaknesler/blend) - [wip] Self-hosted RSS reader made with Rust + Solid.js, packaged in a single binary
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
@@ -4194,7 +4209,7 @@
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
-- [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [elastio/bon](https://github.com/elastio/bon) - Next gen compile-time-checked builder generator, named function's arguments, and more!
 - [perpetual-ml/perpetual](https://github.com/perpetual-ml/perpetual) - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [aome510/spotify-player](https://github.com/aome510/spotify-player) - A Spotify player in the terminal with full feature parity
@@ -4403,6 +4418,7 @@
 
 ## self-hosted 
 
+- [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
@@ -4417,7 +4433,7 @@
 - [facundoolano/ngtop](https://github.com/facundoolano/ngtop) - Request analytics from the nginx access logs
 - [SilasMarvin/lsp-ai](https://github.com/SilasMarvin/lsp-ai) - LSP-AI is an open-source language server that serves as a backend for AI-powered functionality, designed to assist and empower software engineers, not replace them.
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system.
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Open source ngrok alternative designed for teams. Tunnel http, tcp or websocket connections.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
@@ -4696,6 +4712,7 @@
 
 ## vuejs 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [docusealco/docuseal](https://github.com/docusealco/docuseal) - Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
