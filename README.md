@@ -33,6 +33,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [MDX](#mdx)
 - [Makefile](#makefile)
@@ -100,6 +101,7 @@
 
 ## C 
 
+- [cozis/blogtech](https://github.com/cozis/blogtech) - Custom web server for my blog
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [dekuNukem/duckyPad-Pro](https://github.com/dekuNukem/duckyPad-Pro) - Advanced Input Automation with duckyScript
 - [haileys/jsos](https://github.com/haileys/jsos) - An operating system written in JavaScript
@@ -206,6 +208,7 @@
 
 ## C# # 
 
+- [MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base](https://github.com/MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base) - This project is a third-person multiplayer game using Unity with Photon Fusion for networking. The game features a third-person controller setup with player movement, camera management using Cinemachi
 - [reecdeep/segugio](https://github.com/reecdeep/segugio) - Segugio allows the execution and tracking of critical steps in the malware detonation process, from clicking on the first stage to extracting the malware's final stage configuration.
 - [Adisol07/ReasoningAI](https://github.com/Adisol07/ReasoningAI) - Open source alternative to OpenAI o1 reasoning model
 - [AElfProject/AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
@@ -345,7 +348,7 @@
 
 ## Clojure 
 
-- [damn/core](https://github.com/damn/core) - Endless Vampire Roguelike
+- [damn/clojure.world](https://github.com/damn/clojure.world) - 🌎 Crafting 🧙 worlds with alien 🛸 technology 👽
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 
 ## CodeQL 
@@ -496,7 +499,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [c0nrad/http2fuzz](https://github.com/c0nrad/http2fuzz) - HTTP/2 fuzzer written in Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.1, Mistral, Gemma 2, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
@@ -672,6 +675,7 @@
 
 ## JavaScript 
 
+- [lirantal/js-vulns-detector](https://github.com/lirantal/js-vulns-detector) - Inject JS to the DOM to find vulnerable JavaScript libraries
 - [ste-xx/gist-userscript-manager](https://github.com/ste-xx/gist-userscript-manager) - Userscript manager which based on Github Gist
 - [0xedward/neuralyzer](https://github.com/0xedward/neuralyzer) - Chrome extension that wipes your sensitive data on the tab you are currently on
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - Cybernetically enhanced web apps
@@ -684,7 +688,7 @@
 - [SadeghHayeri/GreenTunnel](https://github.com/SadeghHayeri/GreenTunnel) - GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.
 - [ResidualLaugh/FindSomething](https://github.com/ResidualLaugh/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
 - [bhavyagada/watdat](https://github.com/bhavyagada/watdat) - Wat dat (What's that?) is a browser extension to explain any highlighted text on the web page using AI.
-- [mem0ai/claude-memory](https://github.com/mem0ai/claude-memory) - Claude Memory: Long-term memory for Claude
+- [mem0ai/chrome-extension](https://github.com/mem0ai/chrome-extension) - Claude Memory: Long-term memory for Claude
 - [4as/ChatGPT-DeMod](https://github.com/4as/ChatGPT-DeMod) - Tampermonkey/Greasemonkey script that hides the moderation results when communicating with ChatGPT.
 - [robin-collins/netsim](https://github.com/robin-collins/netsim) - NetSim is an AI-powered web application designed to generate highly interactive and detailed web simulations based on user descriptions.
 - [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn) - Tiny process execution for humans — a better child_process
@@ -1002,6 +1006,10 @@
 - [lots-of-things/Story2Hallucination](https://github.com/lots-of-things/Story2Hallucination) - 
 - [aymericdamien/TensorFlow-Examples](https://github.com/aymericdamien/TensorFlow-Examples) - TensorFlow Tutorial and Examples for Beginners (support TF v1 & v2)
 
+## Kotlin 
+
+- [iamgio/quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers.
+
 ## Lua 
 
 - [victoni/Bug-Bounty-Scripts](https://github.com/victoni/Bug-Bounty-Scripts) - The scripts I write to help me on my bug bounty hunting
@@ -1045,6 +1053,7 @@
 
 ## Others 
 
+- [AppJail-makejails/miniflux](https://github.com/AppJail-makejails/miniflux) - Self-hosted software to read RSS/Atom/JSON feeds.
 - [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
 - [GreyNoise-Intelligence/2024-09-noise-storms](https://github.com/GreyNoise-Intelligence/2024-09-noise-storms) - Notes and receipts (PCAPs) for TCP and ICMP Noise Storms
 - [vlgiitr/papers_we_read](https://github.com/vlgiitr/papers_we_read) - Summaries for exciting works in the field of Deep Learning.
@@ -1200,6 +1209,7 @@
 
 ## PHP 
 
+- [akirk/friends](https://github.com/akirk/friends) - A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [harisec/orange-confusion-attacks](https://github.com/harisec/orange-confusion-attacks) - 
 - [medilies/xssless](https://github.com/medilies/xssless) - Clean your rich text from XSS threats.
@@ -1259,6 +1269,7 @@
 
 ## Python 
 
+- [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
 - [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
 - [yoheinakajima/instagraph](https://github.com/yoheinakajima/instagraph) - Converts text input or URL into knowledge graph and displays
@@ -1356,7 +1367,7 @@
 - [intelowlproject/IntelOwl](https://github.com/intelowlproject/IntelOwl) - IntelOwl: manage your Threat Intelligence at scale
 - [mrwadams/attackgen](https://github.com/mrwadams/attackgen) - AttackGen is a cybersecurity incident response testing tool that leverages the power of large language models and the comprehensive MITRE ATT&CK framework. The tool generates tailored incident respons
 - [mrwadams/stride-gpt](https://github.com/mrwadams/stride-gpt) - An AI-powered threat modeling tool that leverages OpenAI's GPT models to generate threat models for a given application based on the STRIDE methodology.
-- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool
+- [omar2535/GraphQLer](https://github.com/omar2535/GraphQLer) - 🔍A dependency-aware GraphQL API fuzzing tool!
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [mlcsec/huntsman](https://github.com/mlcsec/huntsman) - Email enumerator, username generator, and context validator for hunter.io, snov.io, and skrapp.io
@@ -1432,7 +1443,7 @@
 - [microsoft/graphrag](https://github.com/microsoft/graphrag) - A modular graph-based Retrieval-Augmented Generation (RAG) system
 - [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) - Ingest, parse, and optimize any data format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks
 - [fabriziosalmi/UglyFeed](https://github.com/fabriziosalmi/UglyFeed) - Retrieve, aggregate, filter, evaluate, rewrite and serve RSS feeds using Large Language Models for fun, research and learning purposes.
-- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The Elasticsearch for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
+- [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) - The all-in-one solution for RAG. Build, scale, and deploy state of the art Retrieval-Augmented Generation applications
 - [cambrian-mllm/cambrian](https://github.com/cambrian-mllm/cambrian) - Cambrian-1 is a family of multimodal LLMs with a vision-centric design.
 - [msoedov/agentic_security](https://github.com/msoedov/agentic_security) - Agentic LLM Vulnerability Scanner / AI red teaming kit
 - [modelscope/DiffSynth-Studio](https://github.com/modelscope/DiffSynth-Studio) - Enjoy the magic of Diffusion models!
@@ -1884,11 +1895,11 @@
 
 ## Rust 
 
+- [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [MalwareSupportGroup/PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop) - A BYOSI (Bring-Your-Own-Script-Interpreter) Rapid Payload Deployment Toolkit
 - [unixzii/ibackupextractor](https://github.com/unixzii/ibackupextractor) - A simple tool for extracting files from iOS backup archive.
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
-- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
 - [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - Library to build personalized AI powered by what you've seen, said, or heard. Works with Ollama. Alternative to Rewind.ai. Open. Secure. You own your data. Rust.
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
@@ -1899,7 +1910,7 @@
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [wez/wezterm](https://github.com/wez/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [servo/servo](https://github.com/servo/servo) - Servo, the embeddable, independent, memory-safe, modular, parallel web rendering engine
-- [elastio/bon](https://github.com/elastio/bon) - Generate builders for everything!
+- [elastio/bon](https://github.com/elastio/bon) - Next gen compile-time-checked builder generator, named function's arguments, and more!
 - [perpetual-ml/perpetual](https://github.com/perpetual-ml/perpetual) - A self-generalizing gradient boosting machine which doesn't need hyperparameter optimization
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [evilsocket/cake](https://github.com/evilsocket/cake) - Distributed LLM and StableDiffusion inference for mobile, desktop and server.
@@ -2061,9 +2072,10 @@
 
 ## Svelte 
 
+- [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [sissbruecker/linkding-extension](https://github.com/sissbruecker/linkding-extension) - Companion extension for linkding
 - [the-basilisk-ai/browser-burn](https://github.com/the-basilisk-ai/browser-burn) - Roast your Browsing History - AI Powered Chrome Extension
-- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for LLMs (Formerly Ollama WebUI)
+- [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly WebUI for AI (Formerly Ollama WebUI)
 - [mithril-security/blind_chat](https://github.com/mithril-security/blind_chat) - A fully in-browser privacy solution to make Conversational AI privacy-friendly
 - [PlebeianTech/plebeian-market](https://github.com/PlebeianTech/plebeian-market) - The Bitcoin-native self-sovereign marketplace
 - [bhupeshpr25/memegen](https://github.com/bhupeshpr25/memegen) - meme generator extension for firefox and chrome
@@ -2116,6 +2128,9 @@
 
 ## TypeScript 
 
+- [center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow) - Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows f
+- [zaknesler/blend](https://github.com/zaknesler/blend) - [wip] Self-hosted RSS reader made with Rust + Solid.js, packaged in a single binary
+- [yaotutu/rss-transformer](https://github.com/yaotutu/rss-transformer) - A self-hosted service to fetch, process, and redistribute RSS feeds with features like translation, summarization, and full-text retrieval.
 - [anysphere/priompt](https://github.com/anysphere/priompt) - Prompt design using JSX.
 - [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore) - Omnivore is a complete, open source read-it-later solution for people who like reading.
 - [withastro/storefront](https://github.com/withastro/storefront) - Astro for ecommerce 💰
@@ -2302,6 +2317,7 @@
 
 ## Vue 
 
+- [pietheinstrengholt/rssmonster](https://github.com/pietheinstrengholt/rssmonster) - Google Reader inspired self-hosted RSS reader written in VueJS with an Express NodeJS backend. RSSMonster is compatible with the Fever API.
 - [fayazara/feedful](https://github.com/fayazara/feedful) - A modern RSS reader in the style of Tweetdeck
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [AutomaApp/automa](https://github.com/AutomaApp/automa) - A browser extension for automating your browser by connecting blocks
