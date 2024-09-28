@@ -1270,6 +1270,10 @@
 
 ## Python 
 
+- [arphanetx/Monocle](https://github.com/arphanetx/Monocle) - Tooling backed by an LLM for performing natural language searches against compiled target binaries. Search for encryption code, password strings, vulnerabilities, etc.
+- [tenable/hidden-services-revealer](https://github.com/tenable/hidden-services-revealer) - 
+- [saw-your-packet/CloudShovel](https://github.com/saw-your-packet/CloudShovel) - A tool for scanning public or private AMIs for sensitive files and secrets. The tool follows the research made on AWS CloudQuarry where we scanned 20k+ public AMIs.
+- [RickdeJager/cupshax](https://github.com/RickdeJager/cupshax) - 
 - [Quehry/HelloBench](https://github.com/Quehry/HelloBench) - Code and data repository for HelloBench and HelloEval
 - [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
@@ -1943,7 +1947,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [noir-lang/noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [awslabs/snapchange](https://github.com/awslabs/snapchange) - Lightweight fuzzing of a memory snapshot using KVM
 - [quic/AFLTriage](https://github.com/quic/AFLTriage) - 
