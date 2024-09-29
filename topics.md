@@ -2621,6 +2621,8 @@
 
 ## others 
 
+- [orionw/promptriever](https://github.com/orionw/promptriever) - The first dense retrieval model that can be prompted like an LM
+- [Twist333d/omni-claude](https://github.com/Twist333d/omni-claude) - 🌟 OmniClaude is an implementation of a RAG system to give LLMs up-to-date knowledge
 - [arphanetx/Monocle](https://github.com/arphanetx/Monocle) - Tooling backed by an LLM for performing natural language searches against compiled target binaries. Search for encryption code, password strings, vulnerabilities, etc.
 - [tenable/hidden-services-revealer](https://github.com/tenable/hidden-services-revealer) - 
 - [saw-your-packet/CloudShovel](https://github.com/saw-your-packet/CloudShovel) - A tool for scanning public or private AMIs for sensitive files and secrets. The tool follows the research made on AWS CloudQuarry where we scanned 20k+ public AMIs.
@@ -3157,7 +3159,7 @@
 - [Smile4ever/Link-Investigator](https://github.com/Smile4ever/Link-Investigator) - Firefox addon to analyse web pages for dead links
 - [argit2/tabi](https://github.com/argit2/tabi) - 
 - [Kenqr/related-pages](https://github.com/Kenqr/related-pages) - A webextension which shows related pages of current page
-- [asamuzaK/sidebarTabs](https://github.com/asamuzaK/sidebarTabs) - Emulate tabs in sidebar
+- [asamuzaK/sidebarTabs](https://github.com/asamuzaK/sidebarTabs) - Emulates tabs in sidebar
 - [tani/tidy-tabs](https://github.com/tani/tidy-tabs) - 
 - [apple/ml-ferret](https://github.com/apple/ml-ferret) - 
 - [andyholmes/valent](https://github.com/andyholmes/valent) - Connect, control and sync devices
