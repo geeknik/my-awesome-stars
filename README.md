@@ -7,6 +7,7 @@
 
 - [Adblock Filter List](#adblock-filter-list)
 - [Assembly](#assembly)
+- [Awk](#awk)
 - [Batchfile](#batchfile)
 - [BlitzBasic](#blitzbasic)
 - [C](#c)
@@ -90,6 +91,11 @@
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - 📖 An approachable introduction to Assembly.
 
+## Awk 
+
+- [cljoly/readme-in-static-site](https://github.com/cljoly/readme-in-static-site) - 💎 Transform and insert your GitHub readme in your static site.
+- [nuex/zodiac](https://github.com/nuex/zodiac) - A static website generator written in awk and sh.
+
 ## Batchfile 
 
 - [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
@@ -101,6 +107,7 @@
 
 ## C 
 
+- [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [cozis/blogtech](https://github.com/cozis/blogtech) - Custom web server for my blog
 - [EliasOenal/multimon-ng](https://github.com/EliasOenal/multimon-ng) - 
 - [dekuNukem/duckyPad-Pro](https://github.com/dekuNukem/duckyPad-Pro) - Advanced Input Automation with duckyScript
@@ -208,6 +215,7 @@
 
 ## C# # 
 
+- [H4NM/WhoYouCalling](https://github.com/H4NM/WhoYouCalling) - Records an executable's network activity into a Full Packet Capture file (.pcap) and much more.
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base](https://github.com/MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base) - This project is a third-person multiplayer game using Unity with Photon Fusion for networking. The game features a third-person controller setup with player movement, camera management using Cinemachi
 - [reecdeep/segugio](https://github.com/reecdeep/segugio) - Segugio allows the execution and tracking of critical steps in the malware detonation process, from clicking on the first stage to extracting the malware's final stage configuration.
@@ -231,6 +239,7 @@
 
 ## C++ 
 
+- [Colton1skees/Dna](https://github.com/Colton1skees/Dna) - LLVM based static binary analysis framework
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [thiagoralves/OpenPLC_v3](https://github.com/thiagoralves/OpenPLC_v3) - OpenPLC Runtime version 3
@@ -684,6 +693,7 @@
 
 ## JavaScript 
 
+- [MingSun-Tse/LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow) - TensorFlow code for our ECCV'24 Workshop paper "LightAvatar: Efficient Head Avatar as Dynamic NeLF"
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [0-5788719150923125/ext](https://github.com/0-5788719150923125/ext) - browser extensions
 - [lirantal/js-vulns-detector](https://github.com/lirantal/js-vulns-detector) - Inject JS to the DOM to find vulnerable JavaScript libraries
@@ -1064,6 +1074,7 @@
 
 ## Others 
 
+- [Evi1Grey5/Recursive-Loader](https://github.com/Evi1Grey5/Recursive-Loader) - Recursive Loader
 - [AppJail-makejails/miniflux](https://github.com/AppJail-makejails/miniflux) - Self-hosted software to read RSS/Atom/JSON feeds.
 - [0xPugal/One-Liners](https://github.com/0xPugal/One-Liners) - A collection of one-liners for bug bounty hunting.
 - [GreyNoise-Intelligence/2024-09-noise-storms](https://github.com/GreyNoise-Intelligence/2024-09-noise-storms) - Notes and receipts (PCAPs) for TCP and ICMP Noise Storms
@@ -1280,6 +1291,8 @@
 
 ## Python 
 
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
+- [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [cai525/Transformer4SED](https://github.com/cai525/Transformer4SED) - This repository aims to collect Transformer-based sound event detection (SED) algorithms.
 - [gabrielchua/open-notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
 - [llllvvuu/instant_apply](https://github.com/llllvvuu/instant_apply) - proof-of-concept of Cursor's Instant Apply feature
@@ -1923,6 +1936,9 @@
 
 ## Rust 
 
+- [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
+- [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
 - [shouya/rss-funnel](https://github.com/shouya/rss-funnel) - Self-hosted RSS multi-tool
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [MalwareSupportGroup/PolyDrop](https://github.com/MalwareSupportGroup/PolyDrop) - A BYOSI (Bring-Your-Own-Script-Interpreter) Rapid Payload Deployment Toolkit
@@ -1970,7 +1986,7 @@
 - [extrawurst/gitui](https://github.com/extrawurst/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀
 - [mikedilger/gossip](https://github.com/mikedilger/gossip) - Gossip is a nostr client
 - [noir-lang/noir](https://github.com/noir-lang/noir) - Noir is a domain specific language for zero knowledge proofs
-- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - App framework for web, desktop, mobile, and more.
+- [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
 - [awslabs/snapchange](https://github.com/awslabs/snapchange) - Lightweight fuzzing of a memory snapshot using KVM
 - [quic/AFLTriage](https://github.com/quic/AFLTriage) - 
@@ -2159,6 +2175,11 @@
 
 ## TypeScript 
 
+- [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
+- [canalun/fuzzdiff](https://github.com/canalun/fuzzdiff) - fuzzer to detect side effects of third party script
+- [Sinaptik-AI/panda-etl](https://github.com/Sinaptik-AI/panda-etl) - No-code ETL and data pipelines with AI and NLP
+- [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
+- [pulkitsharma07/OnlyHumans-Proxy](https://github.com/pulkitsharma07/OnlyHumans-Proxy) - An experimental AntiBot, AntiCrawl reverse proxy for serving simple static content.
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow) - Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows f
@@ -2191,7 +2212,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless exper
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - A framework for building custom AI Copilots 🤖 in-app AI chatbots, in-app AI Agents, & AI-powered Textareas.
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
 - [JournalApp/Journal](https://github.com/JournalApp/Journal) - Journal is a beautiful daily journaling app
 - [seadfeng/redirect-checker](https://github.com/seadfeng/redirect-checker) - 
 - [pi-agi/writer](https://github.com/pi-agi/writer) - Writer AGI adopts a systematic approach to book writing, initiating with brainstorming themes and plot structures, character development, setting up scenes, and eventually composing chapters.
@@ -2336,6 +2357,7 @@
 
 ## Vala 
 
+- [midori-browser/core](https://github.com/midori-browser/core) - Midori Web Browser - a lightweight, fast and free web browser using WebKit and GTK+
 - [dino/dino](https://github.com/dino/dino) - Modern XMPP ("Jabber") Chat Client using GTK+/Vala
 
 ## Vim Script 
