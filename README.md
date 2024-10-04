@@ -349,7 +349,6 @@
 
 ## CSS 
 
-- [monklie/monklie-product-hunt-alternative](https://github.com/monklie/monklie-product-hunt-alternative) - Solving indie distribution/marketing
 - [orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat) - AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [ACK-J/MailFail](https://github.com/ACK-J/MailFail) - MailFail identifies and provides commands to exploit a large number of email-related misconfigurations for the current domain and subdomain. The extensions UI popup highlights any misconfigurations in
@@ -363,7 +362,7 @@
 
 ## Clojure 
 
-- [damn/clojure.ctx](https://github.com/damn/clojure.ctx) - A programming language for game development
+- [damn/clojure.ctx](https://github.com/damn/clojure.ctx) - 
 - [instantdb/instant](https://github.com/instantdb/instant) - Instant is a modern Firebase. We make you productive by giving your frontend a real-time database.
 
 ## CodeQL 
@@ -662,7 +661,7 @@
 ## Java 
 
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - Orchestration and automation platform to execute millions of scheduled and event-driven workflows declaratively in code and from the UI
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Open-source workflow automation platform. Orchestrate any language using YAML, hundreds of integrations. Alternative to Airflow, Zapier, RunDeck, Camunda, ...
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -693,7 +692,10 @@
 
 ## JavaScript 
 
+- [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [MingSun-Tse/LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow) - TensorFlow code for our ECCV'24 Workshop paper "LightAvatar: Efficient Head Avatar as Dynamic NeLF"
+- [monklie/monklie-product-hunt-alternative](https://github.com/monklie/monklie-product-hunt-alternative) - Solving indie distribution/marketing
+- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
 - [0-5788719150923125/ext](https://github.com/0-5788719150923125/ext) - browser extensions
 - [lirantal/js-vulns-detector](https://github.com/lirantal/js-vulns-detector) - Inject JS to the DOM to find vulnerable JavaScript libraries
@@ -1038,6 +1040,7 @@
 
 ## MDX 
 
+- [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) - 🐙 Guides, papers, lecture, notebooks and resources for prompt engineering
 - [openai/openai-cookbook](https://github.com/openai/openai-cookbook) - Examples and guides for using the OpenAI API
 
 ## Makefile 
@@ -1291,7 +1294,7 @@
 
 ## Python 
 
-- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - The open-source tool for building high-quality datasets and computer vision models
+- [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [cai525/Transformer4SED](https://github.com/cai525/Transformer4SED) - This repository aims to collect Transformer-based sound event detection (SED) algorithms.
 - [gabrielchua/open-notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
@@ -1936,6 +1939,7 @@
 
 ## Rust 
 
+- [TNO-S3/WuppieFuzz](https://github.com/TNO-S3/WuppieFuzz) - A coverage-guided REST API fuzzer developed on top of LibAFL
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 - [eclipse-iceoryx/iceoryx2](https://github.com/eclipse-iceoryx/iceoryx2) - Eclipse iceoryx2™ - true zero-copy inter-process-communication in pure Rust
@@ -2014,7 +2018,6 @@
 
 ## Shell 
 
-- [0xYumeko/0xX4SS](https://github.com/0xYumeko/0xX4SS) - 
 - [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf) - Personal Performance fork, A Minecraft Server Software aim to find balance between performance, vanilla and stability
 - [euandros/lnxhardening](https://github.com/euandros/lnxhardening) - Script de automação para aplicação de hardening de servidores linux, seja para as distribuições da família RHEL ou distribuições baseadas em Debian, tendo por referência o CIS Benchmark.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -2181,7 +2184,6 @@
 - [sourcebot-dev/sourcebot](https://github.com/sourcebot-dev/sourcebot) - Blazingly fast code search 🏎️  Deployed as a single Docker image 📦 Search million+ lines of code in your GitHub and GitLab repositories 🪄 MIT licensed ✅
 - [pulkitsharma07/OnlyHumans-Proxy](https://github.com/pulkitsharma07/OnlyHumans-Proxy) - An experimental AntiBot, AntiCrawl reverse proxy for serving simple static content.
 - [RhysSullivan/blueberryai-app](https://github.com/RhysSullivan/blueberryai-app) - The Open Source AI-Powered Code Editor. A fork of VSCode and Continue and PearAI
-- [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [center-for-threat-informed-defense/attack-flow](https://github.com/center-for-threat-informed-defense/attack-flow) - Attack Flow helps executives, SOC managers, and defenders easily understand how attackers compose ATT&CK techniques into attacks by developing a representation of attack flows, modeling attack flows f
 - [zaknesler/blend](https://github.com/zaknesler/blend) - [wip] Self-hosted RSS reader made with Rust + Solid.js, packaged in a single binary
 - [yaotutu/rss-transformer](https://github.com/yaotutu/rss-transformer) - A self-hosted service to fetch, process, and redistribute RSS feeds with features like translation, summarization, and full-text retrieval.
@@ -2212,7 +2214,7 @@
 - [mattermost-community/focalboard](https://github.com/mattermost-community/focalboard) - Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.
 - [Eugeny/tabby](https://github.com/Eugeny/tabby) - A terminal for a more modern age
 - [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless exper
-- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - Frontend & infra for AI agents, chatbots & textareas that interact with your web-app 🪁
+- [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - react UI + infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
 - [JournalApp/Journal](https://github.com/JournalApp/Journal) - Journal is a beautiful daily journaling app
 - [seadfeng/redirect-checker](https://github.com/seadfeng/redirect-checker) - 
 - [pi-agi/writer](https://github.com/pi-agi/writer) - Writer AGI adopts a systematic approach to book writing, initiating with brainstorming themes and plot structures, character development, setting up scenes, and eventually composing chapters.
@@ -2240,7 +2242,7 @@
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [e2b-dev/ai-artifacts](https://github.com/e2b-dev/ai-artifacts) - Hackable open-source version of Anthropic's Claude Artifacts by E2B
+- [e2b-dev/fragments](https://github.com/e2b-dev/fragments) - Open-source Next.js template for building apps that are fully generated by AI. By E2B.
 - [DaveTacker/dominator](https://github.com/DaveTacker/dominator) - DOMinator is a browser extension that combines fun with functionality. It's your friendly neighborhood DOM analyzer and web security sidekick, designed to help developers and security enthusiasts expl
 - [fkneist/cosurfer](https://github.com/fkneist/cosurfer) - Chrome extension to ask questions to websites via LLMs
 - [awesome-webextension/webextension-store-meta](https://github.com/awesome-webextension/webextension-store-meta) - Get browser extension(webextension) item meta from Chrome Web Store and Firefox add-ons.
@@ -2293,7 +2295,7 @@
 - [Lukentui/smotrite-app](https://github.com/Lukentui/smotrite-app) - 
 - [Get-Tech-Stack/TechStack](https://github.com/Get-Tech-Stack/TechStack) - The extension will display the tech stack of the Repo when the user visits a GitHub Public Repo. The user can easily get more info about the repo. 当用户访问 GitHub 公共存储库时，该扩展将显示存储库的技术栈。 用户可以更轻松地获取有关存储库的更多
 - [signalapp/Signal-Desktop](https://github.com/signalapp/Signal-Desktop) - A private messenger for Windows, macOS, and Linux.
-- [heyform/heyform](https://github.com/heyform/heyform) - HeyForm is an open-source form builder that allows anyone to create engaging conversational forms for surveys, questionnaires, quizzes, and polls. No coding skills required.
+- [heyform/heyform](https://github.com/heyform/heyform) - Open-Source Form Builder
 - [ANG13T/payload-wizard](https://github.com/ANG13T/payload-wizard) - AI assistant that utilizes GPT language models to interpret and generate cybersecurity payloads 🪄
 - [classvsoftware/under-new-management](https://github.com/classvsoftware/under-new-management) - Detect when your installed extensions have changed owners.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
