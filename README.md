@@ -293,6 +293,7 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -350,6 +351,7 @@
 
 ## CSS 
 
+- [colin273/Scriptable-For-Dummies](https://github.com/colin273/Scriptable-For-Dummies) - 
 - [orcasecurity-research/AIGoat](https://github.com/orcasecurity-research/AIGoat) - AIGoat: A deliberately Vulnerable AI Infrastructure. Learn AI security through solving our challenges.
 - [zen-browser/desktop](https://github.com/zen-browser/desktop) - 🌀 Experience tranquillity while browsing the web without people tracking you!
 - [ACK-J/MailFail](https://github.com/ACK-J/MailFail) - MailFail identifies and provides commands to exploit a large number of email-related misconfigurations for the current domain and subdomain. The extensions UI popup highlights any misconfigurations in
@@ -516,7 +518,6 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [c0nrad/http2fuzz](https://github.com/c0nrad/http2fuzz) - HTTP/2 fuzzer written in Golang
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
@@ -614,7 +615,6 @@
 - [justinphan3110cais/newspaper4k-forecasting-ai](https://github.com/justinphan3110cais/newspaper4k-forecasting-ai) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [ibudiallo/automated-agents-book](https://github.com/ibudiallo/automated-agents-book) - Repository for the book: Automated Agents
-- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - JarvisAI is a powerful voice-activated assistant that automates tasks using advanced AI, speech recognition, and natural language processing. Experience seamless interaction with a futuristic, sci-fi-
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [GAIR-NLP/OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher) - 
 - [aogposton/BOA27](https://github.com/aogposton/BOA27) - The open source, open hardware, smart balloon. Designed, with love, to provide hope for those living under Article 27.
@@ -1080,6 +1080,9 @@
 
 ## Others 
 
+- [Lathryx/Scriptables](https://github.com/Lathryx/Scriptables) - A small repo containing all of my Scriptable scripts (iOS Automation API).
+- [Lathryx/Scriptable-Getting-Started-Guide](https://github.com/Lathryx/Scriptable-Getting-Started-Guide) - A getting started guide to the Scriptable mobile app for iOS.
+- [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
 - [laylavish/uBlockOrigin-HUGE-AI-Blocklist](https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist) - A huge blocklist of sites that contain AI generated content for uBlock Origin & uBlacklist.
 - [Evi1Grey5/Recursive-Loader](https://github.com/Evi1Grey5/Recursive-Loader) - Recursive Loader
 - [AppJail-makejails/miniflux](https://github.com/AppJail-makejails/miniflux) - Self-hosted software to read RSS/Atom/JSON feeds.
@@ -1431,6 +1434,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [mlcsec/huntsman](https://github.com/mlcsec/huntsman) - Email enumerator, username generator, and context validator for hunter.io, snov.io, and skrapp.io
 - [VJBots/VJ-Txt-Leech-Bot](https://github.com/VJBots/VJ-Txt-Leech-Bot) - A Txt To Video Bot / Txt Leech Bot / Txt To File Bot. Made By https://youtube.com/@Tech_VJ
+- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - JarvisAI is a powerful voice-activated assistant that automates tasks using advanced AI, speech recognition, and natural language processing. Experience seamless interaction with a futuristic, sci-fi-
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -2200,7 +2204,7 @@
 
 ## TypeScript 
 
-- [johnsoncodehk/native-signals](https://github.com/johnsoncodehk/native-signals) - 🪽 The lightest signal library
+- [stackblitz/native-signals](https://github.com/stackblitz/native-signals) - 🪽 The lightest signal library
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [canalun/fuzzdiff](https://github.com/canalun/fuzzdiff) - fuzzer to detect side effects of third party script
