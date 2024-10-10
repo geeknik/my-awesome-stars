@@ -226,6 +226,7 @@
 - [p0dalirius/LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) - Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration!
 - [surajpkhetani/AutoSmuggle](https://github.com/surajpkhetani/AutoSmuggle) - Utility to craft HTML or SVG smuggled files for Red Team engagements
 - [Stratus-Security/Subdominator](https://github.com/Stratus-Security/Subdominator) - The Internets #1 Subdomain Takeover Tool
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [ElevenPaths/FOCA](https://github.com/ElevenPaths/FOCA) - Tool to find metadata and hidden information in the documents.
 - [SnaffCon/Snaffler](https://github.com/SnaffCon/Snaffler) - a tool for pentesters to help find delicious candy, by @l0ss and @Sh3r4 ( Twitter: @/mikeloss and @/sh3r4_hax )
@@ -240,6 +241,7 @@
 
 ## C++ 
 
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [Colton1skees/Dna](https://github.com/Colton1skees/Dna) - LLVM based static binary analysis framework
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
@@ -293,7 +295,6 @@
 - [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile) - Distribute and run LLMs with a single file.
 - [SatDump/SatDump](https://github.com/SatDump/SatDump) - A generic satellite data processing software.
 - [flipperdevices/qFlipper](https://github.com/flipperdevices/qFlipper) - qFlipper — desktop application for updating Flipper Zero firmware via PC
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [catchorg/Catch2](https://github.com/catchorg/Catch2) - A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)
 - [vitoplantamura/OnnxStream](https://github.com/vitoplantamura/OnnxStream) - Lightweight inference library for ONNX files, written in C++. It can run Stable Diffusion XL 1.0 on a RPI Zero 2 (or in 298MB of RAM) but also Mistral 7B on desktops and servers. ARM, x86, WASM, RISC-
 - [Floorp-Projects/Floorp](https://github.com/Floorp-Projects/Floorp) - All of source code of version 10 or later of Floorp Browser, the most Advanced and Fastest Firefox derivative 🦊
@@ -418,6 +419,7 @@
 
 ## Go 
 
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [umair9747/4oFour](https://github.com/umair9747/4oFour) - A tech enumeration toolkit focused on 404 Not found pages.
 - [n0madic/twitter-scraper](https://github.com/n0madic/twitter-scraper) - Scrape the Twitter frontend API without authentication with Golang.
 - [sw33tLie/uff](https://github.com/sw33tLie/uff) - unleashed ffuf
@@ -518,6 +520,7 @@
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻
 - [Bearer/bearer](https://github.com/Bearer/bearer) - Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
 - [c0nrad/http2fuzz](https://github.com/c0nrad/http2fuzz) - HTTP/2 fuzzer written in Golang
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.2, Mistral, Gemma 2, and other large language models.
 - [owasp-amass/amass](https://github.com/owasp-amass/amass) - In-depth attack surface mapping and asset discovery
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [HavocFramework/Havoc](https://github.com/HavocFramework/Havoc) - The Havoc Framework.
@@ -694,6 +697,7 @@
 
 ## JavaScript 
 
+- [akazwz/image-worker](https://github.com/akazwz/image-worker) - Use cloudflare worker and rust wasm to build an image processing service. 使用 Cloudflare Worker 和 Rust WASM 构建图像处理服务
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [Sinaptik-AI/panda-etl](https://github.com/Sinaptik-AI/panda-etl) - No-code ETL and data pipelines with AI and NLP
 - [MingSun-Tse/LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow) - TensorFlow code for our ECCV'24 Workshop paper "LightAvatar: Efficient Head Avatar as Dynamic NeLF"
@@ -1022,7 +1026,6 @@
 - [KindXiaoming/pykan](https://github.com/KindXiaoming/pykan) - Kolmogorov Arnold Networks
 - [mit-ll/tornet](https://github.com/mit-ll/tornet) - Software to work with the TorNet dataset
 - [rasbt/LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) - Implementing a ChatGPT-like LLM in PyTorch from scratch, step by step
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI 🤖
 - [sweepai/sweep](https://github.com/sweepai/sweep) - Sweep: open-source AI-powered Software Developer for small features and bug fixes.
 - [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer) - 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
@@ -1080,6 +1083,7 @@
 
 ## Others 
 
+- [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
 - [Lathryx/Scriptables](https://github.com/Lathryx/Scriptables) - A small repo containing all of my Scriptable scripts (iOS Automation API).
 - [Lathryx/Scriptable-Getting-Started-Guide](https://github.com/Lathryx/Scriptable-Getting-Started-Guide) - A getting started guide to the Scriptable mobile app for iOS.
 - [lukasz-madon/awesome-remote-job](https://github.com/lukasz-madon/awesome-remote-job) - A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python
@@ -1302,6 +1306,10 @@
 
 ## Python 
 
+- [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
+- [mlzxy/arp](https://github.com/mlzxy/arp) - Autoregressive Policy for Robot Learning
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
 - [google-deepmind/concordia](https://github.com/google-deepmind/concordia) - A library for generative social simulation
 - [ListenNotes/notebooklm-detector](https://github.com/ListenNotes/notebooklm-detector) - Detect whether or not an audio file was generated by NotebookLM
 - [livekit/agents](https://github.com/livekit/agents) - Build real-time multimodal AI applications 🤖🎙️📹
@@ -1593,7 +1601,7 @@
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [OpenBMB/RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges.
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [geofurb/rabbithole](https://github.com/geofurb/rabbithole) - Send HTTP scrapers to Wonderland
 - [KhoomeiK/interrupting-cow](https://github.com/KhoomeiK/interrupting-cow) - 🐮📢 The first AI voice assistant that interrupts *you*
@@ -1958,6 +1966,7 @@
 
 ## Rust 
 
+- [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
 - [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screen saver for your terminal.
@@ -2042,6 +2051,7 @@
 
 ## Shell 
 
+- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf) - Personal Performance fork, A Minecraft Server Software aim to find balance between performance, vanilla and stability
 - [euandros/lnxhardening](https://github.com/euandros/lnxhardening) - Script de automação para aplicação de hardening de servidores linux, seja para as distribuições da família RHEL ou distribuições baseadas em Debian, tendo por referência o CIS Benchmark.
 - [create-dmg/create-dmg](https://github.com/create-dmg/create-dmg) - A shell script to build fancy DMGs
@@ -2204,7 +2214,10 @@
 
 ## TypeScript 
 
-- [stackblitz/native-signals](https://github.com/stackblitz/native-signals) - 🪽 The lightest signal library
+- [mbarinov/repogpt](https://github.com/mbarinov/repogpt) - RepoGPT: AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly.
+- [kolenaIO/autoarena](https://github.com/kolenaIO/autoarena) - Rank LLMs, RAG systems, and prompts using automated head-to-head evaluation
+- [gardencmp/jazz](https://github.com/gardencmp/jazz) - A new way to build apps with distributed state.
+- [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
 - [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) - High-performance In-browser LLM Inference Engine
 - [canalun/fuzzdiff](https://github.com/canalun/fuzzdiff) - fuzzer to detect side effects of third party script
