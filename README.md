@@ -618,6 +618,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [phil-opp/blog_os](https://github.com/phil-opp/blog_os) - Writing an OS in Rust
 - [justinphan3110cais/newspaper4k-forecasting-ai](https://github.com/justinphan3110cais/newspaper4k-forecasting-ai) - 📰 Newspaper4k a fork of the beloved Newspaper3k. Extraction of articles, titles, and metadata from news websites.
+- [nomadic-ml/nomadic](https://github.com/nomadic-ml/nomadic) - Nomadic is an enterprise-grade framework for teams to continuously optimize compound AI systems
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [ibudiallo/automated-agents-book](https://github.com/ibudiallo/automated-agents-book) - Repository for the book: Automated Agents
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
@@ -1007,7 +1008,6 @@
 
 - [nealjean/predicting-poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty
 - [allenai/super-benchmark](https://github.com/allenai/super-benchmark) - 
-- [nomadic-ml/nomadic](https://github.com/nomadic-ml/nomadic) - Nomadic is an enterprise-grade framework for teams to continuously optimize compound AI systems
 - [Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning](https://github.com/Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning) - LLM powered agents for scanning vulnerabilities on any website - Llama 3 8B, Groq, Selenium, CrewAI, Exa AI
 - [SakanaAI/AI-Scientist](https://github.com/SakanaAI/AI-Scientist) - The AI Scientist: Towards Fully Automated Open-Ended Scientific Discovery 🧑‍🔬
 - [groq/groq-api-cookbook](https://github.com/groq/groq-api-cookbook) - 
@@ -1155,7 +1155,6 @@
 - [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
 - [praveenjalasutram/Darkweb-Onion-Links](https://github.com/praveenjalasutram/Darkweb-Onion-Links) - This is a collection of important onion sites that you can leverage for Deepweb and Darkweb Monitoring
 - [UvinduBro/darkweb-links](https://github.com/UvinduBro/darkweb-links) - 16K+ Unlimited Deep Web / Onion Links + GUIDE
-- [01Kevin01/OnionLinksV3](https://github.com/01Kevin01/OnionLinksV3) - 2024!!Onion Links V3!!(Forum&Chat&Markets)TR-EN
 - [cablej/hack-your-government](https://github.com/cablej/hack-your-government) - A list of governments with Vulnerability Disclosure Policies
 - [tldrsec/awesome-secure-defaults](https://github.com/tldrsec/awesome-secure-defaults) - Awesome secure by default libraries to help you eliminate bug classes!
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1419,7 +1418,7 @@
 - [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
 - [weavel-ai/Ape](https://github.com/weavel-ai/Ape) - Your first AI prompt engineer
 - [Aleph-Alpha/scaling](https://github.com/Aleph-Alpha/scaling) - Scaling is a distributed training library and installable dependency designed to scale up neural networks, with a dedicated module for training large language models.
-- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for AI models. Flexible. Easy. Enterprise-scale.
+- [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
 - [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) - Examples in the MLX framework
 - [linkedin/Liger-Kernel](https://github.com/linkedin/Liger-Kernel) - Efficient Triton Kernels for LLM Training
 - [Parthiban-R-3997/Real_Time_Based_News_Letter_Generation_Using_CrewAI](https://github.com/Parthiban-R-3997/Real_Time_Based_News_Letter_Generation_Using_CrewAI) - 
@@ -1971,6 +1970,8 @@
 
 ## Rust 
 
+- [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
+- [katanemo/arch](https://github.com/katanemo/arch) - Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by t
 - [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [loco-rs/loco](https://github.com/loco-rs/loco) - 🚂 🦀 The one-person framework for Rust for side-projects and startups
