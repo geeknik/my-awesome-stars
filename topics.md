@@ -400,6 +400,7 @@
 
 ## angular 
 
+- [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
 - [bitgapp/eqMac](https://github.com/bitgapp/eqMac) - macOS  System-wide Audio Equalizer & Volume Mixer  🎧
 - [webhooksite/webhook.site](https://github.com/webhooksite/webhook.site) - ⚓️ Easily test HTTP webhooks with this handy tool that displays requests instantly.
 
@@ -849,6 +850,7 @@
 
 ## chrome-extension 
 
+- [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [ste-xx/gist-userscript-manager](https://github.com/ste-xx/gist-userscript-manager) - Userscript manager which based on Github Gist
 - [0xedward/neuralyzer](https://github.com/0xedward/neuralyzer) - Chrome extension that wipes your sensitive data on the tab you are currently on
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
@@ -1280,6 +1282,7 @@
 
 ## electron 
 
+- [Ninety-Camera/desktop-frontend](https://github.com/Ninety-Camera/desktop-frontend) - Desktop application frontend for the CCTV Smart Monitoring Platform
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The open source, local-first Webflow alternative. Design directly in your live React site and publish your changes to code.
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [romankurnovskii/BrewMate](https://github.com/romankurnovskii/BrewMate) - Homebrew GUI apps manager
@@ -1539,6 +1542,7 @@
 
 ## golang 
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [leozqin/precis](https://github.com/leozqin/precis) - Precis is an extensible self-hosted AI-enabled RSS reader with a focus on notifications and support for theming
@@ -1704,6 +1708,7 @@
 
 ## hacktoberfest 
 
+- [Fireboltz/Psychic-CCTV](https://github.com/Fireboltz/Psychic-CCTV) - A video analysis tool built completely in python.
 - [kolenaIO/autoarena](https://github.com/kolenaIO/autoarena) - Rank LLMs, RAG systems, and prompts using automated head-to-head evaluation
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [cljoly/readme-in-static-site](https://github.com/cljoly/readme-in-static-site) - 💎 Transform and insert your GitHub readme in your static site.
@@ -1873,6 +1878,7 @@
 
 ## https 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [claustromaniac/detect-cloudflare-plus](https://github.com/claustromaniac/detect-cloudflare-plus) - True Sight Firefox extension.
 - [claustromaniac/httpz](https://github.com/claustromaniac/httpz) - Fat-free hardenable opportunistic encryption for Firefox
 - [gnebbia/halive](https://github.com/gnebbia/halive) - A fast http and https prober, to check which URLs are alive
@@ -1918,6 +1924,7 @@
 
 ## java 
 
+- [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
@@ -2436,6 +2443,7 @@
 
 ## mysql 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -2656,7 +2664,7 @@
 
 ## opencv 
 
-- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA+FAISS powered video surveillance system
 - [ck-zhang/EyePy](https://github.com/ck-zhang/EyePy) - EyePy is an eye tracking library easily implementable in your projcets
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [scottbarnesg/smart-sec-cam](https://github.com/scottbarnesg/smart-sec-cam) - A privacy-focused, intelligent security camera system.
@@ -2731,6 +2739,12 @@
 
 ## others 
 
+- [NaturalAgents/NaturalAgents](https://github.com/NaturalAgents/NaturalAgents) - Creating agents with natural language prompts
+- [SaFoLab-WISC/AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo) - 
+- [bcdannyboy/STOC-D](https://github.com/bcdannyboy/STOC-D) - STOC'D: Stochastic Trade Optimization for Credit Derivatives
+- [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
+- [PrimeIntellect-ai/prime](https://github.com/PrimeIntellect-ai/prime) - prime (previously called ZeroBand) is a framework for efficient, globally distributed training of AI models over the internet.
+- [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, and more with your permission every step of the way.
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
 - [mzbac/flux.swift](https://github.com/mzbac/flux.swift) - Swift implementation of Flux.1 using mlx-swift
 - [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced Layer 7 reverse proxy server written in Go
@@ -2740,7 +2754,6 @@
 - [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey: A Strategic Progress Report – Part I
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking.
 - [mlzxy/arp](https://github.com/mlzxy/arp) - Autoregressive Policy for Robot Learning
-- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
 - [Lathryx/Scriptables](https://github.com/Lathryx/Scriptables) - A small repo containing all of my Scriptable scripts (iOS Automation API).
@@ -2751,7 +2764,7 @@
 - [stackblitz/alien-signals](https://github.com/stackblitz/alien-signals) - 👾 The lightest signal library
 - [ShoggothAI/motleycrew](https://github.com/ShoggothAI/motleycrew) - Flexible and powerful multi-agent AI framework
 - [tinygrad/toonygrad](https://github.com/tinygrad/toonygrad) - Because tinygrad got out of hand with line count
-- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screen saver for your terminal.
+- [cxreiff/ttysvr](https://github.com/cxreiff/ttysvr) - Screensavers for your terminal.
 - [Ben-Edwards44/PyBonsai](https://github.com/Ben-Edwards44/PyBonsai) - Generate procedural ASCII art trees in the terminal.
 - [mandiant/flare-floss](https://github.com/mandiant/flare-floss) - FLARE Obfuscated String Solver - Automatically extract obfuscated strings from malware.
 - [xjdr-alt/entropix](https://github.com/xjdr-alt/entropix) - Entropy Based Sampling and Parallel CoT Decoding
@@ -3001,7 +3014,7 @@
 - [supermemoryai/opensearch-ai](https://github.com/supermemoryai/opensearch-ai) - SearchGPT / Perplexity clone, but personalised for you.
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [facebookresearch/sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the m
-- [lipku/livetalking](https://github.com/lipku/livetalking) - Real time interactive streaming digital human
+- [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [skapadia3214/groq-moa](https://github.com/skapadia3214/groq-moa) - Mixture of Agents using Groq
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
@@ -3840,6 +3853,7 @@
 
 ## p2p 
 
+- [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
 - [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors at https://sentrypeer.org
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -3982,6 +3996,7 @@
 
 ## postgresql 
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [briefercloud/briefer](https://github.com/briefercloud/briefer) - Dashboards and notebooks in a single place. Create powerful and flexible dashboards using code, or build beautiful Notion-like notebooks and share them with your team.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [RicardoGEsteves/omniscient](https://github.com/RicardoGEsteves/omniscient) - Cutting-edge Full-stack AI Platform delivered as a SaaS (Software as a Service). Built on a robust technology stack, integrated with powerful APIs such as OpenAI and Replicate, offers a seamless exper
@@ -4061,7 +4076,8 @@
 ## python 
 
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
-- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA powered video surveillance system
+- [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio
+- [PsyChip/machina](https://github.com/PsyChip/machina) - OpenCV+YOLO+LLAVA+FAISS powered video surveillance system
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio equip's your AI agents & LLMs with 100+ high-quality integrations via function calling
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
@@ -4194,6 +4210,7 @@
 
 ## python3 
 
+- [Fireboltz/Psychic-CCTV](https://github.com/Fireboltz/Psychic-CCTV) - A video analysis tool built completely in python.
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
 - [lds133/weather_landscape](https://github.com/lds133/weather_landscape) - Visualizing Weather Forecasts Through Landscape Imagery
 - [harsxv/tinystatus](https://github.com/harsxv/tinystatus) - Tiny status page generated by a Python script
@@ -4217,6 +4234,7 @@
 
 ## pytorch 
 
+- [Fireboltz/Psychic-CCTV](https://github.com/Fireboltz/Psychic-CCTV) - A video analysis tool built completely in python.
 - [nianticlabs/doubletake](https://github.com/nianticlabs/doubletake) - [ECCV 2024] DoubleTake: Geometry Guided Depth Estimation
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
 - [pytorch/torchchat](https://github.com/pytorch/torchchat) - Run PyTorch LLMs locally on servers, desktop and mobile
@@ -4246,6 +4264,7 @@
 
 ## raspberry-pi 
 
+- [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
 - [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
@@ -4310,6 +4329,7 @@
 
 ## reactjs 
 
+- [Ninety-Camera/desktop-frontend](https://github.com/Ninety-Camera/desktop-frontend) - Desktop application frontend for the CCTV Smart Monitoring Platform
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend.
 - [PlasmoHQ/plasmo](https://github.com/PlasmoHQ/plasmo) - 🧩 The Browser Extension Framework
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
@@ -4320,6 +4340,7 @@
 
 ## redux 
 
+- [Ninety-Camera/desktop-frontend](https://github.com/Ninety-Camera/desktop-frontend) - Desktop application frontend for the CCTV Smart Monitoring Platform
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [hackjutsu/Lepton](https://github.com/hackjutsu/Lepton) - 💻     Democratizing Snippet Management (macOS/Win/Linux)
 - [samdenty/injectify](https://github.com/samdenty/injectify) - Perform advanced MiTM attacks on websites with ease 💉
@@ -4379,6 +4400,7 @@
 
 ## rust 
 
+- [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS and MySQL bastion that requires no additional client-side software
 - [akazwz/image-worker](https://github.com/akazwz/image-worker) - Use cloudflare worker and rust wasm to build an image processing service. 使用 Cloudflare Worker 和 Rust WASM 构建图像处理服务
 - [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
@@ -4441,6 +4463,7 @@
 
 ## security 
 
+- [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
 - [0xedward/neuralyzer](https://github.com/0xedward/neuralyzer) - Chrome extension that wipes your sensitive data on the tab you are currently on
@@ -4893,6 +4916,7 @@
 
 ## ubuntu 
 
+- [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [konstruktoid/hardening](https://github.com/konstruktoid/hardening) - Hardening Ubuntu. Systemd edition.
