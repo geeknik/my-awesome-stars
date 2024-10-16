@@ -106,6 +106,7 @@
 
 ## C 
 
+- [eivindbohler/itxllama](https://github.com/eivindbohler/itxllama) - 
 - [googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer) - 
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
 - [unicorn-engine/unicorn](https://github.com/unicorn-engine/unicorn) - Unicorn CPU emulator framework (ARM, AArch64, M68K, Mips, Sparc, PowerPC, RiscV, S390x, TriCore, X86)
@@ -216,6 +217,8 @@
 
 ## C# # 
 
+- [chkr1011/Wirehome.Core](https://github.com/chkr1011/Wirehome.Core) - Wirehome.Core is a home automation system written in C# targeting .NET Core. It runs on Linux, Windows and macOS.
+- [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie, the programmable automation intelligence
 - [H4NM/WhoYouCalling](https://github.com/H4NM/WhoYouCalling) - Records an executable's network activity into a Full Packet Capture file (.pcap) and much more.
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
 - [MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base](https://github.com/MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base) - This project is a third-person multiplayer game using Unity with Photon Fusion for networking. The game features a third-person controller setup with player movement, camera management using Cinemachi
@@ -241,10 +244,11 @@
 
 ## C++ 
 
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
+- [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 - [Colton1skees/Dna](https://github.com/Colton1skees/Dna) - LLVM based static binary analysis framework
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
-- [WinampDesktop/winamp](https://github.com/WinampDesktop/winamp) - Iconic media player
 - [thiagoralves/OpenPLC_v3](https://github.com/thiagoralves/OpenPLC_v3) - OpenPLC Runtime version 3
 - [sz3/libcimbar](https://github.com/sz3/libcimbar) - Optimized implementation for color-icon-matrix barcodes
 - [AimRT/AimRT](https://github.com/AimRT/AimRT) - A high-performance runtime framework for modern robotics.
@@ -400,6 +404,10 @@
 
 ## Dockerfile 
 
+- [Swordfish-Security/Pentest-In-Docker](https://github.com/Swordfish-Security/Pentest-In-Docker) - Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.)
+- [briskinfosec/BNPT_Docker](https://github.com/briskinfosec/BNPT_Docker) - Docker for Network Penetration testing
+- [RAJANAGORI/Nightingale](https://github.com/RAJANAGORI/Nightingale) - It's a Docker Environment for Pentesting which having all the required tool for VAPT.
+- [aaaguirrep/offensive-docker](https://github.com/aaaguirrep/offensive-docker) - Offensive Docker is an image with the more used offensive tools to create an environment easily and quickly to launch assessment to the targets.
 - [westonsteimel/container-library-firefox](https://github.com/westonsteimel/container-library-firefox) - Firefox in a docker container
 
 ## Elixir 
@@ -670,6 +678,7 @@
 
 ## Java 
 
+- [freedomotic/freedomotic](https://github.com/freedomotic/freedomotic) - Open IoT Framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 500+ plugins. Alternative to Zapier, Rundeck, Camunda, Airflow...
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
@@ -703,6 +712,11 @@
 
 ## JavaScript 
 
+- [jswanner/DontF-WithPaste](https://github.com/jswanner/DontF-WithPaste) - Google Chrome extension that prevents the blocking of pasting into input fields
+- [GladysAssistant/Gladys](https://github.com/GladysAssistant/Gladys) - A privacy-first, open-source home assistant
+- [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
+- [jens-maus/RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for your CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual applian
+- [DockerSecurityPlayground/DSP](https://github.com/DockerSecurityPlayground/DSP) - A Microservices-based framework for the study of Network Security and Penetration Test techniques
 - [Ninety-Camera/desktop-frontend](https://github.com/Ninety-Camera/desktop-frontend) - Desktop application frontend for the CCTV Smart Monitoring Platform
 - [akazwz/image-worker](https://github.com/akazwz/image-worker) - Use cloudflare worker and rust wasm to build an image processing service. 使用 Cloudflare Worker 和 Rust WASM 构建图像处理服务
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
@@ -794,6 +808,7 @@
 - [claustromaniac/etag-stoppa](https://github.com/claustromaniac/etag-stoppa) - Minimalist extension for Firefox that removes ETag response headers unconditionally and without exceptions.
 - [mwmbl/crawler-extension](https://github.com/mwmbl/crawler-extension) - A browser extension that can be installed by volunteers to participate in mwmbl distributed crawling.
 - [nil-two/tcott](https://github.com/nil-two/tcott) - Investigate the context of the tweet
+- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
 - [xssdoctor/graphqlMaker](https://github.com/xssdoctor/graphqlMaker) - Finds graphql queries in javascript files
@@ -1009,6 +1024,7 @@
 
 ## Jupyter Notebook 
 
+- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking
 - [nealjean/predicting-poverty](https://github.com/nealjean/predicting-poverty) - Combining satellite imagery and machine learning to predict poverty
 - [allenai/super-benchmark](https://github.com/allenai/super-benchmark) - 
 - [Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning](https://github.com/Armur-Ai/Katana-AI-Agents-for-website-vulnerabilities-scanning) - LLM powered agents for scanning vulnerabilities on any website - Llama 3 8B, Groq, Selenium, CrewAI, Exa AI
@@ -1090,6 +1106,7 @@
 
 ## Others 
 
+- [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security
 - [zakirullin/cognitive-load](https://github.com/zakirullin/cognitive-load) - 🧠 Cognitive Load is what matters
 - [GAIR-NLP/O1-Journey](https://github.com/GAIR-NLP/O1-Journey) - O1 Replication Journey: A Strategic Progress Report – Part I
 - [Junyi42/monst3r](https://github.com/Junyi42/monst3r) - Official Implementation of paper "MonST3R: A Simple Approach for Estimating Geometry in the Presence of Motion"
@@ -1253,6 +1270,8 @@
 
 ## PHP 
 
+- [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
+- [jeedom/core](https://github.com/jeedom/core) - Software for home automation
 - [akirk/friends](https://github.com/akirk/friends) - A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [harisec/orange-confusion-attacks](https://github.com/harisec/orange-confusion-attacks) - 
@@ -1314,10 +1333,13 @@
 
 ## Python 
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [AgentOps-AI/AgentStack](https://github.com/AgentOps-AI/AgentStack) - The fastest way to build robust AI agents
+- [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
+- [xaviermatroski/Discord-Reddit-Bot](https://github.com/xaviermatroski/Discord-Reddit-Bot) - This is a python code for a discord bot which will serve user memes from subreddits
 - [SaFoLab-WISC/AutoDAN-Turbo](https://github.com/SaFoLab-WISC/AutoDAN-Turbo) - 
 - [Fireboltz/Psychic-CCTV](https://github.com/Fireboltz/Psychic-CCTV) - A video analysis tool built completely in python.
 - [PrimeIntellect-ai/prime](https://github.com/PrimeIntellect-ai/prime) - prime (previously called ZeroBand) is a framework for efficient, globally distributed training of AI models over the internet.
-- [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision model based PDF chunking.
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [mlzxy/arp](https://github.com/mlzxy/arp) - Autoregressive Policy for Robot Learning
 - [lmstudio-ai/mlx-engine](https://github.com/lmstudio-ai/mlx-engine) - Apple MLX engine for LM Studio
@@ -1351,7 +1373,7 @@
 - [tenable/hidden-services-revealer](https://github.com/tenable/hidden-services-revealer) - 
 - [saw-your-packet/CloudShovel](https://github.com/saw-your-packet/CloudShovel) - A tool for scanning public or private AMIs for sensitive files and secrets. The tool follows the research made on AWS CloudQuarry where we scanned 20k+ public AMIs.
 - [RickdeJager/cupshax](https://github.com/RickdeJager/cupshax) - 
-- [Quehry/HelloBench](https://github.com/Quehry/HelloBench) - Code and data repository for HelloBench and HelloEval
+- [Quehry/HelloBench](https://github.com/Quehry/HelloBench) - HelloBench: evaluating long text generation capabilities of LLMs
 - [DataDog/undocumented-aws-api-hunter](https://github.com/DataDog/undocumented-aws-api-hunter) - A tool to uncover undocumented APIs from the AWS Console.
 - [m8sec/subscraper](https://github.com/m8sec/subscraper) - Subdomain and target enumeration tool built for offensive security testing
 - [xlmnxp/Qocker](https://github.com/xlmnxp/Qocker) - Qocker is a user-friendly GUI application for managing Docker containers. Built with PyQt5, it provides an intuitive interface for viewing and interacting with your Docker containers.
@@ -1421,7 +1443,7 @@
 - [osgil-defense/TARS](https://github.com/osgil-defense/TARS) - Using Agents To Automate Pentesting
 - [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
 - [octree-nn/octfusion](https://github.com/octree-nn/octfusion) - OctFusion: Octree-based Diffusion Models for 3D Shape Generation
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Assistants with memory, knowledge and tools.
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
 - [weavel-ai/Ape](https://github.com/weavel-ai/Ape) - Your first AI prompt engineer
 - [Aleph-Alpha/scaling](https://github.com/Aleph-Alpha/scaling) - Scaling is a distributed training library and installable dependency designed to scale up neural networks, with a dedicated module for training large language models.
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
@@ -1700,7 +1722,7 @@
 - [nerdyrodent/VQGAN-CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) - Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.
 - [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
 - [aniketmaurya/llm-inference](https://github.com/aniketmaurya/llm-inference) - Large Language Model (LLM) Inference API and Chatbot
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that does online comprehensive research on any given topic
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts in-depth web research on any given topic
 - [danswer-ai/danswer](https://github.com/danswer-ai/danswer) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for your AI apps
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
@@ -2065,6 +2087,7 @@
 
 ## Shell 
 
+- [vishnudxb/automated-pentest](https://github.com/vishnudxb/automated-pentest) - Minimal docker container of Parrot OS for running an automated scan & pentest report.
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf) - Personal Performance fork, A Minecraft Server Software aim to find balance between performance, vanilla and stability
 - [euandros/lnxhardening](https://github.com/euandros/lnxhardening) - Script de automação para aplicação de hardening de servidores linux, seja para as distribuições da família RHEL ou distribuições baseadas em Debian, tendo por referência o CIS Benchmark.
@@ -2181,6 +2204,8 @@
 
 ## Swift 
 
+- [Stengo/DeskPad](https://github.com/Stengo/DeskPad) - A virtual monitor for screen sharing
+- [FuzzyIdeas/Clop](https://github.com/FuzzyIdeas/Clop) - Clipboard optimizer for macOS
 - [mzbac/flux.swift](https://github.com/mzbac/flux.swift) - Swift implementation of Flux.1 using mlx-swift
 - [mainframecomputer/fullmoon-ios](https://github.com/mainframecomputer/fullmoon-ios) - chat with private and local large language models
 - [alienator88/Viz](https://github.com/alienator88/Viz) - Capture text/QR Codes/Barcodes from screen snippets
@@ -2230,6 +2255,7 @@
 
 ## TypeScript 
 
+- [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
 - [NaturalAgents/NaturalAgents](https://github.com/NaturalAgents/NaturalAgents) - Creating agents with natural language prompts
 - [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
@@ -2328,7 +2354,6 @@
 - [joyqi/sharebychatgpt-extension](https://github.com/joyqi/sharebychatgpt-extension) - A browser extension summarize web pages with ChatGPT for easy sharing on social media.
 - [BartoszKlonowski/browsing-stats](https://github.com/BartoszKlonowski/browsing-stats) - The web browser add-on to check your browsing stats
 - [BlackGlory/copycat](https://github.com/BlackGlory/copycat) - 🌳 Copy content from web powerful than ever before.
-- [labmlai/inspectus](https://github.com/labmlai/inspectus) - LLM Analytics
 - [AliSiddique/demo-saasunderone](https://github.com/AliSiddique/demo-saasunderone) - 
 - [BuilderIO/micro-agent](https://github.com/BuilderIO/micro-agent) - An AI agent that writes (actually useful) code for you
 - [ishaan1013/sandbox](https://github.com/ishaan1013/sandbox) - A cloud-based code editing environment with an AI copilot and real-time collaboration
