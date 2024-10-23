@@ -251,7 +251,7 @@
 - [geeknik/fast-inverse-square-root](https://github.com/geeknik/fast-inverse-square-root) - Fast inverse square root.
 - [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System
 - [HASwitchPlate/openHASP](https://github.com/HASwitchPlate/openHASP) - HomeAutomation Switchplate based on lvgl for ESP32
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
 - [Colton1skees/Dna](https://github.com/Colton1skees/Dna) - LLVM based static binary analysis framework
 - [Lumorti/Quandoom](https://github.com/Lumorti/Quandoom) - A port of DOOM for a quantum computer
 - [thiagoralves/OpenPLC_v3](https://github.com/thiagoralves/OpenPLC_v3) - OpenPLC Runtime version 3
@@ -436,6 +436,7 @@
 
 ## Go 
 
+- [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [geeknik/tfidf](https://github.com/geeknik/tfidf) - shhhh!
 - [geeknik/subjs](https://github.com/geeknik/subjs) - Fetches javascript file from a list of URLS or subdomains.
@@ -1140,7 +1141,6 @@
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
-- [verojj/darknet-market-reviews](https://github.com/verojj/darknet-market-reviews) - darknet-market-reviews \ darknet-reviews \ top-darknet-markets \ best-darknet-markets
 - [geeknik/screenrc](https://github.com/geeknik/screenrc) - The Ultimate Bug Bounty Hunter's .screenrc
 - [geeknik/universalLanguage](https://github.com/geeknik/universalLanguage) - A first attempt at creating a Universal Language
 - [geeknik/ollama-discord](https://github.com/geeknik/ollama-discord) - an ollama powered discord bot
@@ -1378,6 +1378,9 @@
 
 ## Python 
 
+- [samyk/rflasermic](https://github.com/samyk/rflasermic) - RF-modulated high fidelity laser microphone and keystroke sniffer
+- [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
+- [iamunixtz/JSNinja](https://github.com/iamunixtz/JSNinja) - JSNinja is a powerful tool designed for security researchers and developers looking to extract sensitive information and Urls from JavaScript files.
 - [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -1386,7 +1389,7 @@
 - [scottviteri/UniversalBackrooms](https://github.com/scottviteri/UniversalBackrooms) - A replication of Andy Ayrey's "Backrooms" (https://dreams-of-an-electric-mind.webflow.io/), but runnable with Opus 3, Sonnet 3.5, GPT 4o, and o1-preview
 - [yoheinakajima/babyagi-2o](https://github.com/yoheinakajima/babyagi-2o) - the simplest self-building general autonomous agent
 - [facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".
-- [cvlab-columbia/drrobot](https://github.com/cvlab-columbia/drrobot) - [CoRL 2024] Code for "Differentiable Robot Rendering"
+- [cvlab-columbia/drrobot](https://github.com/cvlab-columbia/drrobot) - Code for "Differentiable Robot Rendering" (CoRL 2024)
 - [llSourcell/O1-nano](https://github.com/llSourcell/O1-nano) - This is an open-source version of OpenAI's O1 Model Series by Siraj Raval & O1-Preview
 - [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", Accepted to ACL 2024
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) - :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
@@ -1523,7 +1526,7 @@
 - [osgil-defense/TARS](https://github.com/osgil-defense/TARS) - Using Agents To Automate Pentesting
 - [lucidrains/gamengen-pytorch](https://github.com/lucidrains/gamengen-pytorch) - Implementation of a framework for Gamengen in Pytorch
 - [octree-nn/octfusion](https://github.com/octree-nn/octfusion) - OctFusion: Octree-based Diffusion Models for 3D Shape Generation
-- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning
+- [phidatahq/phidata](https://github.com/phidatahq/phidata) - Build AI Agents with memory, knowledge, tools and reasoning. Chat with them using a beautiful Agent UI.
 - [weavel-ai/Ape](https://github.com/weavel-ai/Ape) - Your first AI prompt engineer
 - [Aleph-Alpha/scaling](https://github.com/Aleph-Alpha/scaling) - Scaling is a distributed training library and installable dependency designed to scale up neural networks, with a dedicated module for training large language models.
 - [Lightning-AI/LitServe](https://github.com/Lightning-AI/LitServe) - Lightning-fast serving engine for any AI model of any size. Flexible. Easy. Enterprise-scale.
@@ -1714,7 +1717,7 @@
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [OpenBMB/RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
-- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent) - [NeurIPS 2024] SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [geofurb/rabbithole](https://github.com/geofurb/rabbithole) - Send HTTP scrapers to Wonderland
 - [KhoomeiK/interrupting-cow](https://github.com/KhoomeiK/interrupting-cow) - 🐮📢 The first AI voice assistant that interrupts *you*
@@ -2102,7 +2105,7 @@
 - [achristmascarl/rainfrog](https://github.com/achristmascarl/rainfrog) - 🐸 a database management tui for postgres
 - [erskingardner/whitenoise](https://github.com/erskingardner/whitenoise) - Secure Messaging over Nostr
 - [project-gauntlet/gauntlet](https://github.com/project-gauntlet/gauntlet) - Raycast-inspired open-source cross-platform application launcher with React-based plugins
-- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Works with Ollama. Llama3.2 control your computer. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
+- [mediar-ai/screenpipe](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording. Start recording your screen today ... or be left behind. Works with Ollama. Alternative to Rewind.ai & Zapier. Open. Secure. You own your data. Rust.
 - [pendulum-project/ntpd-rs](https://github.com/pendulum-project/ntpd-rs) - A full-featured implementation of the Network Time Protocol, including NTS support.
 - [advancedresearch/path_semantics](https://github.com/advancedresearch/path_semantics) - A research project in path semantics, a re-interpretation of functions for expressing mathematics
 - [msminhas93/nviwatch](https://github.com/msminhas93/nviwatch) - NviWatch: A blazingly fast rust based TUI for managing and monitoring NVIDIA GPU processes
@@ -2343,6 +2346,8 @@
 
 ## TypeScript 
 
+- [elder-plinius/anthropic-quickstarts](https://github.com/elder-plinius/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
+- [cfahlgren1/qwen-2.5-code-interpreter](https://github.com/cfahlgren1/qwen-2.5-code-interpreter) - Qwen 2.5 Coder 1.5B with Code Interpreter
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [timb-103/colormagic](https://github.com/timb-103/colormagic) - AI Color Palette Generator
 - [browserbase/BrowseGPT](https://github.com/browserbase/BrowseGPT) - Chat interface that searches the web for you real-time
