@@ -132,6 +132,7 @@
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -248,6 +249,8 @@
 
 ## ai 
 
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 - [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
 - [geeknik/ai-tab-grouper](https://github.com/geeknik/ai-tab-grouper) - Automatically groups your browser tabs using advanced text analysis algorithms
@@ -287,6 +290,7 @@
 - [humanlayer/humanlayer](https://github.com/humanlayer/humanlayer) - HumanLayer enables AI agents to communicate with humans in tool-based and async workflows. Guarantee human oversight of high-stakes function calls with approval workflows across slack, email and more.
 - [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) - The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows.
 - [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit) - React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
+- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - Meet JarvisAI: Your Ultimate Voice-Activated Assistant 🚀 | Harnessing the power of #AI, #SpeechRecognition, and #NLP to automate tasks effortlessly. Dive into a futuristic, sci-fi-inspired interface f
 - [clemlesne/scrape-it-now](https://github.com/clemlesne/scrape-it-now) - Web scraper made for AI and simplicity in mind. It runs as a CLI that can be parallelized and outputs high-quality markdown content.
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
 - [myshell-ai/AIlice](https://github.com/myshell-ai/AIlice) - AIlice is a fully autonomous, general-purpose AI agent.
@@ -739,6 +743,7 @@
 
 ## c 
 
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
 - [tree-sitter/tree-sitter](https://github.com/tree-sitter/tree-sitter) - An incremental parsing system for programming tools
 - [rhysd/8cc.vim](https://github.com/rhysd/8cc.vim) - C Compiler written in Vim script
@@ -1019,7 +1024,9 @@
 
 ## cpp 
 
-- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
+- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Turn your Raspberry Pi into a low-latency home security camera. Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [orosmatthew/nnm](https://github.com/orosmatthew/nnm) - A "No-Nonsense", C++ 17, single-header-only Math library geared towards graphics programming
 - [shadps4-emu/shadPS4](https://github.com/shadps4-emu/shadPS4) - PS4 emulator for Windows,Linux,MacOS
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight.
@@ -1279,6 +1286,7 @@
 
 ## docker 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jens-maus/RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for your CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual applian
 - [Swordfish-Security/Pentest-In-Docker](https://github.com/Swordfish-Security/Pentest-In-Docker) - Docker image to exploit RCE, try for pentest methods and test container security solutions (trivy, falco and etc.)
 - [ellerbrock/docker-security-images](https://github.com/ellerbrock/docker-security-images) - :closed_lock_with_key: Docker Container for Penetration Testing & Security
@@ -1562,6 +1570,7 @@
 
 ## go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [0xJacky/nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 - [golang/go](https://github.com/golang/go) - The Go programming language
@@ -1606,6 +1615,9 @@
 
 ## golang 
 
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
@@ -1778,6 +1790,7 @@
 
 ## hacktoberfest 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [gimseng/99-ML-Learning-Projects](https://github.com/gimseng/99-ML-Learning-Projects) - A list of 99 machine learning projects for anyone interested to learn from coding and building projects
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
@@ -2127,6 +2140,7 @@
 
 ## kubernetes 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [jens-maus/RaspberryMatic](https://github.com/jens-maus/RaspberryMatic) - :house: A feature-rich but lightweight, buildroot-based Linux operating system alternative for your CloudFree CCU3/ELV-Charly 'homematicIP CCU' IoT smarthome central. Running as a pure virtual applian
 - [NCCloud/mayfly](https://github.com/NCCloud/mayfly) - An operator to manage ephemeral Kubernetes resources :honeybee:
 - [nullswan/bpfsnitch](https://github.com/nullswan/bpfsnitch) - Real-time network & syscall monitoring tool for Linux systems and Kubernetes clusters
@@ -2226,7 +2240,8 @@
 
 ## llm 
 
-- [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", Accepted to ACL 2024
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - Code for "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", ACL 2024
 - [metauto-ai/agent-as-a-judge](https://github.com/metauto-ai/agent-as-a-judge) - 🤠 Agent-as-a-Judge and DevAI dataset
 - [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
@@ -2336,6 +2351,10 @@
 - [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT) - A GPT-empowered penetration testing tool
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 - [salesforce/CodeGen](https://github.com/salesforce/CodeGen) - CodeGen is a family of open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.
+
+## login 
+
+- [eartho-group/eartho](https://github.com/eartho-group/eartho) - The Open-Source, Privacy-Focused Alternative to Google Sign-In
 
 ## low-code 
 
@@ -2593,6 +2612,7 @@
 
 ## nextjs 
 
+- [eartho-group/eartho](https://github.com/eartho-group/eartho) - The Open-Source, Privacy-Focused Alternative to Google Sign-In
 - [mbarinov/repogpt](https://github.com/mbarinov/repogpt) - RepoGPT: AI-powered GitHub assistant to chat, manage, and explore your repos effortlessly.
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend.
@@ -2733,6 +2753,7 @@
 
 ## openai 
 
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
 - [katanemo/arch](https://github.com/katanemo/arch) - Arch is an intelligent prompt gateway. Engineered with (fast) LLMs for the secure handling, robust observability, and seamless integration of prompts with APIs - all outside business logic. Built by t
 - [griptape-ai/griptape](https://github.com/griptape-ai/griptape) - Modular Python framework for AI agents and workflows with chain-of-thought reasoning, tools, and memory.
 - [ErikBjare/gptme](https://github.com/ErikBjare/gptme) - Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision.
@@ -2872,6 +2893,15 @@
 
 ## others 
 
+- [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
+- [malvuln/Adversary3](https://github.com/malvuln/Adversary3) - Malware vulnerability intel tool for third-party attackers
+- [Trivulzianus/BugGPT](https://github.com/Trivulzianus/BugGPT) - LLM powered vulnerable web page generator for testing and educational purposes
+- [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) - An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Language Server & Templating Language Library
+- [nullenc0de/misconfigmate](https://github.com/nullenc0de/misconfigmate) - This tool builds upon their excellent research and service templates while adding additional features and improvements.
+- [mandatoryprogrammer/xcname](https://github.com/mandatoryprogrammer/xcname) - A tool for enumerating expired domains in CNAME records
+- [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
+- [mandatoryprogrammer/JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy
 - [geeknik/vite-web-extension](https://github.com/geeknik/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS
 - [geeknik/ublock-privacy-filters](https://github.com/geeknik/ublock-privacy-filters) - Privacy Filters for uBlock Origin
 - [knapah/Brave-Browser-Filterlist](https://github.com/knapah/Brave-Browser-Filterlist) - Custom filter list for Brave Browser
@@ -3093,7 +3123,7 @@
 - [yevbar/browserbased](https://github.com/yevbar/browserbased) - COBOL for serverless headless browsers
 - [advancedresearch/path_semantics](https://github.com/advancedresearch/path_semantics) - A research project in path semantics, a re-interpretation of functions for expressing mathematics
 - [ResidualLaugh/FindSomething](https://github.com/ResidualLaugh/FindSomething) - 基于chrome、firefox插件的被动式信息泄漏检测工具
-- [lalalune/Eliza](https://github.com/lalalune/Eliza) - Conversational Agent for Twitter and Discord
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 - [advancedresearch/the_century_of_satire](https://github.com/advancedresearch/the_century_of_satire) - Reconstructing 2nd century cultural literature context of Roman satire in Early Christianity texts
 - [damn/moon](https://github.com/damn/moon) - RPG Maker & Engine
 - [DaveBben/esp32-llm](https://github.com/DaveBben/esp32-llm) - Running a LLM on the ESP32
@@ -3152,7 +3182,6 @@
 - [mlcsec/huntsman](https://github.com/mlcsec/huntsman) - Email enumerator, username generator, and context validator for hunter.io, snov.io, and skrapp.io
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 - [VJBots/VJ-Txt-Leech-Bot](https://github.com/VJBots/VJ-Txt-Leech-Bot) - A Txt To Video Bot / Txt Leech Bot / Txt To File Bot. Made By https://youtube.com/@Tech_VJ
-- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - JarvisAI is a powerful voice-activated assistant that automates tasks using advanced AI, speech recognition, and natural language processing. Experience seamless interaction with a futuristic, sci-fi-
 - [Qwer-TeX/minibox](https://github.com/Qwer-TeX/minibox) - Advanced unix toolbox superceding BusyBox/ToyBox under the subject of size.
 - [seadfeng/redirect-checker](https://github.com/seadfeng/redirect-checker) - 
 - [avishek-sen-gupta/cobol-rekt](https://github.com/avishek-sen-gupta/cobol-rekt) - An evolving toolkit of capabilities helpful for reverse engineering legacy Cobol code
@@ -3224,7 +3253,7 @@
 - [AnswerDotAI/fasthtml](https://github.com/AnswerDotAI/fasthtml) - The fastest way to create an HTML app
 - [skapadia3214/groq-moa](https://github.com/skapadia3214/groq-moa) - Mixture of Agents using Groq
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
-- [voidism/Lookback-Lens](https://github.com/voidism/Lookback-Lens) - Official implementation for the paper "Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps"
+- [voidism/Lookback-Lens](https://github.com/voidism/Lookback-Lens) - Code for the EMNLP 2024 paper "Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps"
 - [ivostoykov/localAI](https://github.com/ivostoykov/localAI) - Use local AI within the browser
 - [Leoleojames1/ollama_agent_roll_cage](https://github.com/Leoleojames1/ollama_agent_roll_cage) - 🤖👽🤬🧙💬 Boost your AI experience with this Ollama add-on! Enjoy real-time audio 🎙️ and text 🔍 chats, LaTeX rendering 📜, agent automations ⚙️, workflows 🔄, text-to-image 📝➡️🖼️, image-to-text 🖼️➡️🔤, image
 - [simevidas/browser-intents](https://github.com/simevidas/browser-intents) - A weekly selection of the relevant Chromium and Firefox intents
@@ -3425,7 +3454,7 @@
 - [apple/corenet](https://github.com/apple/corenet) - CoreNet: A library for training deep neural networks
 - [Nikityyy/sad](https://github.com/Nikityyy/sad) - sad - The Unblockable AdBlocker
 - [mozilla/extension-activity-monitor](https://github.com/mozilla/extension-activity-monitor) - Firefox extension activity monitor
-- [choupit0/MassVulScan](https://github.com/choupit0/MassVulScan) - Bash script which quickly identifies open network ports and any associated vulnerabilities / Script Bash qui permet d'identifier rapidement les ports réseaux ouverts et les éventuelles vulnérabilités 
+- [choupit0/MassVulScan](https://github.com/choupit0/MassVulScan) - A fast network scanning tool to detect open ports and security vulnerabilities
 - [adrian-rt/superion-mutator](https://github.com/adrian-rt/superion-mutator) - Superion Mutator for AFLPlusPlus
 - [marco-liberale/PasteBomb](https://github.com/marco-liberale/PasteBomb) - PasteBomb C2-less RAT
 - [praveenjalasutram/Darkweb-Onion-Links](https://github.com/praveenjalasutram/Darkweb-Onion-Links) - This is a collection of important onion sites that you can leverage for Deepweb and Darkweb Monitoring
@@ -4063,7 +4092,6 @@
 ## p2p 
 
 - [molvqingtai/WebChat](https://github.com/molvqingtai/WebChat) - 💬 Chat with anyone on any website.
-- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [SentryPeer/SentryPeer](https://github.com/SentryPeer/SentryPeer) - Protect your SIP Servers from bad actors at https://sentrypeer.org
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
 - [pojntfx/weron](https://github.com/pojntfx/weron) - Overlay networks based on WebRTC.
@@ -4292,6 +4320,8 @@
 
 ## python 
 
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 - [ml-tooling/best-of-ml-python](https://github.com/ml-tooling/best-of-ml-python) - 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.
 - [ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code) - 500 AI Machine learning Deep learning Computer vision NLP Projects with code
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -4502,7 +4532,7 @@
 - [genielabs/HomeGenie](https://github.com/genielabs/HomeGenie) - HomeGenie, the programmable automation intelligence
 - [CCOSTAN/Home-AssistantConfig](https://github.com/CCOSTAN/Home-AssistantConfig) - :house: Home Assistant configuration & Documentation for my Smart House.  Write-ups, videos, part lists, and links throughout. Be sure to :star: it. Updated FREQUENTLY!
 - [richard-austin/cloud-server](https://github.com/richard-austin/cloud-server) - Cloud service for  one or more security-cam NVR systems
-- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
+- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Turn your Raspberry Pi into a low-latency home security camera. Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [ptrsr/pi-ci](https://github.com/ptrsr/pi-ci) - Prepare Raspberry Pi 3, 4 & 5 configurations using a virtual machine.
 - [piku/piku](https://github.com/piku/piku) - The tiniest PaaS you've ever seen. Piku allows you to do git push deployments to your own servers.
 - [ANG13T/fly-catcher](https://github.com/ANG13T/fly-catcher) - ✈️ A device that detects for aircraft spoofing by monitoring for malicious ADS-B signals in the 1090MHz frequency. Built using a Raspberry Pi 3B and a FlightAware SDR
@@ -4637,6 +4667,7 @@
 
 ## rust 
 
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 - [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 - [orhun/dnsleaktest-tui](https://github.com/orhun/dnsleaktest-tui) - A proof-of-concept TUI for testing DNS leaks & running traceroute
 - [gosub-io/gosub-engine](https://github.com/gosub-io/gosub-engine) - Our main browser engine repository.
@@ -4704,6 +4735,7 @@
 
 ## security 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [geeknik/test-proxy](https://github.com/geeknik/test-proxy) - Advanced test for proxy & waf
 - [GreenmaskIO/greenmask](https://github.com/GreenmaskIO/greenmask) - PostgreSQL database anonymization and synthetic data generation tool
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
