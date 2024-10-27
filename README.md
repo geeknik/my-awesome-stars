@@ -107,6 +107,7 @@
 
 ## C 
 
+- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - TEN, the Next-Gen AI-Agent Framework, the world's first truly real-time multimodal AI agent framework.
 - [7etsuo/http-server](https://github.com/7etsuo/http-server) - HTTP Server in C
 - [eivindbohler/itxllama](https://github.com/eivindbohler/itxllama) - 
 - [googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer) - 
@@ -246,6 +247,7 @@
 
 ## C++ 
 
+- [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs
 - [microsoft/BitNet](https://github.com/microsoft/BitNet) - Official inference framework for 1-bit LLMs
 - [geeknik/fuzzing](https://github.com/geeknik/fuzzing) - Better living through Fuzzing
 - [geeknik/fast-inverse-square-root](https://github.com/geeknik/fast-inverse-square-root) - Fast inverse square root.
@@ -262,7 +264,7 @@
 - [GerbilSoft/rom-properties](https://github.com/GerbilSoft/rom-properties) - ROM Properties Page shell extension
 - [discord/libdave](https://github.com/discord/libdave) - Libraries supporting Discord's Audio & Video End-to-End Encryption (DAVE) protocol
 - [greynewell/musegpt](https://github.com/greynewell/musegpt) - Local LLMs in your DAW!
-- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
+- [TzuHuanTai/RaspberryPi_WebRTC](https://github.com/TzuHuanTai/RaspberryPi_WebRTC) - Turn your Raspberry Pi into a low-latency home security camera. Native WebRTC uses v4l2 hardware h264 and software openh264 encoder for live streaming on Raspberry Pi.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [dpjudas/SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
 - [orosmatthew/nnm](https://github.com/orosmatthew/nnm) - A "No-Nonsense", C++ 17, single-header-only Math library geared towards graphics programming
@@ -436,6 +438,7 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [intigriti/misconfig-mapper](https://github.com/intigriti/misconfig-mapper) - Misconfig Mapper is a fast tool to help you uncover security misconfigurations on popular third-party services used by your company and/or bug bounty targets!
 - [monperrus/crawler-user-agents](https://github.com/monperrus/crawler-user-agents) - Syntactic patterns of HTTP user-agents used by bots / robots / crawlers / scrapers / spiders. pull-request welcome :star:
 - [geeknik/tfidf](https://github.com/geeknik/tfidf) - shhhh!
@@ -726,6 +729,8 @@
 
 ## JavaScript 
 
+- [mandatoryprogrammer/tarnish](https://github.com/mandatoryprogrammer/tarnish) - A Chrome extension static analysis tool to help aide in security reviews.
+- [mandatoryprogrammer/JudasDNS](https://github.com/mandatoryprogrammer/JudasDNS) - Nameserver DNS poisoning attacks made easy
 - [yunekit/jexus](https://github.com/yunekit/jexus) - Jexus is a high-performance web server and reverse proxy server that works on Linux, and it is also a high-quality container for self-hosted web applications such as asp.net core, tomcat, golang web, 
 - [geeknik/coupon-code-race-finder](https://github.com/geeknik/coupon-code-race-finder) - A Firefox extension to aid in finding race conditions in coupon code handling.
 - [geeknik/pwgen](https://github.com/geeknik/pwgen) - 
@@ -745,7 +750,6 @@
 - [akazwz/image-worker](https://github.com/akazwz/image-worker) - Use cloudflare worker and rust wasm to build an image processing service. 使用 Cloudflare Worker 和 Rust WASM 构建图像处理服务
 - [openai/openai-realtime-console](https://github.com/openai/openai-realtime-console) - React app for inspecting, building and debugging with the Realtime API
 - [Sinaptik-AI/panda-etl](https://github.com/Sinaptik-AI/panda-etl) - No-code ETL and data pipelines with AI and NLP
-- [MingSun-Tse/LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow) - TensorFlow code for our ECCV'24 Workshop paper "LightAvatar: Efficient Head Avatar as Dynamic NeLF"
 - [monklie/monklie-product-hunt-alternative](https://github.com/monklie/monklie-product-hunt-alternative) - Solving indie distribution/marketing
 - [zhengkyl/qrframe](https://github.com/zhengkyl/qrframe) - code-based qr code generator
 - [abinthomasonline/repo2txt](https://github.com/abinthomasonline/repo2txt) - Web-based tool converts GitHub repository contents into a single formatted text file
@@ -1138,6 +1142,7 @@
 
 ## Others 
 
+- [malvuln/Adversary3](https://github.com/malvuln/Adversary3) - Malware vulnerability intel tool for third-party attackers
 - [oxford-cs-deepnlp-2017/lectures](https://github.com/oxford-cs-deepnlp-2017/lectures) - Oxford Deep NLP 2017 course
 - [geeknik/ublock-privacy-filters](https://github.com/geeknik/ublock-privacy-filters) - Privacy Filters for uBlock Origin
 - [knapah/Brave-Browser-Filterlist](https://github.com/knapah/Brave-Browser-Filterlist) - Custom filter list for Brave Browser
@@ -1383,6 +1388,11 @@
 
 ## Python 
 
+- [Trivulzianus/BugGPT](https://github.com/Trivulzianus/BugGPT) - LLM powered vulnerable web page generator for testing and educational purposes
+- [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) - An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
+- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is the world’s first real-time multimodal agent integrated with the OpenAI Realtime API, RTC, and features weather checks, web search, vision, and RAG capabilities.
+- [nullenc0de/misconfigmate](https://github.com/nullenc0de/misconfigmate) - This tool builds upon their excellent research and service templates while adding additional features and improvements.
+- [mandatoryprogrammer/xcname](https://github.com/mandatoryprogrammer/xcname) - A tool for enumerating expired domains in CNAME records
 - [samyk/rflasermic](https://github.com/samyk/rflasermic) - RF-modulated high fidelity laser microphone and keystroke sniffer
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
 - [iamunixtz/JSNinja](https://github.com/iamunixtz/JSNinja) - JSNinja is a powerful tool designed for security researchers and developers looking to extract sensitive information and Urls from JavaScript files.
@@ -1396,7 +1406,7 @@
 - [facebookresearch/spiritlm](https://github.com/facebookresearch/spiritlm) - Inference code for the paper "Spirit-LM Interleaved Spoken and Written Language Model".
 - [cvlab-columbia/drrobot](https://github.com/cvlab-columbia/drrobot) - Code for "Differentiable Robot Rendering" (CoRL 2024)
 - [llSourcell/O1-nano](https://github.com/llSourcell/O1-nano) - This is an open-source version of OpenAI's O1 Model Series by Siraj Raval & O1-Preview
-- [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", Accepted to ACL 2024
+- [facebookresearch/LayerSkip](https://github.com/facebookresearch/LayerSkip) - Code for "LayerSkip: Enabling Early Exit Inference and Self-Speculative Decoding", ACL 2024
 - [hartwork/sandwine](https://github.com/hartwork/sandwine) - :wine_glass: Command-line tool to run Windows apps with Wine and bwrap/bubblewrap isolation on Linux
 - [geeknik/nuclei-template-generator](https://github.com/geeknik/nuclei-template-generator) - A simple tool which makes creating nuclei templates even easier.
 - [geeknik/tiny-python-scripts](https://github.com/geeknik/tiny-python-scripts) - Tiny Python Scripts for Everyday Automation
@@ -1444,6 +1454,7 @@
 - [voxel51/fiftyone-brain](https://github.com/voxel51/fiftyone-brain) - Open source AI/ML capabilities for the FiftyOne ecosystem
 - [voxel51/fiftyone](https://github.com/voxel51/fiftyone) - Refine high-quality datasets and visual AI models
 - [glato/emerge](https://github.com/glato/emerge) - Emerge is a browser-based interactive codebase and dependency visualization tool for many different programming languages. It supports some basic code quality and graph metrics and provides a simple a
+- [MingSun-Tse/LightAvatar-TensorFlow](https://github.com/MingSun-Tse/LightAvatar-TensorFlow) - TensorFlow code for our ECCV'24 Workshop paper "LightAvatar: Efficient Head Avatar as Dynamic NeLF"
 - [cai525/Transformer4SED](https://github.com/cai525/Transformer4SED) - This repository aims to collect Transformer-based sound event detection (SED) algorithms.
 - [gabrielchua/open-notebooklm](https://github.com/gabrielchua/open-notebooklm) - Convert any PDF into a podcast episode!
 - [llllvvuu/instant_apply](https://github.com/llllvvuu/instant_apply) - proof-of-concept of Cursor's Instant Apply feature
@@ -1564,7 +1575,7 @@
 - [wasi-master/13ft](https://github.com/wasi-master/13ft) - My own custom 12ft.io replacement
 - [mlcsec/huntsman](https://github.com/mlcsec/huntsman) - Email enumerator, username generator, and context validator for hunter.io, snov.io, and skrapp.io
 - [VJBots/VJ-Txt-Leech-Bot](https://github.com/VJBots/VJ-Txt-Leech-Bot) - A Txt To Video Bot / Txt Leech Bot / Txt To File Bot. Made By https://youtube.com/@Tech_VJ
-- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - JarvisAI is a powerful voice-activated assistant that automates tasks using advanced AI, speech recognition, and natural language processing. Experience seamless interaction with a futuristic, sci-fi-
+- [AnubhavChaturvedi-GitHub/J.A.R.V.I.S](https://github.com/AnubhavChaturvedi-GitHub/J.A.R.V.I.S) - Meet JarvisAI: Your Ultimate Voice-Activated Assistant 🚀 | Harnessing the power of #AI, #SpeechRecognition, and #NLP to automate tasks effortlessly. Dive into a futuristic, sci-fi-inspired interface f
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - A one-stop, open-source, high-quality data extraction tool, supports PDF/webpage/e-book extraction.一站式开源高质量数据提取工具，支持PDF/网页/多格式电子书提取。
 - [raznem/parsera](https://github.com/raznem/parsera) - Lightweight library for scraping web-sites with LLMs
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -1598,7 +1609,7 @@
 - [lipku/LiveTalking](https://github.com/lipku/LiveTalking) - Real time interactive streaming digital human
 - [skapadia3214/groq-moa](https://github.com/skapadia3214/groq-moa) - Mixture of Agents using Groq
 - [frdel/agent-zero](https://github.com/frdel/agent-zero) - Agent Zero AI framework
-- [voidism/Lookback-Lens](https://github.com/voidism/Lookback-Lens) - Official implementation for the paper "Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps"
+- [voidism/Lookback-Lens](https://github.com/voidism/Lookback-Lens) - Code for the EMNLP 2024 paper "Detecting and Mitigating Contextual Hallucinations in Large Language Models Using Only Attention Maps"
 - [google-deepmind/treescope](https://github.com/google-deepmind/treescope) - An interactive HTML pretty-printer for machine learning research in IPython notebooks.
 - [Leoleojames1/ollama_agent_roll_cage](https://github.com/Leoleojames1/ollama_agent_roll_cage) - 🤖👽🤬🧙💬 Boost your AI experience with this Ollama add-on! Enjoy real-time audio 🎙️ and text 🔍 chats, LaTeX rendering 📜, agent automations ⚙️, workflows 🔄, text-to-image 📝➡️🖼️, image-to-text 🖼️➡️🔤, image
 - [cpypasta/llm-web-agent](https://github.com/cpypasta/llm-web-agent) - A collection of tools that explore giving LLMs agency.
@@ -2207,7 +2218,7 @@
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
 - [0xKayala/NucleiFuzzer](https://github.com/0xKayala/NucleiFuzzer) - NucleiFuzzer is a Powerful Automation tool for detecting XSS, SQLi, SSRF, Open-Redirect, etc.. Vulnerabilities in Web Applications
-- [choupit0/MassVulScan](https://github.com/choupit0/MassVulScan) - Bash script which quickly identifies open network ports and any associated vulnerabilities / Script Bash qui permet d'identifier rapidement les ports réseaux ouverts et les éventuelles vulnérabilités 
+- [choupit0/MassVulScan](https://github.com/choupit0/MassVulScan) - A fast network scanning tool to detect open ports and security vulnerabilities
 - [edoardottt/missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates) - Weekly updated list of missing CVEs in nuclei templates official repository. Mainly built for bug bounty, but useful for penetration tests and vulnerability assessments too.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [0xPugal/monitor.sh](https://github.com/0xPugal/monitor.sh) - Continuous Reconnaissance and Vulnerability Scanning for Bug Bounties
@@ -2353,6 +2364,7 @@
 
 ## TypeScript 
 
+- [eartho-group/eartho](https://github.com/eartho-group/eartho) - The Open-Source, Privacy-Focused Alternative to Google Sign-In
 - [geeknik/vite-web-extension](https://github.com/geeknik/vite-web-extension) - Vite web extension template. Setup with React, Typescript and TailwindCSS
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [elder-plinius/anthropic-quickstarts](https://github.com/elder-plinius/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
@@ -2392,7 +2404,7 @@
 - [yaakapp/app](https://github.com/yaakapp/app) - The most intuitive desktop API client. Organize and execute REST, GraphQL, and gRPC requests in a simple and intuitive app.
 - [upstash/jstack](https://github.com/upstash/jstack) - Confidently ship high-performance, low-cost Next.js apps
 - [yournextstore/yournextstore](https://github.com/yournextstore/yournextstore) - Modern Commerce with Next.js and Stripe as the backend.
-- [lalalune/Eliza](https://github.com/lalalune/Eliza) - Conversational Agent for Twitter and Discord
+- [ai16z/eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - Open-source data flywheel platform for LLM apps. Fast and reliable. Written in Rust 🦀. YC S24.
@@ -2591,6 +2603,7 @@
 
 ## Zig 
 
+- [kristoff-it/superhtml](https://github.com/kristoff-it/superhtml) - HTML Language Server & Templating Language Library
 - [zml/zml](https://github.com/zml/zml) - High performance AI inference stack. Built for production. @ziglang / @openxla / MLIR / @bazelbuild
 
 ## q 
