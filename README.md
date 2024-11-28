@@ -90,6 +90,7 @@
 
 ## Assembly 
 
+- [vcraftjp/VZEditor](https://github.com/vcraftjp/VZEditor) - MS-DOS Text Editor
 - [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25, 2.0, and 4.0 for reference purposes
 - [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required) - 📖 An approachable introduction to Assembly.
 
@@ -445,6 +446,7 @@
 
 ## Go 
 
+- [WuKongIM/WuKongIM](https://github.com/WuKongIM/WuKongIM) - More than just IM 不只是即时通讯( IM )
 - [nakabonne/ali](https://github.com/nakabonne/ali) - Generate HTTP load and plot the results in real-time
 - [owenrumney/squealer](https://github.com/owenrumney/squealer) - Telling tales on you for leaking secrets!
 - [doxx/darkflare](https://github.com/doxx/darkflare) - DarkFlare Firewall Piercing (TCP over CDN)
@@ -656,6 +658,7 @@
 
 ## HTML 
 
+- [stalkermustang/llm-bulls-and-cows-benchmark](https://github.com/stalkermustang/llm-bulls-and-cows-benchmark) - A mini-framework for evaluating LLM performance on the Bulls and Cows number guessing game, supporting multiple LLM providers.
 - [fudan-zvg/gtracer](https://github.com/fudan-zvg/gtracer) - 3D Gaussian Ray Tracer
 - [geeknik/alien-space-shooter](https://github.com/geeknik/alien-space-shooter) - Alien Space Shooter
 - [0xeb/TheBigPromptLibrary](https://github.com/0xeb/TheBigPromptLibrary) - A collection of prompts, system prompts and LLM instructions
@@ -667,7 +670,6 @@
 - [owickstrom/the-monospace-web](https://github.com/owickstrom/the-monospace-web) - A minimalist design exploration
 - [ibudiallo/automated-agents-book](https://github.com/ibudiallo/automated-agents-book) - Repository for the book: Automated Agents
 - [GAIR-NLP/OpenResearcher](https://github.com/GAIR-NLP/OpenResearcher) - OpenResearcher, an advanced Scientific Research Assistant
-- [aogposton/BOA27](https://github.com/aogposton/BOA27) - The open source, open hardware, smart balloon. Designed, with love, to provide hope for those living under Article 27.
 - [hemant-i7/Ai_blog_Writer](https://github.com/hemant-i7/Ai_blog_Writer) - This project aims to develop an AI-based system that can generate blog articles on a given topic using OpenAI's GPT-3 API. The system will use natural language processing and deep learning techniques 
 - [dpmittal/SentiEnt](https://github.com/dpmittal/SentiEnt) - Sentiment Analyser of product reviews on various E-Commerce Websites
 - [gehaxelt/phuzz](https://github.com/gehaxelt/phuzz) - 
@@ -1357,7 +1359,7 @@
 - [geeknik/wp-chaotic-comments](https://github.com/geeknik/wp-chaotic-comments) - Chaotic Comments Plug-in for WordPress
 - [sergejey/majordomo](https://github.com/sergejey/majordomo) - Home automation platform
 - [jeedom/core](https://github.com/jeedom/core) - Software for home automation
-- [akirk/friends](https://github.com/akirk/friends) - A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make it a full Mastodon instance.
+- [akirk/friends](https://github.com/akirk/friends) - A social network between WordPresses. Privacy focused, by itself a self-hosted RSS++ reader with notifications. Combine with other plugins to make your WordPress a full personal Mastodon instance.
 - [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 - [harisec/orange-confusion-attacks](https://github.com/harisec/orange-confusion-attacks) - Repro for Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!
 - [medilies/xssless](https://github.com/medilies/xssless) - Clean your rich text from XSS threats.
@@ -1422,6 +1424,8 @@
 
 ## Python 
 
+- [xqtr/PySpecSDR](https://github.com/xqtr/PySpecSDR) - Python SDR Spectrum Analyzer and Signal Processor
+- [GenseeAI/cognify](https://github.com/GenseeAI/cognify) - The Multi-Faceted Optimizer for GenAI Workflows
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [huggingface/smollm](https://github.com/huggingface/smollm) - Everything about the SmolLM & SmolLM2 family of models
 - [PrithivirajDamodaran/Route0x](https://github.com/PrithivirajDamodaran/Route0x) - Low latency, High Accuracy, Custom Query routers for Humans and Agents. Built by Prithivi Da
@@ -1888,7 +1892,7 @@
 - [tigthor/neural-network-hacking](https://github.com/tigthor/neural-network-hacking) - Hacking the Singularity. Deep learning hacking. Weaponizing AI in Offensive security
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
 - [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
-- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 40,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
+- [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 45,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [uds-se/FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs.
 - [nerdyrodent/VQGAN-CLIP](https://github.com/nerdyrodent/VQGAN-CLIP) - Just playing with getting VQGAN+CLIP running locally, rather than having to use colab.
@@ -2388,7 +2392,7 @@
 - [the-basilisk-ai/browser-burn](https://github.com/the-basilisk-ai/browser-burn) - Roast your Browsing History - AI Powered Chrome Extension
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [mithril-security/blind_chat](https://github.com/mithril-security/blind_chat) - A fully in-browser privacy solution to make Conversational AI privacy-friendly
-- [PlebeianTech/plebeian-market](https://github.com/PlebeianTech/plebeian-market) - The Bitcoin-native self-sovereign marketplace
+- [PlebeianApp/plebeian-market](https://github.com/PlebeianApp/plebeian-market) - The Bitcoin-native self-sovereign marketplace
 - [bhupeshpr25/memegen](https://github.com/bhupeshpr25/memegen) - meme generator extension for firefox and chrome
 - [blakejakopovic/nostr_delete](https://github.com/blakejakopovic/nostr_delete) - Nostr event deletion micro web-app
 
