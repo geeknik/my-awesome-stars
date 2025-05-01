@@ -133,7 +133,7 @@
 - [rudyrucker/chaos](https://github.com/rudyrucker/chaos) - James Gleick's Chaos: The Software
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [Ryzee119/XboxDoomBIOS](https://github.com/Ryzee119/XboxDoomBIOS) - A replacement Original Xbox BIOS that does one thing. Plays DOOM
-- [TEN-framework/ten_framework](https://github.com/TEN-framework/ten_framework) - The world’s first real-time, distributed, cloud-edge collaborative multimodal AI Agent Framework that simultaneously supports C/C++/Go/Python/JS/TS
+- [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - The world’s first real-time, distributed, cloud-edge collaborative multimodal AI Agent Framework that simultaneously supports C/C++/Go/Python/JS/TS
 - [7etsuo/http-server](https://github.com/7etsuo/http-server) - HTTP Server in C
 - [googleprojectzero/SockFuzzer](https://github.com/googleprojectzero/SockFuzzer) - 
 - [henrypp/simplewall](https://github.com/henrypp/simplewall) - Simple tool to configure Windows Filtering Platform (WFP) which can configure network activity on your computer.
@@ -274,6 +274,7 @@
 
 ## C++ 
 
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Framework for AI on edge devices
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [coinbase/cb-mpc](https://github.com/coinbase/cb-mpc) - Coinbase MPC Library
 - [flareteam/flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
@@ -447,14 +448,13 @@
 
 ## Dart 
 
-- [TretDan/Photochem](https://github.com/TretDan/Photochem) - Chemistry solver app
 - [doen1el/calibre-web-companion](https://github.com/doen1el/calibre-web-companion) - Unofficial companion app for calibre web (automated)
 - [foss42/apidash](https://github.com/foss42/apidash) - API Dash is a beautiful open-source cross-platform (macOS, Windows, Linux, Android & iOS) API Client built using Flutter which can help you easily create & customize your HTTP & GraphQL API requests, 
 - [bdlukaa/fluent_ui](https://github.com/bdlukaa/fluent_ui) - Implements Microsoft's WinUI3 in Flutter.
 - [dagmawibabi/ScholarXIV](https://github.com/dagmawibabi/ScholarXIV) - ScholArxiv is an open-source, aesthetic, minimal and AI powered app that allows users to search, read, bookmark, share, download and view summaries of academic papers from the arXiv repository.
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [Flutterando/yuno](https://github.com/Flutterando/yuno) - Minimal Open-source Retrogame Frontend
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn't require Premium nor uses Electron! Available for both desktop & mobile!
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source music client! Available for both desktop & mobile!
 - [thruthesky/fireflutter](https://github.com/thruthesky/fireflutter) - Flutter Fire Second Version
 - [Mj23978/sam-assistant-ui](https://github.com/Mj23978/sam-assistant-ui) - 🤖 Sam-assistant is a personal assistant that is designed to understand your documents, search the internet, and in future versions, create and understand images, and communicate with you. It is built 
 
@@ -483,6 +483,7 @@
 
 ## Go 
 
+- [CyberRoute/graphspecter](https://github.com/CyberRoute/graphspecter) - GraphSpecter is a tool to audit GraphQL API
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [safedep/vet](https://github.com/safedep/vet) - 🚀 Code Analysis & Policy as Code for Open Source Software Supply Chain
 - [bernardo-bruning/ollama-copilot](https://github.com/bernardo-bruning/ollama-copilot) - Proxy that allows you to use ollama as a copilot like Github copilot
@@ -787,7 +788,7 @@
 - [freedomotic/freedomotic](https://github.com/freedomotic/freedomotic) - Open IoT Framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, VMware vRealize Automation, Rundeck...
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Workflow Automation Platform. Orchestrate & Schedule code in any language, run anywhere, 600+ plugins. Alternative to Airflow, n8n, Rundeck, VMware vRA, Zapier ...
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -818,7 +819,9 @@
 
 ## JavaScript 
 
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed avoiding bottlenecks and long tasks.
 - [cicere/pumpswap-volume-bot](https://github.com/cicere/pumpswap-volume-bot) - A PumpSwap volume bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode.
+- [snagasuri/deebo-prototype](https://github.com/snagasuri/deebo-prototype) - Autonomous debugging agent MCP server
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 - [BenHenderson37/solana-program-exploits](https://github.com/BenHenderson37/solana-program-exploits) - This repo contains all of the programs used to exploit Solana smart contracts during my dissertation at Newcastle University
 - [boku7/Loki](https://github.com/boku7/Loki) - 🧙‍♂️ Node.js Command & Control for Script-Jacking Vulnerable Electron Applications
@@ -1241,6 +1244,7 @@
 
 ## Makefile 
 
+- [johnsaigle/scary-strings](https://github.com/johnsaigle/scary-strings) - Collection of wordlists containing dangerous function calls in many languages
 - [justinmeiners/lc3-vm](https://github.com/justinmeiners/lc3-vm) - Write your own virtual machine for the LC-3 computer!
 - [lnurl/luds](https://github.com/lnurl/luds) - lnurl specifications
 - [viva64/pvs-studio-makefile-examples](https://github.com/viva64/pvs-studio-makefile-examples) - Examples of PVS-Studio integration in Makefile
@@ -1273,6 +1277,7 @@
 
 ## Others 
 
+- [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
 - [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - SYSTEM PROMPT TRANSPARENCY FOR ALL - CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [SecretiveShell/Awesome-llms-txt](https://github.com/SecretiveShell/Awesome-llms-txt) - This list contains an index of llms.txt files hosted on various websites.
@@ -1295,7 +1300,7 @@
 - [securitytemplates/sectemplates](https://github.com/securitytemplates/sectemplates) - Open source templates you can use to bootstrap your security programs
 - [kuchin/awesome-cto](https://github.com/kuchin/awesome-cto) - A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups
 - [raysan5/custom_game_engines](https://github.com/raysan5/custom_game_engines) - A comprehensive list of custom game engines
-- [0xMacro/awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) - 
+- [0xMacro/awesome-solana-security](https://github.com/0xMacro/awesome-solana-security) - A collection of resources to help you build better and more secure Solana programs. Kept up to date.
 - [abarbatei/weird-erc721](https://github.com/abarbatei/weird-erc721) - weird  ERC721 (NFTs) tokens
 - [openai/openai-realtime-embedded](https://github.com/openai/openai-realtime-embedded) - Instructions on how to use the Realtime API on Microcontrollers and Embedded Platforms
 - [race-of-sloths/race-of-sloths-onboarding](https://github.com/race-of-sloths/race-of-sloths-onboarding) - 
@@ -1530,7 +1535,7 @@
 
 ## PLpgSQL 
 
-- [ChuckHend/pgmq](https://github.com/ChuckHend/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
+- [pgmq/pgmq](https://github.com/pgmq/pgmq) - A lightweight message queue. Like AWS SQS and RSMQ but on Postgres.
 - [timescale/pgai](https://github.com/timescale/pgai) - A suite of tools to develop RAG, semantic search, and other AI applications more easily with PostgreSQL
 - [nuno-faria/tetris-sql](https://github.com/nuno-faria/tetris-sql) - Using SQL's Turing Completeness to Build Tetris
 
@@ -1567,17 +1572,19 @@
 
 ## Python 
 
+- [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
+- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
+- [Inferentiaxyz/PromptForge](https://github.com/Inferentiaxyz/PromptForge) - This is an AI assistant for prompt engineers.
 - [SkyworkAI/SkyReels-V2](https://github.com/SkyworkAI/SkyReels-V2) - SkyReels-V2: Infinite-length Film Generative model
-- [The-Pocket/Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/Tutorial-Codebase-Knowledge) - Turns Codebase into Easy Tutorial with AI
+- [The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge](https://github.com/The-Pocket/PocketFlow-Tutorial-Codebase-Knowledge) - Pocket Flow Tutorial Project: Turns GitHub repo into Easy Tutorial with AI
 - [bminixhofer/tokenkit](https://github.com/bminixhofer/tokenkit) - A toolkit implementing advanced methods to transfer models and model knowledge across tokenizers.
-- [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) LLM serving with MLX tutorial for systems engineers.
 - [yee-yore/DorkAgent](https://github.com/yee-yore/DorkAgent) - 🤖 LLM-powered agent for automated Google Dorking in bug hunting & pentesting.
 - [gh0st359/xserum](https://github.com/gh0st359/xserum) - XSerum is a powerful web attack payload generator designed for red teamers, ethical hackers, and researchers. It supports a wide range of attack types including XSS, CSRF, HTML Injection, CSP Bypass, 
 - [saeeddhqan/Maryam](https://github.com/saeeddhqan/Maryam) - Maryam: Open-source Intelligence(OSINT) Framework
 - [John-AI-Lab/NoisyRollout](https://github.com/John-AI-Lab/NoisyRollout) - NoisyRollout: Reinforcing Visual Reasoning with Data Augmentation
 - [berylliumsec/nebula](https://github.com/berylliumsec/nebula) - AI-powered penetration testing assistant for automating recon, note-taking, and vulnerability analysis.
 - [knownsec/aipyapp](https://github.com/knownsec/aipyapp) - AI-Powered Python & Python-Powered AI (Python-Use)
-- [pietrozullo/mcp-use](https://github.com/pietrozullo/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
+- [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - mcp-use is the easiest way to interact with mcp servers with custom agents
 - [bespokelabsai/curator](https://github.com/bespokelabsai/curator) - Synthetic data curation for post-training and structured data extraction
 - [chainstacklabs/pump-fun-bot](https://github.com/chainstacklabs/pump-fun-bot) - A fully functional pump.fun trading and sniping bot not relying on any 3rd party APIs
 - [aliasrobotics/cai](https://github.com/aliasrobotics/cai) - Cybersecurity AI (CAI), an open Bug Bounty-ready Artificial Intelligence
@@ -1628,7 +1635,7 @@
 - [samuelberston/vuln-agent](https://github.com/samuelberston/vuln-agent) - LLM security agent capable of triaging vulnerabilities in source code using open source SAST/SCA
 - [ArslanS1997/Auto-Analyst](https://github.com/ArslanS1997/Auto-Analyst) - AI data scientist
 - [Deep-Agent/R1-V](https://github.com/Deep-Agent/R1-V) - Witness the aha moment of VLM with less than $3.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Llama 4, DeepSeek-R1, Gemma 3 & Reasoning LLMs 2x faster with 70% less memory! 🦥
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Finetune Qwen3, Llama 4, TTS, DeepSeek-R1 & Gemma 3 LLMs 2x faster with 70% less memory! 🦥
 - [HITsz-TMG/FilmAgent](https://github.com/HITsz-TMG/FilmAgent) - Resources of our paper "FilmAgent: A Multi-Agent Framework for End-to-End Film Automation in Virtual 3D Spaces". New versions in the making!
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [trycua/cua](https://github.com/trycua/cua) - c/ua is the Docker Container for Computer-Use AI Agents.
@@ -1731,7 +1738,6 @@
 - [ZGC-LLM-Safety/TrafficLLM](https://github.com/ZGC-LLM-Safety/TrafficLLM) - The repository of TrafficLLM, a universal LLM adaptation framework to learn robust traffic representation for all open-sourced LLM in real-world scenarios and enhance the generalization across diverse
 - [velocitybolt/open-extract](https://github.com/velocitybolt/open-extract) - Structured Data Extractor for AI Agents. Search your documents or the web for specific data and get it back in JSON or Markdown in a single tool call.
 - [Clevrr-AI/Clevrr-Computer](https://github.com/Clevrr-AI/Clevrr-Computer) - An open-source implementation of Anthropic's Computer Use to perform basic tasks using AI Agents.
-- [TEN-framework/TEN-Agent](https://github.com/TEN-framework/TEN-Agent) - TEN Agent is a conversational voice AI agent powered by TEN, integrating Deepseek, Gemini, OpenAI, RTC, and hardware like ESP32. It enables realtime AI capabilities like  seeing, hearing, and speaking
 - [nullenc0de/misconfigmate](https://github.com/nullenc0de/misconfigmate) - This tool builds upon their excellent research and service templates while adding additional features and improvements.
 - [mandatoryprogrammer/xcname](https://github.com/mandatoryprogrammer/xcname) - A tool for enumerating expired domains in CNAME records
 - [samyk/rflasermic](https://github.com/samyk/rflasermic) - RF-modulated high fidelity laser microphone and keystroke sniffer
@@ -2015,7 +2021,7 @@
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [trustedsec/The_Shelf](https://github.com/trustedsec/The_Shelf) - Retired TrustedSec Capabilities
 - [lllyasviel/Omost](https://github.com/lllyasviel/Omost) - Your image is almost there!
-- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security tool for AWS, Azure, GCP and Kubernetes. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening and forensics re
+- [prowler-cloud/prowler](https://github.com/prowler-cloud/prowler) - Prowler is an Open Cloud Security Platform for AWS, Azure, GCP, Kubernetes, M365 and more. It helps for continuos monitoring, security assessments and audits, incident response, compliance, hardening 
 - [sunzc-sunny/PPAD](https://github.com/sunzc-sunny/PPAD) - Position-Guided Prompt Learning for Anomaly Detection in Chest X-Rays
 - [Cisco-Talos/snap_wtf_macos](https://github.com/Cisco-Talos/snap_wtf_macos) - WTF Snapshot fuzzing of macOS targets
 - [TMElyralab/MusePose](https://github.com/TMElyralab/MusePose) - MusePose: a Pose-Driven Image-to-Video Framework for Virtual Human Generation
@@ -2071,7 +2077,7 @@
 - [sukeesh/Jarvis](https://github.com/sukeesh/Jarvis) - Personal Assistant for Linux and macOS
 - [AlexanderKoch-Koch/low_cost_robot](https://github.com/AlexanderKoch-Koch/low_cost_robot) - 
 - [OpenBMB/RepoAgent](https://github.com/OpenBMB/RepoAgent) - An LLM-powered repository agent designed to assist developers and teams in generating documentation and understanding repositories quickly.
-- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using GPT-4, or your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [huggingface/optimum-nvidia](https://github.com/huggingface/optimum-nvidia) - 
 - [geofurb/rabbithole](https://github.com/geofurb/rabbithole) - Send HTTP scrapers to Wonderland
 - [KhoomeiK/interrupting-cow](https://github.com/KhoomeiK/interrupting-cow) - 🐮📢 The first AI voice assistant that interrupts *you*
@@ -2154,7 +2160,7 @@
 - [facefusion/facefusion](https://github.com/facefusion/facefusion) - Industry leading face manipulation platform
 - [tigthor/neural-network-hacking](https://github.com/tigthor/neural-network-hacking) - Hacking the Singularity. Deep learning hacking. Weaponizing AI in Offensive security
 - [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) - All Algorithms implemented in Python
-- [geekan/MetaGPT](https://github.com/geekan/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
+- [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 - [topscoder/nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve) - The EXCLUSIVE Collection of 50,000+ Nuclei templates based on Wordfence intel. Daily updates for bulletproof WordPress security.
 - [pixray/pixray](https://github.com/pixray/pixray) - 
 - [uds-se/FormatFuzzer](https://github.com/uds-se/FormatFuzzer) - FormatFuzzer is a framework for high-efficiency, high-quality generation and parsing of binary inputs.
@@ -2163,7 +2169,7 @@
 - [aniketmaurya/llm-inference](https://github.com/aniketmaurya/llm-inference) - Large Language Model (LLM) Inference API and Chatbot
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [mem0ai/mem0](https://github.com/mem0ai/mem0) - The Memory layer for AI Agents
+- [mem0ai/mem0](https://github.com/mem0ai/mem0) - Memory for AI Agents; SOTA in AI Agent Memory, beating OpenAI Memory in accuracy by 26% - https://mem0.ai/research
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb) - AI's query engine - Platform for building AI that can learn and answer questions over large scale federated data.
 - [GrrrDog/weird_proxies](https://github.com/GrrrDog/weird_proxies) - Reverse proxies cheatsheet
@@ -2485,7 +2491,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion that requires no additional client-side software
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky heavy lifting in building agentic apps - routing prompts to agents or specific tools, clarifying input, unifying access and observability 
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps like calling specific tools, routing prompts to the right agents, clarifying vague inputs, unifyin
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
@@ -2561,7 +2567,7 @@
 
 ## Scala 
 
-- [chipsalliance/t1](https://github.com/chipsalliance/t1) - 
+- [chipsalliance/t1](https://github.com/chipsalliance/t1) - The highest performace Cray-like RISC-V Vector in the world.
 - [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [HyperDbg/hwdbg](https://github.com/HyperDbg/hwdbg) - HyperDbg's logic analyzer and chip-level hardware debugger
 - [ge0rg/aprsdroid](https://github.com/ge0rg/aprsdroid) - APRSdroid - Geo-Location for Radio Amateurs
@@ -2572,7 +2578,7 @@
 
 ## Shell 
 
-- [nalgeon/sandboxes](https://github.com/nalgeon/sandboxes) - Sandboxes for running code and tools with Codapi
+- [nalgeon/sandboxes](https://github.com/nalgeon/sandboxes) - Sandboxes for running code and tools
 - [darkresearch/solana-mcp](https://github.com/darkresearch/solana-mcp) - A Model Context Protocol server for interacting with the Solana blockchain, powered by the Solana Agent Kit (https://github.com/sendaifun/solana-agent-kit)
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
@@ -2772,11 +2778,13 @@
 
 ## TypeScript 
 
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source, AI-native testing framework for web apps
+- [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
+- [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
 - [metorial/mcp-containers](https://github.com/metorial/mcp-containers) - Containerized versions of hundreds of MCP servers 📡 🧠
 - [outpoot/vyntr](https://github.com/outpoot/vyntr) - Independent search engine. Includes web crawling, search indexing, dictionary API, and more. https://vyntr.com
 - [langwatch/create-agent-app](https://github.com/langwatch/create-agent-app) - Helping you select an AI agent framework
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [snagasuri/deebo-prototype](https://github.com/snagasuri/deebo-prototype) - Autonomous debugging agent MCP server
 - [APTRS/APTRS](https://github.com/APTRS/APTRS) - Automated pentest reporting with custom Word templates, project tracking, and client management tools. Streamline your security workflows effortlessly!
 - [supabase-community/supabase-mcp](https://github.com/supabase-community/supabase-mcp) - Connect Supabase to your AI assistants
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is the container for desktop agents.
@@ -2785,16 +2793,16 @@
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [geeknik/token-guardian](https://github.com/geeknik/token-guardian) - Advanced token security, leak prevention and rotation automation for Node.js applications
 - [iBz-04/Seeker](https://github.com/iBz-04/Seeker) - Your personal deep research ai agent, a free & open source alternative to open-ai deep research
-- [timqian/bambot](https://github.com/timqian/bambot) - Low cost (~$300) humanoid robot 🌱
+- [timqian/bambot](https://github.com/timqian/bambot) - Open source, low-cost AI robots 🤖
 - [akmenon1996/ai-agent-marketplace](https://github.com/akmenon1996/ai-agent-marketplace) - Gen AI agent marketplace
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - Self-healing open source data connector. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect.
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - Self-healing integration agent. Use it as a layer between you and any complex / legacy APIs and always get the data that you want in the format you expect.
 - [geeknik/Riona-AI-Agent](https://github.com/geeknik/Riona-AI-Agent) - Riona 🌸 is built with Node.js and TypeScript 🛠️. Designed to run jobs 📸 effortlessly. Lightweight, efficient, and a work in progress 🚧—more features coming soon! 🌟
 - [dha-stix/ai-post-generator-and-scheduler-with-copilotkit](https://github.com/dha-stix/ai-post-generator-and-scheduler-with-copilotkit) - 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [mishushakov/llm-scraper](https://github.com/mishushakov/llm-scraper) - Turn any webpage into structured data using LLMs
-- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet. Powered by Vercel AI SDK! Search with models like Grok 2.0.
+- [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
 - [kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server) - Example of an MCP server with custom tools that can be called directly from cursor
 - [threepointone/partyvite](https://github.com/threepointone/partyvite) - A starter template for 🎈 partyserver ⨉ ⚡️ vite ⨉ ⚛️ react ⨉ 🌊 tailwindcss ⨉ ⛅️ cloudflare workers
@@ -2887,7 +2895,7 @@
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [wesbos/bg-remover](https://github.com/wesbos/bg-remover) - 100% client side background remover
-- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Crate data flywheel for you AI app. Traces, Evals, Datasets, Labels. YC S24.
+- [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source all-in-one platform for engineering AI products. Create data flywheel for your AI app. Traces, Evals, Datasets, Labels. YC S24.
 - [meltylabs/melty](https://github.com/meltylabs/melty) - Chat first code editor. To download the packaged app:
 - [gitroomhq/postiz-app](https://github.com/gitroomhq/postiz-app) - 📨 The ultimate social media scheduling tool, with a bunch of AI  🤖
 - [midday-ai/v1](https://github.com/midday-ai/v1) - An open-source starter kit based on Midday.
@@ -2999,7 +3007,7 @@
 - [OpenAgentsInc/arcade](https://github.com/OpenAgentsInc/arcade) - Nostr & AI chat app
 - [Lissy93/web-check](https://github.com/Lissy93/web-check) - 🕵️‍♂️ All-in-one OSINT tool for analysing any website
 - [diegogurpegui/nos2x-fox](https://github.com/diegogurpegui/nos2x-fox) - nostr signer extension for Firefox
-- [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt) - Code review powered by LLMs (OpenAI GPT4, Sonnet 3.5) & Embeddings ⚡️ Improve code quality and catch bugs before you break production 🚀 Lives in your Github/GitLab/Azure DevOps CI
+- [mattzcarey/shippie](https://github.com/mattzcarey/shippie) - an extensible code review agent 🚢
 - [menhera-org/TabArray](https://github.com/menhera-org/TabArray) - Chrome-like tab groups using private and isolated containers: The ultimate tab manager and groups for Firefox.
 - [martinezpl/owlie-yt-addon](https://github.com/martinezpl/owlie-yt-addon) - Your wise, big-eyed Youtube assistant.
 - [superagent-ai/superagent](https://github.com/superagent-ai/superagent) - 🥷 Run AI-agents with an API
@@ -3013,7 +3021,7 @@
 - [langgenius/dify](https://github.com/langgenius/dify) - Dify is an open-source LLM app development platform. Dify's intuitive interface combines AI workflow, RAG pipeline, agent capabilities, model management, observability features and more, letting you q
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [dubinc/dub](https://github.com/dubinc/dub) - Open-source link attribution platform. Loved by modern marketing teams like Twilio, Perplexity, Vercel, and Huberman Labs.
+- [dubinc/dub](https://github.com/dubinc/dub) - The modern link attribution platform. Loved by world-class marketing teams like Twilio, Buffer, Framer, Perplexity, Vercel, and more.
 - [protectai/rebuff](https://github.com/protectai/rebuff) - LLM Prompt Injection Detector
 - [KishanBagaria/padding-oracle-attacker](https://github.com/KishanBagaria/padding-oracle-attacker) - 🔓 CLI tool and library to execute padding oracle attacks easily, with support for concurrent network requests and an elegant UI.
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
