@@ -1572,6 +1572,7 @@
 
 ## Python 
 
+- [restackio/examples-python](https://github.com/restackio/examples-python) - Restack AI examples for Python
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
 - [Inferentiaxyz/PromptForge](https://github.com/Inferentiaxyz/PromptForge) - This is an AI assistant for prompt engineers.
@@ -1645,7 +1646,6 @@
 - [Jiayi-Pan/TinyZero](https://github.com/Jiayi-Pan/TinyZero) - Clean, minimal, accessible reproduction of DeepSeek R1-Zero
 - [oumi-ai/oumi](https://github.com/oumi-ai/oumi) - Everything you need to build state-of-the-art foundation models, end-to-end.
 - [grll/mcpadapt](https://github.com/grll/mcpadapt) - Unlock 650+ MCP servers tools in your favorite agentic framework.
-- [Tadeu71811/Ollama-Discord-Bot](https://github.com/Tadeu71811/Ollama-Discord-Bot) - Turning your locally hosted Ollama model into a discord bot.
 - [MadeInFck/AIAgent-Ollama](https://github.com/MadeInFck/AIAgent-Ollama) - AI Local agent based on ollama
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [hkust-nlp/simpleRL-reason](https://github.com/hkust-nlp/simpleRL-reason) - Simple RL training for reasoning
