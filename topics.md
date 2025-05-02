@@ -3370,6 +3370,7 @@
 
 ## others 
 
+- [restackio/examples-python](https://github.com/restackio/examples-python) - Restack AI examples for Python
 - [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed avoiding bottlenecks and long tasks.
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
@@ -3487,7 +3488,6 @@
 - [LaurieWired/Malimite](https://github.com/LaurieWired/Malimite) - iOS and macOS Decompiler
 - [grll/mcpadapt](https://github.com/grll/mcpadapt) - Unlock 650+ MCP servers tools in your favorite agentic framework.
 - [ldclabs/anda](https://github.com/ldclabs/anda) - 🤖 An AI agent framework built with Rust, powered by ICP and TEEs.
-- [Tadeu71811/Ollama-Discord-Bot](https://github.com/Tadeu71811/Ollama-Discord-Bot) - Turning your locally hosted Ollama model into a discord bot.
 - [MadeInFck/AIAgent-Ollama](https://github.com/MadeInFck/AIAgent-Ollama) - AI Local agent based on ollama
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
