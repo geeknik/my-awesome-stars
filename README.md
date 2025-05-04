@@ -304,7 +304,7 @@
 - [sipeed/NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 - [discord/libdave](https://github.com/discord/libdave) - Libraries supporting Discord's Audio & Video End-to-End Encryption (DAVE) protocol
 - [greynewell/musegpt](https://github.com/greynewell/musegpt) - Local LLMs in your DAW!
-- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency home security camera by using native WebRTC with the v4l2 hardware H.264 encoder and the software-based OpenH264 encoder for live video stream.
+- [TzuHuanTai/RaspberryPi-WebRTC](https://github.com/TzuHuanTai/RaspberryPi-WebRTC) - Turn your Raspberry Pi into a low-latency security camera by using native WebRTC with the v4l2 hardware H.264 and the software OpenH264 encoder.
 - [ArduPilot/ardupilot](https://github.com/ArduPilot/ardupilot) - ArduPlane, ArduCopter, ArduRover, ArduSub source
 - [hku-mars/M2Mapping](https://github.com/hku-mars/M2Mapping) - [ICRA 2025] A MultiModal Mapping (M2Mapping) Framework for Neural Surface Reconstruction and Novel View Synthesis with LiDAR-Visual Systems
 - [dpjudas/SurrealEngine](https://github.com/dpjudas/SurrealEngine) - Unreal Tournament Engine Reimplementation
@@ -332,7 +332,7 @@
 - [ZeroMemoryEx/C2-Hunter](https://github.com/ZeroMemoryEx/C2-Hunter) - Extract C2 Traffic
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) - An Open-source LTE Downlink/Uplink Eavesdropper
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - Mac OS X cross toolchain for Linux, FreeBSD, OpenBSD and Android (Termux)
+- [tpoechtrager/osxcross](https://github.com/tpoechtrager/osxcross) - MacOS Cross-Toolchain for Linux and *BSD
 - [robjinman/richard](https://github.com/robjinman/richard) - Richard is gaining power
 - [GJDuck/EnvFuzz](https://github.com/GJDuck/EnvFuzz) - Fuzz anything with Program Environment Fuzzing
 - [openappsec/openappsec](https://github.com/openappsec/openappsec) - open-appsec is a machine learning security engine that preemptively and automatically prevents threats against Web Application & APIs. This repo include the main code and logic.
@@ -483,6 +483,7 @@
 
 ## Go 
 
+- [Ta0ing/MCP-SecurityTools](https://github.com/Ta0ing/MCP-SecurityTools) - MCP-SecurityTools 是一个专注于收录和更新网络安全领域 MCP 的开源项目，旨在汇总、整理和优化各类与 MCP 相关的安全工具、技术及实战经验。
 - [CyberRoute/graphspecter](https://github.com/CyberRoute/graphspecter) - GraphSpecter is a tool to audit GraphQL API
 - [github/github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
 - [safedep/vet](https://github.com/safedep/vet) - 🚀 Code Analysis & Policy as Code for Open Source Software Supply Chain
@@ -642,6 +643,7 @@
 - [rakibtg/Imager.go](https://github.com/rakibtg/Imager.go) - A go application to download random public domain images in random or defined size of length
 - [sstark/gjfy](https://github.com/sstark/gjfy) - gjfy is a standalone one-time link server. Use it to securely share secrets.
 - [gieseladev/mosaic](https://github.com/gieseladev/mosaic) - A collage generator primarily designed to generate stunning playlist thumbnails
+- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [j3ssie/metabigor](https://github.com/j3ssie/metabigor) - OSINT tools and more but without API key
 - [smf8/http-monitor](https://github.com/smf8/http-monitor) - An HTTP endpoint monitor service with RESTful API
@@ -819,7 +821,7 @@
 
 ## JavaScript 
 
-- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed avoiding bottlenecks and long tasks.
+- [zumerlab/snapdom](https://github.com/zumerlab/snapdom) - snapDOM captures DOM nodes as images with exceptional speed and accuracy.
 - [cicere/pumpswap-volume-bot](https://github.com/cicere/pumpswap-volume-bot) - A PumpSwap volume bot for Solana. Also supports CPMM/OpenBook Raydium. Same-TX or human mode.
 - [snagasuri/deebo-prototype](https://github.com/snagasuri/deebo-prototype) - Autonomous debugging agent MCP server
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
@@ -1572,6 +1574,11 @@
 
 ## Python 
 
+- [XiaomiMiMo/MiMo](https://github.com/XiaomiMiMo/MiMo) - MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining
+- [itsuzef/reaper-mcp](https://github.com/itsuzef/reaper-mcp) - A comprehensive Model Context Protocol (MCP) server that enables AI agents to create fully mixed and mastered tracks in REAPER with both MIDI and audio capabilities.
+- [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) - Distributed RL System for LLM Reasoning
+- [zamalali/DeepGit](https://github.com/zamalali/DeepGit) - Deep research agent to help you find the best GitHub repositories 🕵️!
+- [geeknik/ai-audio-fingerprint-remover](https://github.com/geeknik/ai-audio-fingerprint-remover) - A comprehensive Python tool to remove AI-generated fingerprints, watermarks, and metadata from audio files.
 - [restackio/examples-python](https://github.com/restackio/examples-python) - Restack AI examples for Python
 - [lllyasviel/FramePack](https://github.com/lllyasviel/FramePack) - Lets make video diffusion practical!
 - [skyzh/tiny-llm](https://github.com/skyzh/tiny-llm) - (🚧 WIP) a course of LLM inference serving on Apple Silicon for systems engineers.
@@ -2227,7 +2234,6 @@
 - [s0md3v/uro](https://github.com/s0md3v/uro) - declutters url lists for crawling/pentesting
 - [riramar/h2rs](https://github.com/riramar/h2rs) - Detects request smuggling via HTTP/2 downgrades.
 - [mandiant/capa](https://github.com/mandiant/capa) - The FLARE team's open-source tool to identify capabilities in executable files.
-- [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [AvalZ/RevOK](https://github.com/AvalZ/RevOK) - An HTTP Response fuzzer to find Vulnerabilities in Security Scanners
 - [madhavmehndiratta/dorkScanner](https://github.com/madhavmehndiratta/dorkScanner) - A typical search engine dork scanner scrapes search engines with dorks that you provide in order to find vulnerable URLs.
 - [google/atheris](https://github.com/google/atheris) - 
@@ -2778,6 +2784,8 @@
 
 ## TypeScript 
 
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source, AI-native testing framework for web apps
 - [rowboatlabs/rowboat](https://github.com/rowboatlabs/rowboat) - AI-powered multi-agent builder
 - [ccbrown/cloud-snitch](https://github.com/ccbrown/cloud-snitch) - Map visualization and firewall for AWS activity, inspired by Little Snitch for macOS.
@@ -2792,7 +2800,7 @@
 - [ptcbink/solana-jackpot-game](https://github.com/ptcbink/solana-jackpot-game) - casino project of Tower Jackpot game of Blackjack in Solana network
 - [ahmedkhaleel2004/gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 - [geeknik/token-guardian](https://github.com/geeknik/token-guardian) - Advanced token security, leak prevention and rotation automation for Node.js applications
-- [iBz-04/Seeker](https://github.com/iBz-04/Seeker) - Your personal deep research ai agent, a free & open source alternative to open-ai deep research
+- [iBz-04/Seeker](https://github.com/iBz-04/Seeker) - Your personal deep research ai agent
 - [timqian/bambot](https://github.com/timqian/bambot) - Open source, low-cost AI robots 🤖
 - [akmenon1996/ai-agent-marketplace](https://github.com/akmenon1996/ai-agent-marketplace) - Gen AI agent marketplace
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
