@@ -116,7 +116,7 @@
 
 ## C 
 
-- [neocanable/garlic](https://github.com/neocanable/garlic) - Java decompiler written in C
+- [neocanable/garlic](https://github.com/neocanable/garlic) - Java/Android decompiler written in C
 - [sq5bpf/youpot](https://github.com/sq5bpf/youpot) - Youpot is a novel proxy-back honeypot
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
 - [dexter-xD/project-box](https://github.com/dexter-xD/project-box) - C projects: algorithms, games, and networking
@@ -279,7 +279,6 @@
 
 ## C++ 
 
-- [ruthcc377/FastLED](https://github.com/ruthcc377/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tr
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
@@ -777,6 +776,7 @@
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [tom-barone/discontent](https://github.com/tom-barone/discontent) - Open source browser extension to fight garbage content on the web
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [rascal999/maxos](https://github.com/rascal999/maxos) - Pentest focused NixOS config
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -857,6 +857,7 @@
 - [omairqazi29/pera](https://github.com/omairqazi29/pera) - P.E.R.A. Water Data Collection System
 - [face-hh/darkaroo](https://github.com/face-hh/darkaroo) - A browser extension for getting ads everywhere. Be forced to watch YouTube ads *with your eyes opened*, have popups on every site, scam buttons in random corners, yell words to close ads, and more
 - [anvaka/map-of-github](https://github.com/anvaka/map-of-github) - Inspirational Mapping
+- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 - [fetchfox/fetchfox-extension](https://github.com/fetchfox/fetchfox-extension) - A Chrome extension to extract any data from any website
 - [davidwolfpaw/FetchFox](https://github.com/davidwolfpaw/FetchFox) - FetchFox Curation Collector - Collects metadata of the current page and saves it to browser.storage.local for content curation
@@ -1075,7 +1076,6 @@
 - [wildskyf/ihatecontentfarm](https://github.com/wildskyf/ihatecontentfarm) - a content farm blocker firefox addons transplanted from chrome
 - [mbnuqw/ws-detector](https://github.com/mbnuqw/ws-detector) - Simple WebExtension for detecting ws connection
 - [Leetcore/ninja-hacker-cat](https://github.com/Leetcore/ninja-hacker-cat) - A browser extension to test the most basic security issues.
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [DrSchottky/pwnagotchi](https://github.com/DrSchottky/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -1439,7 +1439,6 @@
 - [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Community guide to securing and improving privacy on macOS.
 - [penk/rasti.computer](https://github.com/penk/rasti.computer) - a retro-futuristic laptop
 - [Mahmoudz/awesome-topics](https://github.com/Mahmoudz/awesome-topics) - Your go-to guide for mastering software engineering.
-- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents) - Generative Agents: Interactive Simulacra of Human Behavior
 - [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM) - Awesome-LLM: a curated list of Large Language Model
 - [EternityYW/Gemini-Commonsense-Evaluation](https://github.com/EternityYW/Gemini-Commonsense-Evaluation) - Official implementation of "Gemini in Reasoning: Unveiling Commonsense in Multimodal Large Language Models"
@@ -1528,7 +1527,7 @@
 ## PHP 
 
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open source user intelligence platform. Monitor, analyze, and protect your web application against cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - Open-source user intelligence platform. Monitor, analyze, and protect your app from cyber and account threats. Get started — free.
 - [symfony/runtime](https://github.com/symfony/runtime) - Enables decoupling PHP applications from global state
 - [geeknik/wordpress](https://github.com/geeknik/wordpress) - A collection of privacy first, zero metadata, securely coded WordPress plugins
 - [geeknik/tf-idf](https://github.com/geeknik/tf-idf) - Code examples for implementing TF-IDF in six different programming languages: Python, Perl, PHP, Golang, Ruby, and Rust.
@@ -1600,8 +1599,9 @@
 
 ## Python 
 
+- [tursomari/machtiani](https://github.com/tursomari/machtiani) - Chat with your code
+- [majidmanzarpour/vibe-blocks-mcp](https://github.com/majidmanzarpour/vibe-blocks-mcp) - Connects Roblox Studio to AI coding editors via the Model Context Protocol (MCP), enabling AI-assisted game development within your Roblox Studio environment.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [soc8qh1uilLynda3gvpbfqi9Garcia/p2pool](https://github.com/soc8qh1uilLynda3gvpbfqi9Garcia/p2pool) - Peer-to-peer Bitcoin mining pool
 - [visresearch/LLaVA-STF](https://github.com/visresearch/LLaVA-STF) - The official implementation of "Learning Compact Vision Tokens for Efficient Large Multimodal Models"
 - [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
 - [deepbeepmeep/Wan2GP](https://github.com/deepbeepmeep/Wan2GP) - Wan 2.1 for the GPU Poor
@@ -1730,7 +1730,6 @@
 - [fabriziosalmi/patterns](https://github.com/fabriziosalmi/patterns) - Automated OWASP CRS and Bad Bot Detection for Nginx, Apache, Traefik and HaProxy
 - [malmeloo/FindMy.py](https://github.com/malmeloo/FindMy.py) - 🍏 + 🎯 + 🐍 = Query Apple's FindMy Network with Python!
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices
-- [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [s0md3v/wappalyzer-next](https://github.com/s0md3v/wappalyzer-next) - wappalyzer alternative based on wappalyzer browser extension
 - [Genesis-Embodied-AI/Genesis](https://github.com/Genesis-Embodied-AI/Genesis) - A generative world for general-purpose robotics & embodied AI learning.
 - [Wolfrax/spots](https://github.com/Wolfrax/spots) - A Python implementation to detect and decode ADS-B and other messages broadcasted on 1090MHz
@@ -1795,7 +1794,7 @@
 - [OpenTalker/SadTalker](https://github.com/OpenTalker/SadTalker) - [CVPR 2023] SadTalker：Learning Realistic 3D Motion Coefficients for Stylized Audio-Driven Single Image Talking Face Animation
 - [Skyvern-AI/skyvern](https://github.com/Skyvern-AI/skyvern) - Automate browser-based workflows with LLMs and Computer Vision
 - [open-mmlab/Amphion](https://github.com/open-mmlab/Amphion) - Amphion (/æmˈfaɪən/) is a toolkit for Audio, Music, and Speech Generation. Its purpose is to support reproducible research and help junior researchers and engineers get started in the field of audio, 
-- [usefulsensors/moonshine](https://github.com/usefulsensors/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
+- [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 - [p0dalirius/pyLootApacheServerStatus](https://github.com/p0dalirius/pyLootApacheServerStatus) - A script to automatically dump all URLs present in /server-status to a file locally.
 - [luo-junyu/SemiEvol](https://github.com/luo-junyu/SemiEvol) - SemiEvol: Semi-supervised Fine-tuning for LLM Adaptation
 - [icip-cas/SSO](https://github.com/icip-cas/SSO) - A scalable automated alignment method for large language models. Resources for "Aligning Large Language Models via Self-Steering Optimization".
@@ -2563,7 +2562,7 @@
 - [warp-tech/warpgate](https://github.com/warp-tech/warpgate) - Smart SSH, HTTPS, MySQL and Postgres bastion/PAM that doesn't need additional client-side software
 - [samuel-vitorino/lm.rs](https://github.com/samuel-vitorino/lm.rs) - Minimal LLM inference in Rust
 - [Fredolx/open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
-- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agentic apps like calling specific tools, routing prompts to the right agents, clarifying vague inputs, unifyin
+- [katanemo/archgw](https://github.com/katanemo/archgw) - The AI-native proxy server for agents. Arch handles the pesky low-level work in building agents like clariyfing vague user input, routing prompts to the right agents and unifying access to any LLM - a
 - [lumina-ai-inc/chunkr](https://github.com/lumina-ai-inc/chunkr) - Vision infrastructure to turn complex documents into RAG/LLM-ready data
 - [vxfemboy/ghostport](https://github.com/vxfemboy/ghostport) - A high-performance port spoofing tool built in Rust. Confuse port scanners with dynamic service emulation across all ports. Features customizable signatures, efficient async handling, and easy traffic
 - [haveibeensquatted/twistrs](https://github.com/haveibeensquatted/twistrs) - A domain name permutation and enumeration library powered by Rust.
@@ -2694,6 +2693,7 @@
 - [choupit0/MassVulScan](https://github.com/choupit0/MassVulScan) - A fast network scanning tool to detect open ports and security vulnerabilities
 - [edoardottt/missing-cve-nuclei-templates](https://github.com/edoardottt/missing-cve-nuclei-templates) - Weekly updated list of missing CVEs in nuclei templates official repository. Mainly built for bug bounty, but useful for penetration tests and vulnerability assessments too.
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
+- [caido/caido](https://github.com/caido/caido) - 🚀 Caido releases, wiki and roadmap
 - [0xPugal/monitor.sh](https://github.com/0xPugal/monitor.sh) - Continuous Reconnaissance and Vulnerability Scanning for Bug Bounties
 - [nitefood/asn](https://github.com/nitefood/asn) - ASN / RPKI validity / BGP stats / IPv4v6 / Prefix / URL / ASPath / Organization / IP reputation / IP geolocation / IP fingerprinting / Network recon / lookup API server / Web traceroute server
 - [MegaManSec/SSH-Snake](https://github.com/MegaManSec/SSH-Snake) - SSH-Snake is a self-propagating, self-replicating, file-less script that automates the post-exploitation task of SSH private key and host discovery.
@@ -2803,7 +2803,7 @@
 - [Lakr233/BBackupp](https://github.com/Lakr233/BBackupp) - Automated iOS Backup Robot
 - [netdcy/FlowVision](https://github.com/netdcy/FlowVision) - Waterfall-style image viewer for macOS, offering a smooth and immersive browsing experience.
 - [johnfairh/RubyGateway](https://github.com/johnfairh/RubyGateway) - Embed Ruby in Swift: load Gems, run scripts, call APIs seamlessly in both directions.
-- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS app without actually installing it!
+- [LiveContainer/LiveContainer](https://github.com/LiveContainer/LiveContainer) - Run iOS apps without actually installing them!
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [Lakr233/NotchDrop](https://github.com/Lakr233/NotchDrop) - Use your MacBook's notch like Dynamic Island for temporary storing files and AirDrop
 - [morishin/XDeck](https://github.com/morishin/XDeck) - An 𝕏 client app for macOS as a TweetDeck (X Pro) alternative.
@@ -2852,6 +2852,7 @@
 
 ## TypeScript 
 
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [joinmarket-webui/jam](https://github.com/joinmarket-webui/jam) - Your sats. Your privacy. Your profit.
 - [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP server providing access to the comprehensive OpenNutrition food database with 300,000+ food items, nutritional data, and barcode lookups.
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq
@@ -2895,7 +2896,7 @@
 - [timqian/bambot](https://github.com/timqian/bambot) - Open source, low-cost AI robots 🤖
 - [akmenon1996/ai-agent-marketplace](https://github.com/akmenon1996/ai-agent-marketplace) - Gen AI agent marketplace
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - One stable, self-healing SDK to build and manage all your data pipelines. Comes with automated schema-drift detection, retries and remappings so your data keeps moving no matter what - no connector ma
+- [superglue-ai/superglue](https://github.com/superglue-ai/superglue) - superglue automates workflows from natural language. Agents use it to build deterministic workflows across apps, APIs and databases. Humans use it to automate complex workflows with just one prompt.
 - [geeknik/Riona-AI-Agent](https://github.com/geeknik/Riona-AI-Agent) - Riona 🌸 is built with Node.js and TypeScript 🛠️. Designed to run jobs 📸 effortlessly. Lightweight, efficient, and a work in progress 🚧—more features coming soon! 🌟
 - [dha-stix/ai-post-generator-and-scheduler-with-copilotkit](https://github.com/dha-stix/ai-post-generator-and-scheduler-with-copilotkit) - 
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
