@@ -978,7 +978,7 @@
 - [nil-two/tcott](https://github.com/nil-two/tcott) - Investigate the context of the tweet
 - [combatwombat/netbeep](https://github.com/combatwombat/netbeep) - Chrome and Firefox extension to play sounds on network requests, depending on request type and file size.
 - [EFForg/privacybadger](https://github.com/EFForg/privacybadger) - Privacy Badger is a browser extension that automatically learns to block invisible trackers.
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [xssdoctor/graphqlMaker](https://github.com/xssdoctor/graphqlMaker) - Finds graphql queries in javascript files
 - [igorlogius/gather-from-tabs](https://github.com/igorlogius/gather-from-tabs) - Gather information from multiple tabs, by using a small snippet of javascript
 - [ali-raheem/AifyFX](https://github.com/ali-raheem/AifyFX) - 
@@ -1599,6 +1599,7 @@
 
 ## Python 
 
+- [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [tursomari/machtiani](https://github.com/tursomari/machtiani) - Chat with your code
 - [majidmanzarpour/vibe-blocks-mcp](https://github.com/majidmanzarpour/vibe-blocks-mcp) - Connects Roblox Studio to AI coding editors via the Model Context Protocol (MCP), enabling AI-assisted game development within your Roblox Studio environment.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -1902,7 +1903,7 @@
 - [cupy/cupy](https://github.com/cupy/cupy) - NumPy & SciPy for GPU
 - [unclecode/crawl4ai](https://github.com/unclecode/crawl4ai) - 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN
 - [rspeer/wordfreq](https://github.com/rspeer/wordfreq) - Access a database of word frequencies, in various natural languages.
-- [chen37058/Physical-Attacks-in-Embodied-Nav](https://github.com/chen37058/Physical-Attacks-in-Embodied-Nav) - The official implementation for "Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation"
+- [chen37058/Physical-Attacks-in-Embodied-Nav](https://github.com/chen37058/Physical-Attacks-in-Embodied-Nav) - The official implementation for "Towards Physically Realizable Adversarial Attacks in Embodied Vision Navigation(IROS 2025)"
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [pseudotensor/open-strawberry](https://github.com/pseudotensor/open-strawberry) - Building open version of OpenAI o1 via reasoning traces (Groq, ollama, Anthropic, Gemini, OpenAI, Azure supported)  Demo: https://huggingface.co/spaces/pseudotensor/open-strawberry
 - [win4r/o1](https://github.com/win4r/o1) - Using Groq or OpenAI or Ollama to create o1-like reasoning chains
