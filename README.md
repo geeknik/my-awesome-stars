@@ -116,6 +116,7 @@
 
 ## C 
 
+- [darktable-org/darktable](https://github.com/darktable-org/darktable) - darktable is an open source photography workflow application and raw developer
 - [neocanable/garlic](https://github.com/neocanable/garlic) - Java/Android decompiler written in C
 - [sq5bpf/youpot](https://github.com/sq5bpf/youpot) - Youpot is a novel proxy-back honeypot
 - [gpac/gpac](https://github.com/gpac/gpac) - GPAC Ultramedia OSS for Video Streaming & Next-Gen Multimedia Transcoding, Packaging & Delivery
@@ -257,7 +258,6 @@
 - [chkr1011/Wirehome.Core](https://github.com/chkr1011/Wirehome.Core) - Wirehome.Core is a home automation system written in C# targeting .NET Core. It runs on Linux, Windows and macOS.
 - [H4NM/WhoYouCalling](https://github.com/H4NM/WhoYouCalling) - Records an executable's network activity into a Full Packet Capture file (.pcap) and much more.
 - [2Retr0/GodotOceanWaves](https://github.com/2Retr0/GodotOceanWaves) - FFT-based ocean-wave rendering, implemented in Godot
-- [MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base](https://github.com/MaelikR/Photon-Fusion-Third-Person-Networked-Game-Base) - This project is a third-person multiplayer game using Unity with Photon Fusion for networking. The game features a third-person controller setup with player movement, camera management using Cinemachi
 - [reecdeep/segugio](https://github.com/reecdeep/segugio) - Segugio allows the execution and tracking of critical steps in the malware detonation process, from clicking on the first stage to extracting the malware's final stage configuration.
 - [Adisol07/ReasoningAI](https://github.com/Adisol07/ReasoningAI) - Open source alternative to OpenAI o1 reasoning model
 - [AElfProject/AElf](https://github.com/AElfProject/AElf) - An AI-enhanced cloud-native layer-1 blockchain network.
@@ -492,6 +492,11 @@
 
 ## Go 
 
+- [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
+- [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
+- [lixiasky/X-ray](https://github.com/lixiasky/X-ray) - A high-privilege behavior tracing and anti-malware tool with ISO comparison and auto-elimination capabilities.
+- [php/frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
+- [charmbracelet/fang](https://github.com/charmbracelet/fang) - The CLI starter kit
 - [yarlson/lnk](https://github.com/yarlson/lnk) - 🔗 Git-native dotfiles management that doesn't suck.
 - [octelium/octelium](https://github.com/octelium/octelium) - A next-gen FOSS self-hosted unified zero trust secure access platform that can operate as a remote access VPN, a ZTNA/BeyondCorp architecture, API/AI gateway, a PaaS, an infrastructure for MCP & A2A a
 - [glanceapp/glance](https://github.com/glanceapp/glance) - A self-hosted dashboard that puts all your feeds in one place
@@ -776,7 +781,6 @@
 - [janraasch/hugo-bearblog](https://github.com/janraasch/hugo-bearblog) - 🧸 A Hugo theme based on »Bear Blog«. Free, no-nonsense, super-fast blogging. This theme now includes a dark color scheme to support dark mode 🦉 ⬛️!
 - [khzg/ChatGPT](https://github.com/khzg/ChatGPT) - Ai Chat everywhere (firefox addons)
 - [tom-barone/discontent](https://github.com/tom-barone/discontent) - Open source browser extension to fight garbage content on the web
-- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [rascal999/maxos](https://github.com/rascal999/maxos) - Pentest focused NixOS config
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
@@ -838,6 +842,7 @@
 
 ## JavaScript 
 
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style.
 - [hodgesmr/milchick](https://github.com/hodgesmr/milchick) - Firefox add-on that turns highlighted text into plain English with one right-click using OpenAI GPT.
 - [mozilla-firefox/firefox](https://github.com/mozilla-firefox/firefox) - The official repository of Mozilla's Firefox web browser.
 - [Coding-Solo/godot-mcp](https://github.com/Coding-Solo/godot-mcp) - MCP server for interfacing with Godot game engine. Provides tools for launching the editor, running projects, and capturing debug output.
@@ -1076,6 +1081,7 @@
 - [wildskyf/ihatecontentfarm](https://github.com/wildskyf/ihatecontentfarm) - a content farm blocker firefox addons transplanted from chrome
 - [mbnuqw/ws-detector](https://github.com/mbnuqw/ws-detector) - Simple WebExtension for detecting ws connection
 - [Leetcore/ninja-hacker-cat](https://github.com/Leetcore/ninja-hacker-cat) - A browser extension to test the most basic security issues.
+- [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 - [ai-shifu/ChatALL](https://github.com/ai-shifu/ChatALL) - Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
 - [ChatGPTBox-dev/chatGPTBox](https://github.com/ChatGPTBox-dev/chatGPTBox) - Integrating ChatGPT into your browser deeply, everything you need is here
 - [DrSchottky/pwnagotchi](https://github.com/DrSchottky/pwnagotchi) - (⌐■_■) - Deep Reinforcement Learning instrumenting bettercap for WiFi pwning.
@@ -1189,6 +1195,8 @@
 
 ## Jupyter Notebook 
 
+- [Neuralk-AI/TabBench](https://github.com/Neuralk-AI/TabBench) - A Tabular Machine Learning Benchmark for Industrial Tasks
+- [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-w
 - [ByteDance-Seed/Seed1.5-VL](https://github.com/ByteDance-Seed/Seed1.5-VL) - Seed1.5-VL, a vision-language foundation model designed to advance general-purpose multimodal understanding and reasoning, achieving state-of-the-art performance on 38 out of 60 public benchmarks.
 - [sam-paech/slop-forensics](https://github.com/sam-paech/slop-forensics) - 
 - [FareedKhan-dev/all-rl-algorithms](https://github.com/FareedKhan-dev/all-rl-algorithms) - Implementation of all RL algorithms in a simpler way
@@ -1298,6 +1306,9 @@
 
 ## Others 
 
+- [TheDesignFounder/DreamLayer](https://github.com/TheDesignFounder/DreamLayer) - Most intuitive Stable Diffusion WebUI for AI artists, developers & researchers
+- [mlabonne/llm-datasets](https://github.com/mlabonne/llm-datasets) - Curated list of datasets and tools for post-training.
+- [derek-opdee/subagent-example-script](https://github.com/derek-opdee/subagent-example-script) - Claude Sub Agent Test Generator Command
 - [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev in Cursor
 - [jexpump/PiLiquidity](https://github.com/jexpump/PiLiquidity) - A decentralized liquidity platform on Pi Network.
@@ -1386,7 +1397,7 @@
 - [aishwaryanr/awesome-generative-ai-guide](https://github.com/aishwaryanr/awesome-generative-ai-guide) - A one stop repository for generative AI research updates, interview resources, notebooks and much more!
 - [advancedresearch/the_century_of_satire](https://github.com/advancedresearch/the_century_of_satire) - Reconstructing 2nd century cultural literature context of Roman satire in Early Christianity texts
 - [PicartaAI/Picarta-API](https://github.com/PicartaAI/Picarta-API) - Picarta AI Image Geolocalization API.
-- [getcursor/cursor](https://github.com/getcursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
 - [NeoVertex1/SuperPrompt](https://github.com/NeoVertex1/SuperPrompt) - SuperPrompt is an attempt to engineer prompts that might help us understand AI agents.
 - [NousResearch/DisTrO](https://github.com/NousResearch/DisTrO) - Distributed Training Over-The-Internet
 - [JUSTSUJAY/ML-Research-Papers](https://github.com/JUSTSUJAY/ML-Research-Papers) - 
@@ -1599,6 +1610,9 @@
 
 ## Python 
 
+- [MiniMax-AI/MiniMax-M1](https://github.com/MiniMax-AI/MiniMax-M1) - MiniMax-M1, the world's first open-weight, large-scale hybrid-attention reasoning model.
+- [OPTML-Group/Unlearn-Trace](https://github.com/OPTML-Group/Unlearn-Trace) - Unlearning Isn't Invisible: Detecting Unlearning Traces  in LLMs from Model Outputs
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne) - Credentials recovery project
 - [tursomari/machtiani](https://github.com/tursomari/machtiani) - Chat with your code
 - [majidmanzarpour/vibe-blocks-mcp](https://github.com/majidmanzarpour/vibe-blocks-mcp) - Connects Roblox Studio to AI coding editors via the Model Context Protocol (MCP), enabling AI-assisted game development within your Roblox Studio environment.
@@ -2188,7 +2202,6 @@
 - [notAI-tech/NudeNet](https://github.com/notAI-tech/NudeNet) - Lightweight nudity detection
 - [amirzenoozi/nsfw-classification](https://github.com/amirzenoozi/nsfw-classification) - A Simple NSFW Classifier Based on Keras and Tensorflow
 - [xaitax/SploitScan](https://github.com/xaitax/SploitScan) - SploitScan is a sophisticated cybersecurity utility designed to provide detailed information on vulnerabilities and associated exploits.
-- [tcosolutions/betterscan](https://github.com/tcosolutions/betterscan) - Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners with One Report (Code, IaC) - Betterscan
 - [ReversecLabs/damn-vulnerable-llm-agent](https://github.com/ReversecLabs/damn-vulnerable-llm-agent) - 
 - [flipkart-incubator/watchdog](https://github.com/flipkart-incubator/watchdog) - Watchdog - A Comprehensive Security Scanning and a Vulnerability Management Tool.
 - [IdreesInc/Monocraft](https://github.com/IdreesInc/Monocraft) - A monospaced programming font inspired by the Minecraft typeface
@@ -2477,6 +2490,7 @@
 
 ## Ruby 
 
+- [czhu12/canine](https://github.com/czhu12/canine) - Power of Kubernetes, Simplicity of Heroku
 - [nagstler/mcp_on_ruby](https://github.com/nagstler/mcp_on_ruby) - 💎 A Ruby implementation of the Model Context Protocol
 - [trailofbits/ruzzy](https://github.com/trailofbits/ruzzy) - A coverage-guided fuzzer for pure Ruby code and Ruby C extensions
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
@@ -2513,6 +2527,7 @@
 - [geeknik/citadel-browser](https://github.com/geeknik/citadel-browser) - A from-scratch browser engine engineered to obliterate tracking, crush fingerprinting, and restore user sovereignty with extreme technical precision.
 - [agourlay/zip-password-finder](https://github.com/agourlay/zip-password-finder) - Find the password of protected ZIP files.
 - [zarkones/OnionC2](https://github.com/zarkones/OnionC2) - C2 writen in Rust & Go powered by Tor network.
+- [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [antinomyhq/forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [geeknik/rustcat](https://github.com/geeknik/rustcat) - A MacOS-Only, Rust-Based, Fast-as-Hell Native Debugger
 - [PetraProver/PetraVM](https://github.com/PetraProver/PetraVM) - A verifiable supercomputer
@@ -2525,7 +2540,7 @@
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [Hawzen/hdp](https://github.com/Hawzen/hdp) - What would happen if we didn't use TCP or UDP?
-- [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho is a plugin that lets you interact with local LLMs in the Godot game engine, with more plugins in development.
+- [nobodywho-ooo/nobodywho](https://github.com/nobodywho-ooo/nobodywho) - NobodyWho is a plugin that lets you interact with local LLMs, we currently support Godot and Unity, with even more plugins on their way.
 - [kunai-project/kunai](https://github.com/kunai-project/kunai) - Threat-hunting tool for Linux
 - [getAsterisk/deepclaude](https://github.com/getAsterisk/deepclaude) - A high-performance LLM inference API and Chat UI that integrates DeepSeek R1's CoT reasoning traces with Anthropic Claude models.
 - [duckysmacky/databoxer](https://github.com/duckysmacky/databoxer) - Fast and easy to use CLI-based file encryption program 📦
@@ -2650,6 +2665,7 @@
 
 ## Shell 
 
+- [nxtscape/nxtscape](https://github.com/nxtscape/nxtscape) - Nxtscape is an open-source agentic browser.
 - [nalgeon/sandboxes](https://github.com/nalgeon/sandboxes) - Sandboxes for running code and tools
 - [darkresearch/solana-mcp](https://github.com/darkresearch/solana-mcp) - A Model Context Protocol server for interacting with the Solana blockchain, powered by the Solana Agent Kit (https://github.com/sendaifun/solana-agent-kit)
 - [sgxgsx/BlueToolkit](https://github.com/sgxgsx/BlueToolkit) - BlueToolkit is an extensible Bluetooth Classic vulnerability testing framework that helps uncover new and old vulnerabilities in Bluetooth-enabled devices. Could be used in the vulnerability research,
@@ -2686,7 +2702,7 @@
 - [veggiedefender/open-and-shut](https://github.com/veggiedefender/open-and-shut) - Type in Morse code by repeatedly slamming your laptop shut
 - [aforensics/HiddenVM](https://github.com/aforensics/HiddenVM) - HiddenVM — Use any desktop OS without leaving a trace.
 - [1N3/Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
-- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install and run your own AI agent service
+- [GaiaNet-AI/gaianet-node](https://github.com/GaiaNet-AI/gaianet-node) - Install, run and deploy your own decentralized AI agent service
 - [CERN-CERT/pDNSSOC](https://github.com/CERN-CERT/pDNSSOC) - Leveraging MISP indicators via a pDNS-based infrastructure as a poor man’s SOC.
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/windows-arm](https://github.com/dockur/windows-arm) - Windows for ARM in a Docker container.
@@ -2853,9 +2869,16 @@
 
 ## TypeScript 
 
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
+- [Nutlope/self.so](https://github.com/Nutlope/self.so) - LinkedIn -&gt; personal site generator
+- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [getAsterisk/claudia](https://github.com/getAsterisk/claudia) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
+- [sst/opencode](https://github.com/sst/opencode) - AI coding agent, built for the terminal.
+- [geeknik/map-think-do](https://github.com/geeknik/map-think-do) - A code reasoning MCP server, a fork of seq-think-code, a fork of sequential-thinking
+- [MattMagg/seq-think-code](https://github.com/MattMagg/seq-think-code) - A code reasoning MCP server, a fork of sequential-thinking
 - [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
 - [joinmarket-webui/jam](https://github.com/joinmarket-webui/jam) - Your sats. Your privacy. Your profit.
-- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP server providing access to the comprehensive OpenNutrition food database with 300,000+ food items, nutritional data, and barcode lookups.
+- [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP server providing access to the comprehensive OpenNutrition food database with 300,000+ food items, nutritional data, and barcode lookups
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We're a superset of Roo, Cline, and our own features. Follow us: kilocode.ai/social
 - [vstabile/texstr](https://github.com/vstabile/texstr) - Mathematical Discourse on Nostr
@@ -2866,7 +2889,6 @@
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [SecFathy/sectracker](https://github.com/SecFathy/sectracker) - A Modern Bug Bounty and Security Research Management Platform
 - [microsoft/AI-Red-Teaming-Playground-Labs](https://github.com/microsoft/AI-Red-Teaming-Playground-Labs) - AI Red Teaming playground labs to run AI Red Teaming trainings including infrastructure.
-- [smallcloudai/refact](https://github.com/smallcloudai/refact) - AI Agent that handles engineering tasks end-to-end: integrates with developers’ tools, plans, executes, and iterates until it achieves a successful result.
 - [iib0011/omni-tools](https://github.com/iib0011/omni-tools) - Self-hosted collection of powerful web-based tools for everyday tasks. No ads, no tracking, just fast, accessible utilities right from your browser!
 - [iannuttall/mcp-boilerplate](https://github.com/iannuttall/mcp-boilerplate) - A remote Cloudflare MCP server boilerplate with user authentication and Stripe for paid tools.
 - [badboysm890/ClaraVerse](https://github.com/badboysm890/ClaraVerse) - Clara — Privacy-first, fully local AI workspace with Ollama LLM chat, tool calling, agent builder, Stable Diffusion, and embedded n8n-style automation. No backend. No API keys. Just your stack, your m
