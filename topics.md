@@ -286,6 +286,7 @@
 - [withneural/neuralagent](https://github.com/withneural/neuralagent) - The AI Agent That Lives On Your Desktop And Uses It Like You Do!
 - [github/awesome-copilot](https://github.com/github/awesome-copilot) - Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot.
 - [Dimillian/FoundationChat](https://github.com/Dimillian/FoundationChat) - A chat app with iOS 26 Foundation Models
+- [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [Ganador1/FenixAI_tradingBot](https://github.com/Ganador1/FenixAI_tradingBot) - Fenix Ai Trading Bot with crew ai and ollama
 - [stacklok/toolhive](https://github.com/stacklok/toolhive) - ToolHive makes deploying MCP servers easy, secure and fun
 - [GoogleCloudPlatform/kubectl-ai](https://github.com/GoogleCloudPlatform/kubectl-ai) - AI powered Kubernetes Assistant
@@ -3722,7 +3723,7 @@
 - [MiroMindAI/MiroTrain](https://github.com/MiroMindAI/MiroTrain) - MiroTrain is an efficient and algorithm-first framework for post-training large agentic models.
 - [MiroMindAI/MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroFlow is an agent framework that simplifies the development of complex, multi-agent systems. Build, manage, and scale your AI agents with ease.
 - [MiroMindAI/MiroRL](https://github.com/MiroMindAI/MiroRL) - MiroRL is  an MCP-first reinforcement learning framework for deep research agent.
-- [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera modls
+- [wltechblog/thingino-installers](https://github.com/wltechblog/thingino-installers) - Files and tools for installing Thingino firmware on different camera models
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [akanazawa/fpo](https://github.com/akanazawa/fpo) - Implementation of Flow Policy Optimization (FPO)
 - [ThalesGroup/dd-honeypot](https://github.com/ThalesGroup/dd-honeypot) - Data Driven AI-based Honeypot
