@@ -293,7 +293,7 @@
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Cross-platform framework for deploying LLM/VLM/TTS models locally on smartphones.
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [coinbase/cb-mpc](https://github.com/coinbase/cb-mpc) - Coinbase MPC Library
 - [flareteam/flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
@@ -810,7 +810,7 @@
 - [yogeshojha/rengine](https://github.com/yogeshojha/rengine) - reNgine is an automated reconnaissance framework for web applications with a focus on highly configurable streamlined recon process via Engines, recon data correlation and organization, continuous mon
 - [tabler/tabler](https://github.com/tabler/tabler) - Tabler is free and open-source HTML Dashboard UI Kit built on Bootstrap
 - [adamchandra/open-meta-extraction](https://github.com/adamchandra/open-meta-extraction) - 
-- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - DevSecOps, ASPM, Vulnerability Management. All on one platform.
+- [DefectDojo/django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) - Open-Source Unified Vulnerability Management, DevSecOps & ASPM
 - [projectdiscovery/nuclei-docs](https://github.com/projectdiscovery/nuclei-docs) - Nuclei documentation
 - [wreet/domnom](https://github.com/wreet/domnom) - a simple dynamic fuzzer for the DOM
 - [roddux/rucss](https://github.com/roddux/rucss) - CSS fuzzer
@@ -1355,7 +1355,7 @@
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [jexpump/PiLiquidity](https://github.com/jexpump/PiLiquidity) - A decentralized liquidity platform on Pi Network.
 - [JhCircle/Awesome-LLM-Empathy](https://github.com/JhCircle/Awesome-LLM-Empathy) - Papers list of empathy in LMs: theory, modeling, systems, emotion, evaluation.
-- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
+- [HKUST-KnowComp/Awesome-LLM-Scientific-Discovery](https://github.com/HKUST-KnowComp/Awesome-LLM-Scientific-Discovery) - [EMNLP2025] From Automation to Autonomy: A Survey on Large Language Models in Scientific Discovery
 - [TheRobotStudio/SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [geeknik/godel-liberation-license](https://github.com/geeknik/godel-liberation-license) - “Recursive adversarial logic engine breaching formal systems to extract unprovable truths from Gödel’s shadow.”
@@ -1651,6 +1651,8 @@
 
 ## Python 
 
+- [theckid/RadioTranscriptor](https://github.com/theckid/RadioTranscriptor) - A voice transcriptor for SDR
+- [mlop-ai/mlop](https://github.com/mlop-ai/mlop) - Next Generation Experimental Tracking for Machine Learning Operations
 - [Mega4alik/ollm](https://github.com/Mega4alik/ollm) - 
 - [evalops/cognitive-dissonance-dspy](https://github.com/evalops/cognitive-dissonance-dspy) - A multi-agent LLM system for detecting and resolving cognitive dissonance.
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
@@ -1669,7 +1671,7 @@
 - [roboflow/supervision](https://github.com/roboflow/supervision) - We write your reusable computer vision tools. 💜
 - [Wan-Video/Wan2.2](https://github.com/Wan-Video/Wan2.2) - Wan: Open and Advanced Large-Scale Video Generative Models
 - [ThalesGroup/dd-honeypot](https://github.com/ThalesGroup/dd-honeypot) - Data Driven AI-based Honeypot
-- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & Agno integration)
+- [oraios/serena](https://github.com/oraios/serena) - A powerful coding agent toolkit providing semantic retrieval and editing capabilities (MCP server & other integrations)
 - [Secrover/Secrover](https://github.com/Secrover/Secrover) - Open-source security reports — no paywalls, just actionable insights.
 - [langflow-ai/langflow](https://github.com/langflow-ai/langflow) - Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
@@ -1678,7 +1680,6 @@
 - [almandin/fuxploider](https://github.com/almandin/fuxploider) - File upload vulnerability scanner and exploitation tool.
 - [deepakb41/Finbot](https://github.com/deepakb41/Finbot) - Finbot is an AI-powered financial chatbot designed to analyse and provide insights on corporate financial performance from 10-K and 10-Q financial documents. This tool leverages langchain and RAG to m
 - [sarthakrastogi/rival](https://github.com/sarthakrastogi/rival) - 
-- [withneural/neuralagent](https://github.com/withneural/neuralagent) - The AI Agent That Lives On Your Desktop And Uses It Like You Do!
 - [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
 - [iteebz/cogency](https://github.com/iteebz/cogency) - Reasoning engine for adaptive agents
 - [allenai/pixmo-docs](https://github.com/allenai/pixmo-docs) - ACL 2025: Synthetic data generation pipelines for text-rich images.
@@ -1902,6 +1903,7 @@
 - [mandatoryprogrammer/xcname](https://github.com/mandatoryprogrammer/xcname) - A tool for enumerating expired domains in CNAME records
 - [samyk/rflasermic](https://github.com/samyk/rflasermic) - RF-modulated high fidelity laser microphone and keystroke sniffer
 - [ctrlsam/rigour](https://github.com/ctrlsam/rigour) - A rigorous IoT scanner based on Shodan.io
+- [iamunixtz/JSNinja](https://github.com/iamunixtz/JSNinja) - JSNinja is a powerful tool designed for security researchers and developers looking to extract sensitive information and Urls from JavaScript files.
 - [AresValley/Artemis](https://github.com/AresValley/Artemis) - Radio Signals Recognition Manual
 - [sebastianruder/NLP-progress](https://github.com/sebastianruder/NLP-progress) - Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.
 - [explosion/spaCy](https://github.com/explosion/spaCy) - 💫 Industrial-strength Natural Language Processing (NLP) in Python
@@ -2603,6 +2605,7 @@
 
 ## Rust 
 
+- [David-OConnor/daedalus](https://github.com/David-OConnor/daedalus) - Protein and molecule viewer
 - [luminal-ai/luminal](https://github.com/luminal-ai/luminal) - Deep learning at the speed of light.
 - [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester
 - [vladkens/macmon](https://github.com/vladkens/macmon) - 🦀⚙️ Sudoless performance monitoring for Apple Silicon processors. CPU / GPU / RAM usage, power consumption & temperature 🌡️
@@ -2981,7 +2984,7 @@
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [getAsterisk/opcode](https://github.com/getAsterisk/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [geeknik/map-think-do](https://github.com/geeknik/map-think-do) - A code reasoning MCP server, a fork of seq-think-code, a fork of sequential-thinking
-- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev engine. Join discord: https://lingo.dev/go/discord
+- [lingodotdev/lingo.dev](https://github.com/lingodotdev/lingo.dev) - ⚡ Lingo.dev - open-source, AI-powered i18n toolkit for instant localization with LLMs. Bring your own LLM or use Lingo.dev Translation Engine. Join discord:
 - [joinmarket-webui/jam](https://github.com/joinmarket-webui/jam) - Your sats. Your privacy. Your profit.
 - [deadletterq/mcp-opennutrition](https://github.com/deadletterq/mcp-opennutrition) - MCP server providing access to the comprehensive OpenNutrition food database with 300,000+ food items, nutritional data, and barcode lookups
 - [good-lly/s3mini](https://github.com/good-lly/s3mini) - 👶 Tiny S3 client. Edge computing ready. No-dep. In Typescript. Works with @cloudflare @minio @backblaze @digitalocean @garagehq @oracle
@@ -3003,7 +3006,7 @@
 - [TanStack/db](https://github.com/TanStack/db) - A reactive client store for building super fast apps
 - [voideditor/void](https://github.com/voideditor/void) - 
 - [weise25/LocalSite-ai](https://github.com/weise25/LocalSite-ai) - Generate Web Pages and Components with text prompts, with Local Models. (or Cloud Models, if you want) - now supports Thinking Models!
-- [simstudioai/sim](https://github.com/simstudioai/sim) - Sim is an open-source AI agent workflow builder. Sim's interface is a lightweight, intuitive way to rapidly build and deploy LLMs that connect with your favorite tools.
+- [simstudioai/sim](https://github.com/simstudioai/sim) - Open-source platform to build and deploy AI agent workflows.
 - [cyproxio/mcp-for-security](https://github.com/cyproxio/mcp-for-security) - MCP for Security: A collection of Model Context Protocol servers for popular security tools like SQLMap, FFUF, NMAP, Masscan and more. Integrate security testing and penetration testing into AI workfl
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
 - [kortix-ai/suna](https://github.com/kortix-ai/suna) - Kortix – build, manage and train AI Agents. Fully Open Source.
@@ -3042,7 +3045,7 @@
 - [coinbase/agentkit](https://github.com/coinbase/agentkit) - Every AI Agent deserves a wallet.
 - [ax-llm/ax](https://github.com/ax-llm/ax) - The pretty much "official" DSPy framework for Typescript
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
-- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-sourced Multimodal AI Agent Stack connecting Cutting-edge AI Models and Agent Infra.
+- [bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra
 - [lmstudio-ai/lms](https://github.com/lmstudio-ai/lms) - LM Studio CLI
 - [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) - Context management for long-context LLMs, agents, and vibe coding. Instantly build context for an entire repo, selected files, folders, and GitHub issues to generate structured AI-XML context with rea
 - [langchain-ai/social-media-agent](https://github.com/langchain-ai/social-media-agent) - 📲 An agent for sourcing, curating, and scheduling social media posts with human-in-the-loop.
@@ -3064,7 +3067,7 @@
 - [geeknik/time-travel-trekker](https://github.com/geeknik/time-travel-trekker) - Cosmic time explorer
 - [callstackincubator/fabrice-ai](https://github.com/callstackincubator/fabrice-ai) - A lightweight, functional, and composable framework for building AI agents. No PhD required.
 - [geeknik/bytebeat-o-rama](https://github.com/geeknik/bytebeat-o-rama) - 
-- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser instance that lets you automate the web without worrying about infrastructure.
+- [steel-dev/steel-browser](https://github.com/steel-dev/steel-browser) - 🔥 Open Source Browser API for AI Agents & Apps. Steel Browser is a batteries-included browser sandbox that lets you automate the web without worrying about infrastructure.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [callstackincubator/cali](https://github.com/callstackincubator/cali) - AI agent for building React Native apps
@@ -3089,7 +3092,6 @@
 - [microsoft/data-formulator](https://github.com/microsoft/data-formulator) - 🪄 Create rich visualizations with AI
 - [elder-plinius/anthropic-quickstarts](https://github.com/elder-plinius/anthropic-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Anthropic API
 - [cfahlgren1/qwen-2.5-code-interpreter](https://github.com/cfahlgren1/qwen-2.5-code-interpreter) - Qwen 2.5 Coder 1.5B with Code Interpreter
-- [iamunixtz/JSNinja](https://github.com/iamunixtz/JSNinja) - JSNinja is a powerful tool designed for security researchers and developers looking to extract sensitive information and Urls from JavaScript files.
 - [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
 - [browserbase/BrowseGPT](https://github.com/browserbase/BrowseGPT) - Chat interface that searches the web for you real-time
 - [hcengineering/platform](https://github.com/hcengineering/platform) - Huly — All-in-One Project Management Platform (alternative to Linear, Jira, Slack, Notion, Motion)
