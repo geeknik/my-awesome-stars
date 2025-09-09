@@ -294,7 +294,7 @@
 - [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 - [PrimeIntellect-ai/pccl](https://github.com/PrimeIntellect-ai/pccl) - PCCL (Prime Collective Communications Library) implements fault tolerant collective communications over IP
 - [es3n1n/defendnot](https://github.com/es3n1n/defendnot) - An even funnier way to disable windows defender. (through WSC api)
-- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones, wearables and AI-native hardware
+- [cactus-compute/cactus](https://github.com/cactus-compute/cactus) - Run AI locally on phones and AI-native devices
 - [ericjenott/Evertop](https://github.com/ericjenott/Evertop) - E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life.
 - [coinbase/cb-mpc](https://github.com/coinbase/cb-mpc) - Coinbase MPC Library
 - [flareteam/flare-engine](https://github.com/flareteam/flare-engine) - Free/Libre Action Roleplaying Engine (engine only)
@@ -507,6 +507,7 @@
 
 ## Go 
 
+- [digitalocean-labs/mcp-digitalocean](https://github.com/digitalocean-labs/mcp-digitalocean) - MCP DigitalOcean Integration
 - [CalmoAI/mcp-server-signoz](https://github.com/CalmoAI/mcp-server-signoz) - Signoz MCP Server - Golang
 - [praetorian-inc/turnt](https://github.com/praetorian-inc/turnt) - A tool designed for smuggling interactive command and control traffic through legitimate TURN servers hosted by reputable providers such as Zoom.
 - [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
@@ -840,7 +841,7 @@
 - [freedomotic/freedomotic](https://github.com/freedomotic/freedomotic) - Open IoT Framework
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [Winds-Studio/Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
-- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 800+ plugins for data, infrastructure, and AI automation.
+- [kestra-io/kestra](https://github.com/kestra-io/kestra) - :zap: Universal Workflow Orchestration Platform — Code in any language, run anywhere. 900+ plugins for data, infrastructure, and AI automation.
 - [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator
 - [haveno-dex/haveno](https://github.com/haveno-dex/haveno) - Decentralized P2P exchange platform built on Monero and Tor
@@ -1361,7 +1362,7 @@
 - [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts) - Collection of leaked system prompts
 - [geeknik/godel-liberation-license](https://github.com/geeknik/godel-liberation-license) - “Recursive adversarial logic engine breaching formal systems to extract unprovable truths from Gödel’s shadow.”
 - [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN) - ChatGPT DAN, Jailbreaks prompt
-- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - AI SYSTEMS TRANSPARENCY FOR ALL! - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, WINDSURF, DEVIN, REPLIT, AND MORE!
+- [elder-plinius/CL4R1T4S](https://github.com/elder-plinius/CL4R1T4S) - LEAKED SYSTEM PROMPTS FOR CHATGPT, GEMINI, GROK, CLAUDE, PERPLEXITY, CURSOR, DEVIN, REPLIT, AND MORE! - AI SYSTEMS TRANSPARENCY FOR ALL!
 - [CVEProject/cvelistV5](https://github.com/CVEProject/cvelistV5) - CVE cache of the official CVE List in CVE JSON 5 format
 - [SecretiveShell/Awesome-llms-txt](https://github.com/SecretiveShell/Awesome-llms-txt) - This list contains an index of llms.txt files hosted on various websites.
 - [az0mb13/awesome-solana-security](https://github.com/az0mb13/awesome-solana-security) - A curated list of awesome Solana security resources
@@ -1579,7 +1580,7 @@
 ## PHP 
 
 - [pixelfed/pixelfed](https://github.com/pixelfed/pixelfed) - Photo Sharing. For Everyone.
-- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your platform from cyberfraud, account threats, and abuse. Get started — free.
+- [tirrenotechnologies/tirreno](https://github.com/tirrenotechnologies/tirreno) - tirreno - Open Source Security Analytics. Understand, monitor, and protect your app from cyber threats, account threats, and abuse. Get started — free.
 - [symfony/runtime](https://github.com/symfony/runtime) - Enables decoupling PHP applications from global state
 - [geeknik/wordpress](https://github.com/geeknik/wordpress) - A collection of privacy first, zero metadata, securely coded WordPress plugins
 - [geeknik/tf-idf](https://github.com/geeknik/tf-idf) - Code examples for implementing TF-IDF in six different programming languages: Python, Perl, PHP, Golang, Ruby, and Rust.
@@ -1652,6 +1653,8 @@
 
 ## Python 
 
+- [TheAuditorTool/Auditor](https://github.com/TheAuditorTool/Auditor) - Antidote to VibeCoding
+- [google/langextract](https://github.com/google/langextract) - A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization.
 - [ericescobar/MeshC2](https://github.com/ericescobar/MeshC2) - 
 - [pwnfuzz/diffrays](https://github.com/pwnfuzz/diffrays) - DiffRays is a research-oriented tool for binary patch diffing, designed to aid in vulnerability research, exploit development, and reverse engineering.
 - [Danau5tin/multi-agent-coding-system](https://github.com/Danau5tin/multi-agent-coding-system) - Reached #13 on Stanford's Terminal Bench leaderboard. Orchestrator, explorer & coder agents working together with intelligent context sharing.
